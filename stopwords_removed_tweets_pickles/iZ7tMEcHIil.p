@@ -1,0 +1,15 @@
+(dp0
+S'2014_28'
+p1
+(lp2
+S'follow4follow\xe2\x9c\x8c\xef\xb8\x8f\xe2\x9c\x8c\xef\xb8\x8f'
+p3
+aS'follow4follow'
+p4
+aS'\xf0\x9f\x8d\x80mgwv \xf0\x9f\x8d\x80followtrick \xf0\x9f\x8d\x80teamfollowback \xf0\x9f\x8d\x80anotherfollowtrain \xf0\x9f\x8d\x80follow'
+p5
+aS'quickly'
+p6
+aS'follow4follow any1'
+p7
+as.

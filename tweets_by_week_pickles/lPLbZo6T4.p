@@ -1,0 +1,6049 @@
+(dp0
+S'2013_42'
+p1
+(lp2
+S'this lady boob is on my back \xf0\x9f\x98\xa9\xf0\x9f\x98\x95'
+p3
+aS'\xf0\x9f\x91\xab\xf0\x9f\x92\x95  dim'
+p4
+aS'lauren hills  gives me sooo much life \xf0\x9f\x98\x8d'
+p5
+aS'unforgettable weekend \xf0\x9f\x98\x82'
+p6
+aS'this weekend was just \xf0\x9f\x92\xaf'
+p7
+aS'i wanted to go to the asylum \xf0\x9f\x98\xa9'
+p8
+aS'we was jiggn amp tiana amp jordan was killing my poor feet\xf0\x9f\x98\xa9\xf0\x9f\x98\x82'
+p9
+aS'im sooooooooo upset \xf0\x9f\x98\x82'
+p10
+aS'\xf0\x9f\x98\x82 like i could have bought a gram with that money '
+p11
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 13 gates a piece of shit fr'
+p12
+aS'the 13 gate tonight \xf0\x9f\x98\x8d\xf0\x9f\x98\x82'
+p13
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 tiana told her mama she had that dick look '
+p14
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82yall got that october 18'
+p15
+aS'wiz khalifa type \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x8d'
+p16
+aS'\xf0\x9f\x92\xaf bruhhhhhhhhhhh'
+p17
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 its only 1042 amp it fell like 100 in the morning '
+p18
+aS'i really fucks with slim dude \xf0\x9f\x92\xaf'
+p19
+aS'we loaded \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x8d'
+p20
+aS'tonight tho \xf0\x9f\x98\x8dgtgtgt'
+p21
+aS'i calling child protective services  my parents are starving me \xf0\x9f\x98\x95'
+p22
+aS'im sooooo hungry \xf0\x9f\x98\x95'
+p23
+aS'\xf0\x9f\x94\xa4 \xf0\x9f\x8e\xbc\xf0\x9f\x91\xab\xf0\x9f\x94\xa41\xe2\x83\xa32\xe2\x83\xa33\xe2\x83\xa3  yall know this song'
+p24
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 my phone know what school i got to \xf0\x9f\x98\x90'
+p25
+aS'im hungry af'
+p26
+aS'what yall doing today '
+p27
+aS'blahhhhhhhhhhh\xf0\x9f\x92\x95'
+p28
+aS'hey  goodmorning '
+p29
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 fuck all yall '
+p30
+aS'\xf0\x9f\x98\x92\xf0\x9f\x8c\xb5\xf0\x9f\x8c\xb5\xf0\x9f\x8c\xb5\xf0\x9f\x8c\xb5\xf0\x9f\x8c\xb5'
+p31
+aS'i gotta lose weight first since i look like a baby chick \xf0\x9f\x98\x82\xf0\x9f\x98\x92'
+p32
+aS'when my grandmother give me wet kisses i be like ewwwww but i lowkey love them\xf0\x9f\x98\x8a'
+p33
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 yall watch this '
+p34
+aS'you do realize we dont take pictures together  \xf0\x9f\x98\x92'
+p35
+aS'we look a like '
+p36
+aS'buying my  delvalle studios  shirt tomorrow \xf0\x9f\x98\x8d'
+p37
+aS'time is running out  my mind is running away '
+p38
+aS'i hate how girls try to act like tumblr post \xf0\x9f\x98\x82\xe2\x9c\x8b'
+p39
+aS'when i use to go to star hill church gtgt'
+p40
+aS'i should have dyed my hair black \xf0\x9f\x98\x92'
+p41
+aS'\xf0\x9f\x98\xa9 i had thought but \xf0\x9f\x98\x82 nvm then'
+p42
+aS'cousin keyona \xf0\x9f\x92\x95'
+p43
+aS'its the nose  isnt it '
+p44
+aS'tbt cousinnn know love \xf0\x9f\x92\x95'
+p45
+aS'girls are starting to look the same same weave same clothes same ass same man same lack of morals and di\xe2\x80\xa6'
+p46
+aS'\xf0\x9f\x98\x82 i had thought '
+p47
+aS'\xf0\x9f\x91\x80 yall we look alike '
+p48
+aS'dont confuse me being a hater  with me just not likening you \xf0\x9f\x91\x90'
+p49
+aS'girl  you so easy a caveman could do it \xf0\x9f\x98\x82'
+p50
+aS'tomorrow  slim coming over \xf0\x9f\x98\xab\xf0\x9f\x99\x8c'
+p51
+aS'law amp order \xf0\x9f\x92\xa5\xf0\x9f\x99\x8c'
+p52
+aS'somebody throw a chill ass house party '
+p53
+aS'people who smack ltltltltltltltltlt'
+p54
+aS'what poping tomorrow  '
+p55
+aS'for now own  imma be my own bestfriend \xe2\x9c\x8a'
+p56
+aS'if you could facetime more than one person \xf0\x9f\x98\xa9gtgt'
+p57
+aS'facetime me \xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9'
+p58
+aS'facetime me \xf0\x9f\x98\xa9'
+p59
+aS'i hate when people  tell me how im felling \xf0\x9f\x98\x92'
+p60
+aS'tgit '
+p61
+aS'i used to wanna be a cheetah girl'
+p62
+aS'i made a mouse family \xf0\x9f\x98\x95'
+p63
+aS'\xf0\x9f\x90\xad \xf0\x9f\x90\xad \xf0\x9f\x90\xad \xf0\x9f\x91\x9a \xf0\x9f\x91\x98 \xf0\x9f\x91\x99 \xf0\x9f\x91\x96'
+p64
+aS'keep calm amp carry on \xf0\x9f\x9a\xb6'
+p65
+aS'when im mad  im so reckless \xf0\x9f\x98\xa3'
+p66
+aS'follow me on instagram tho elishhaa \xf0\x9f\x98\x98'
+p67
+aS'stop  i dont like you '
+p68
+aS'lmao  thot '
+p69
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 bruhhh i cant zeal '
+p70
+aS'like its on social media  i understand  i put it in here but why you twitter stalking me '
+p71
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 lmaoooo yall ready for some drama huh '
+p72
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 bruhhhhhh  some of my followers fake  who went back and read my tweet to quionne '
+p73
+aS'teacher  why arent you paying attention me  im bout to order ihop btch chill '
+p74
+aS'\xf0\x9f\x99\x8c'
+p75
+aS'another wednesday of not being someones wcw\xf0\x9f\x98\xad myniggga shutup'
+p76
+aS'\xf0\x9f\x98\x82 amp anthony '
+p77
+aS'tiana shatara amprakayla \xe2\x9c\x8a\xe2\x80\x9d'
+p78
+aS'i walk past family and dont say a word  you aint a problem '
+p79
+aS'nobody likes her but i cause the most problems because im out spoken about my actions '
+p80
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 thats yo pnc  why you wasnt with her at brh dance '
+p81
+aS'\xf0\x9f\x91\xbf then wonder why im cold hearted'
+p82
+aS'tiana shatara amprakayla \xe2\x9c\x8a'
+p83
+aS'friends really aint shit '
+p84
+aS'like people really have me fucked \xf0\x9f\x98\x82'
+p85
+aS'\xf0\x9f\x98\x82 like all this make me wanna fight tamera even more '
+p86
+aS'\xf0\x9f\x98\x82thanks '
+p87
+aS'\xf0\x9f\x99\x8c\xf0\x9f\x99\x8c thanks you  what channel \xf0\x9f\x91\x80'
+p88
+aS'bruhh yall pissing me off \xf0\x9f\x98\x92'
+p89
+aS'what are yall watching  '
+p90
+aS'what yall watching \xf0\x9f\x91\x80 '
+p91
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 bad girls club gtgt'
+p92
+aS'lmaooo she said i peep that gay shit  '
+p93
+aS'im sooo hungry '
+p94
+aS'mfc\xf0\x9f\x98\x8d'
+p95
+aS'most times im on twitter but never tweet '
+p96
+aS'\xf0\x9f\x8d\x8d'
+p97
+aS'im going all out this halloween '
+p98
+aS'halloween town on \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d'
+p99
+aS'i dont share \xf0\x9f\x98\x92'
+p100
+aS'if i have mampms dont fucking ask for them \xf0\x9f\x98\x92'
+p101
+aS'its finally basketball season '
+p102
+aS'yo jig faces'
+p103
+aS'\xf0\x9f\x98\x82 alright '
+p104
+aS'\xf0\x9f\x98\x82i have no oven '
+p105
+aS'if i bring you muffins  can be friends again \xf0\x9f\x98\x82\xf0\x9f\x98\x95'
+p106
+aS'\xf0\x9f\x99\x8c\xf0\x9f\x99\x8c\xf0\x9f\x99\x8c\xf0\x9f\x99\x8c\xf0\x9f\x92\x83 why we out '
+p107
+aS'\xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x98\xb3 swear  '
+p108
+aS'\xf0\x9f\x98\xab when the next time we outta school'
+p109
+aS'some of this dick'
+p110
+aS'i got wing stop \xf0\x9f\x91\x85\xf0\x9f\x91\x85\xf0\x9f\x91\x85'
+p111
+asS'2013_43'
+p112
+(lp113
+S'k'
+p114
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 text me '
+p115
+aS'but them saints tho \xf0\x9f\x98\x8d'
+p116
+aS'i can care less about  if you dont have anything nice to say dont say it at all if i feel played imma let you know \xf0\x9f\x91\x90'
+p117
+aS'touchdown \xf0\x9f\x94\xa5'
+p118
+aS'shitty\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x92\x80\xf0\x9f\x92\x80z'
+p119
+aS'ok bye '
+p120
+aS'in mad this asian girl got more ass than me \xf0\x9f\x98\xa9\xf0\x9f\x98\x91 iquitlife'
+p121
+aS'your avi \xf0\x9f\x98\x8d'
+p122
+aS'\xf0\x9f\x98\x8d yes lawddd'
+p123
+aS'\xf0\x9f\x98\x8dthisgt'
+p124
+aS'\xf0\x9f\x98\x82 i was just trying to inform people\xf0\x9f\x91\x90'
+p125
+aS'yall know the whole purpose of weave is to trick people into thinking its yours huh \xf0\x9f\x91\x80'
+p126
+aS'imma try to do better \xf0\x9f\x91\x90'
+p127
+aS'i curse alot  thats not cute \xf0\x9f\x98\xaa'
+p128
+aS'this old man smoking weedamp ask if i wanted to hit it \xf0\x9f\x98\x82\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80'
+p129
+aS'i need water \xf0\x9f\x98\xa9'
+p130
+aS''
+p131
+ag131
+aS'follow me on insta \xf0\x9f\x8e\x88'
+p132
+aS'follow me on insta \xf0\x9f\x92\x95'
+p133
+aS'follow me on insta\xf0\x9f\x98\x98'
+p134
+aS'football players  basketball players band members amp drum majors \xf0\x9f\x98\x8d\xf0\x9f\x92\x95'
+p135
+aS'today was actually a good day \xe2\x98\xba\xef\xb8\x8fwatch somebody fuck it up \xf0\x9f\x98\x91'
+p136
+aS'\xf0\x9f\x98\x8dshoe porn  thismallneedstanleysteamer'
+p137
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 grams is outta line '
+p138
+aS'shopping with moms'
+p139
+aS'i find it funny when girls our age  be looking for nigghas with jobs amp shit\xf0\x9f\x98\x82 we just teenagers shaww be cool\xf0\x9f\x91\x90'
+p140
+aS'\xf0\x9f\x98\x82 you corrected my typo \xe2\x9c\x8a'
+p141
+aS'she saw me and stopped \xf0\x9f\x98\x82'
+p142
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 i saw this white lady jiggn to gates \xf0\x9f\x92\x80'
+p143
+aS'why would you care '
+p144
+aS'i just be coolin \xf0\x9f\x98\x8e'
+p145
+aS'dont'
+p146
+aS'i hate when i have a tweet typo \xf0\x9f\x98\x91'
+p147
+aS'dont like what i say  dont listen dont like what i wear  dont look  do like me move around  its simple \xf0\x9f\x98\x92'
+p148
+aS'today is not my day  everyday is not my day \xf0\x9f\x98\xab'
+p149
+aS'i just wanna do it for the ratchets \xf0\x9f\x98\xa9'
+p150
+aS'you really aint gotta like shit bout me '
+p151
+aS'bruhhhhh let me live \xf0\x9f\x98\x91 like fuck outta my business \xf0\x9f\x98\x82\xf0\x9f\x91\x90'
+p152
+aS'bruhhhhhhh this season bout to be \xf0\x9f\x98\x8d'
+p153
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9 damn jenna '
+p154
+aS'awkward\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d'
+p155
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 i feel ya '
+p156
+aS'dont correct me on my actions  i know wtf im doing \xf0\x9f\x98\x92'
+p157
+aS'awkward season premiere tonight \xf0\x9f\x91\x8f'
+p158
+aS'i want some chinese food \xf0\x9f\x8d\xb4'
+p159
+aS'when people point out your flaws  like bitchhh i knowwwww\xf0\x9f\x98\x91'
+p160
+aS'this lady asked my why im so quiet  because you have you hand in my mouth \xf0\x9f\x98\x91'
+p161
+aS'i dont like the dentist '
+p162
+aS'happy birthday \xf0\x9f\x8e\x88'
+p163
+aS'i wanna jig \xf0\x9f\x91\x90'
+p164
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80'
+p165
+aS'im knowing this movie gone be a classic like  house party  or notorious'
+p166
+aS'ig ill start texting ppl back now'
+p167
+aS'this ending is beautiful \xf0\x9f\x98\xaa\xf0\x9f\x98\x8d'
+p168
+aS'im really crying  let me dismiss my self '
+p169
+aS'damn  i felt like i lost my bestfriend '
+p170
+aS'rip left eye \xf0\x9f\x99\x8f rip aaliyah \xf0\x9f\x99\x8f rip biggie \xf0\x9f\x99\x8f rip tupac\xf0\x9f\x99\x8f rip lil phat \xf0\x9f\x99\x8f rip pimp c \xf0\x9f\x99\x8f rip mj \xf0\x9f\x99\x8f rip whitney houston \xf0\x9f\x99\x8f rt to show\xe2\x80\xa6'
+p171
+aS'thats that shit if i lost my bestfriend ltltltlt \xf0\x9f\x98\xad\xf0\x9f\x98\xad'
+p172
+aS'im not gone cry  im not gone cry cries'
+p173
+aS'damn here it is \xf0\x9f\x98\x9e'
+p174
+aS'\xf0\x9f\x98\xaa\xf0\x9f\x98\xaa\xf0\x9f\x98\xaa\xf0\x9f\x98\xaa\xf0\x9f\x98\xaa\xf0\x9f\x98\xaa\xf0\x9f\x98\xaa\xf0\x9f\x98\xaa\xf0\x9f\x98\xaa\xf0\x9f\x98\xaa\xf0\x9f\x98\xaa i cant i really cant '
+p175
+aS'this is beautiful tho \xf0\x9f\x98\x8d'
+p176
+aS'im not playing like i cant watch this \xf0\x9f\x98\xaa'
+p177
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 lmaooooooo'
+p178
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80 dude '
+p179
+aS'that baby \xf0\x9f\x98\x8d'
+p180
+aS'\xf0\x9f\x98\x82 this bitch is shaking the table \xe2\x80\x9d\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p181
+aS'\xe2\x98\xba\xef\xb8\x8f\xf0\x9f\x98\x8d'
+p182
+aS'\xf0\x9f\x98\x82 this bitch is shaking the table '
+p183
+aS'\xf0\x9f\x91\x80wait huh '
+p184
+aS'you  you soooo funny dude \xf0\x9f\x98\x82'
+p185
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x92\x80\xf0\x9f\x92\x80'
+p186
+aS'surprised im not in twitter jail\xf0\x9f\x91\x80'
+p187
+aS'i know it hurt them  watching this movie \xf0\x9f\x98\xaa'
+p188
+aS'you should have took the 25 mil lisa \xf0\x9f\x98\x95\xf0\x9f\x98\xaa'
+p189
+aS'bruh honduras is where she dies\xf0\x9f\x98\xab\xf0\x9f\x98\xab waits for the sob scene'
+p190
+aS'this when lisa did her video thingy '
+p191
+aS'damn t'
+p192
+aS'damn lisa '
+p193
+aS'no one like you '
+p194
+aS'fuck pebbles'
+p195
+aS'noooooooooo  scrubssssssss'
+p196
+aS'poor larry he a scrub'
+p197
+aS'this is my shit '
+p198
+aS'damn moon boots \xf0\x9f\x98\x82\xf0\x9f\x92\x80'
+p199
+aS'\xf0\x9f\x98\x82 im not about to play with lisa dude '
+p200
+aS'here we go chilli \xe2\x9c\x8a'
+p201
+aS'like chilli aint get beat nan time \xf0\x9f\x91\x80'
+p202
+aS'oomf like \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p203
+aS'keke like really '
+p204
+aS'2pac amp aaliyah need a documentary'
+p205
+aS'shid she can do my math homework '
+p206
+aS'\xf0\x9f\x98\x82 she snatching shit off the wall and everything '
+p207
+aS'exactly \xf0\x9f\x91\x90 came up thats all me '
+p208
+aS'if a bitch burn my house down imma burn every single string on that bitch head \xf0\x9f\x98\x82\xe2\x80\x9d well you aint burning much \xe2\x80\xa6'
+p209
+aS'who is tboz bae '
+p210
+aS'\xf0\x9f\x98\x82 he could have bought me some shoes tho '
+p211
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 i still love lisa \xf0\x9f\x98\x8d'
+p212
+aS'in the damn woods'
+p213
+aS'you got this big ass house amp no furniture he got more than furniture to think about now \xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p214
+aS'them white gnikes tho '
+p215
+aS' dude really '
+p216
+aS'so i creep  yeahhhh \xf0\x9f\x98\x8d'
+p217
+aS'beat her '
+p218
+aS'im not fn with vh1 nomore like they should have let  betbehind the music tlc edition or lifetime do it '
+p219
+aS'all i learn so far was lisa was crazy amp t was cooling  chilli was getting fed over ant was a hoe amppebbles was a bitch \xf0\x9f\x98\x82'
+p220
+aS'i dont fight i dont argu i just hit that  with a bottle \xf0\x9f\x98\x82'
+p221
+aS'my face is my motherf id '
+p222
+aS'my back hurt im laughing so hard '
+p223
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80 dude '
+p224
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80'
+p225
+aS'keke palmer got pregnant in that ludacris amp mary j blige music video too bitch we aint forget'
+p226
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x92\x80\xf0\x9f\x92\x80'
+p227
+aS'they so thuggish  but they soo \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d'
+p228
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 what i doo'
+p229
+aS'90s was the shit thats a fact '
+p230
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 left eye on that money '
+p231
+aS'lil mama'
+p232
+aS't bozz qdog voice '
+p233
+aS'excuse me ms pebblesyou aint shit \xf0\x9f\x91\x90'
+p234
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p235
+aS'i wouldnt trust no bitch named pebbles'
+p236
+aS'here go they number '
+p237
+aS'yall sooo funny bruhh \xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p238
+aS'\xf0\x9f\x98\x82 i thought this was a commercial or was it '
+p239
+aS'that doctor in every movie \xf0\x9f\x98\x90\xf0\x9f\x98\x90\xf0\x9f\x98\x90'
+p240
+aS'i could have put this fuckin movie together \xf0\x9f\x98\x92'
+p241
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p242
+aS'whats pebbles twitter name  '
+p243
+aS'yall know this lady pebbles stole all they money huh '
+p244
+aS'i thought they was saying mtv \xf0\x9f\x98\x82 i was like tf'
+p245
+aS'like everything happening so fast amp i cant feel emotion '
+p246
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x92\x80'
+p247
+aS'tlc legit saved lil mama career cuz that lip gloss been dried up lmao \xf0\x9f\x98\xa9'
+p248
+aS'this a li low budget movie with poo actors expect keke but i still like it \xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p249
+aS'everybody would be balling they eyes off '
+p250
+aS'\xf0\x9f\x98\x82 this movie not giving enough detail  should have let lifetime do this bit'
+p251
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 i dare you '
+p252
+aS'\xf0\x9f\x98\x82 she riding in a herby'
+p253
+aS'lil momma playing tf out her role \xf0\x9f\x91\x8f\xf0\x9f\x91\x8f\xf0\x9f\x91\x8f\xf0\x9f\x91\x8f\xf0\x9f\x8f\x86\xf0\x9f\x8f\x86\xf0\x9f\x8f\x86'
+p254
+aS'tlc and aaliyah only females that can dress like dykes and look sexy'
+p255
+aS'ig if u fuck around with them fuck arounds  u fuck around amp get pregnant '
+p256
+aS'thats fucked up'
+p257
+aS'\xf0\x9f\x98\x82how bad did it hurt '
+p258
+aS'tl feeling fast af '
+p259
+aS'fuck user come from '
+p260
+aS'i wonder how pebbles feeling  right nah '
+p261
+aS'if thats all keek real hair \xf0\x9f\x98\x8d\xf0\x9f\x98\xa9'
+p262
+aS'i really died \xf0\x9f\x92\x80'
+p263
+aS'the first girl \xf0\x9f\x98\x82'
+p264
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 lmfaooooooo '
+p265
+aS'\xf0\x9f\x98\x82 well im sooo sorry she a niggha '
+p266
+aS'watch you see some girls trynaa dress like that onnah yard \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 i bet watch\xe2\x80\x9dthem hoes gone look like the \xe2\x80\xa6'
+p267
+aS'somebody text me 500 \xf0\x9f\x91\x80\xf0\x9f\x98\x82'
+p268
+aS'\xf0\x9f\x91\x90 that is ant\xf0\x9f\x98\x82'
+p269
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 oooo she madd'
+p270
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x8f so she dont '
+p271
+aS'\xf0\x9f\x98\x82 keke palmer is really bae '
+p272
+aS'oooooo she the girl from atl  right '
+p273
+aS'the fact she got on ninja turtle draws '
+p274
+aS'left eye amp chili always did give me life \xf0\x9f\x98\x8d'
+p275
+aS'im really up here thing these dance moves \xf0\x9f\x98\x82'
+p276
+aS'lil mama looks like a dike im sorry \xf0\x9f\x91\x90'
+p277
+aS'get cha life \xf0\x9f\x98\x82'
+p278
+aS'keke palmer \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d'
+p279
+aS'ok  ummm lil mama you not acting this right '
+p280
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 lmoooooooo she sounded wounded '
+p281
+aS'\xf0\x9f\x98\x82 im saying tho '
+p282
+aS'onna low lilmama look like lisa \xf0\x9f\x91\x80'
+p283
+aS'if i was a teenager in the 90s \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d'
+p284
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 yass\xe2\x9c\x8a'
+p285
+aS'lisa  left eye lopes \xf0\x9f\x98\x8d\xf0\x9f\x92\x95'
+p286
+aS'tlc\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d'
+p287
+aS'oss i wanna get stuck inna elevator with somebody \xf0\x9f\x98\x82'
+p288
+aS'fyou fyou f you your cool fyou'
+p289
+aS'i really dont talk to no one '
+p290
+aS'amp people ask why im mean \xf0\x9f\x98\x91'
+p291
+aS'people who think their better than everybody  like shutup your not better than god \xf0\x9f\x98\x92'
+p292
+aS'i think stupidness is contagious'
+p293
+aS'same routineeverydamnday'
+p294
+aS'the worse thing you can do  is tell me what to do '
+p295
+aS'\xf0\x9f\x98\x91 fuck you '
+p296
+aS'dont waste my time i dont have time too waste'
+p297
+aS'i hateeeeee when dudes say  my son want that holla or wassup with me amp you \xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x91\x89\xf0\x9f\x9a\xaa'
+p298
+aS'i think this week gone go by slow'
+p299
+aS'mck or slv \xf0\x9f\x98\x95'
+p300
+aS'if i go to mck  im knowing im not gone wanna go back to brh'
+p301
+aS'ill go to mentorship  before i stay a whole year at broadmoor  tuhh '
+p302
+aS'\xf0\x9f\x98\x82 i should go to slv '
+p303
+aS'my daddy go to mck monday \xf0\x9f\x98\x8d\xf0\x9f\x98\x9c'
+p304
+aS'my main bitch amp my side bitch mad me i could give too fucks '
+p305
+asS'2013_40'
+p306
+(lp307
+S'as soon as it drop a few degrees everybody wanna watch life time amp get in they feelings \xf0\x9f\x98\x95\xf0\x9f\x91\x80'
+p308
+aS'if i take back all the money i spent on parties  food  movies etc i could prolly buy a used car \xf0\x9f\x98\x95'
+p309
+aS'like be cool  dont let insta blow yo head up '
+p310
+aS'i hate when people think they to good '
+p311
+aS'like im missing something '
+p312
+aS'when double trouble perform  its never both of them '
+p313
+aS'thanks bby  \xf0\x9f\x98\x98'
+p314
+aS'somebody need to have a house party frfr '
+p315
+aS'happy birthday \xf0\x9f\x8e\x88'
+p316
+aS'not lucky im blessed \xf0\x9f\x99\x8c'
+p317
+aS'\xf0\x9f\x98\x82\xf0\x9f\x92\x81 ooo zank you '
+p318
+aS'but you got a donk amp youz coot \xf0\x9f\x92\x81'
+p319
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 im soooooo rachet '
+p320
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x95 you aint have to put me out like that tho'
+p321
+aS'tonight was soooooooo live '
+p322
+aS'monticello house party  '
+p323
+aS'im ready for mck homecoming  southern homecoming amp the fair \xf0\x9f\x98\xa9\xf0\x9f\x91\x8f'
+p324
+aS'like  it look like its gone be ratchet '
+p325
+aS'debating on this party  \xf0\x9f\x98\x95'
+p326
+aS'cheer marathon on mtv will be my life today \xf0\x9f\x99\x8c'
+p327
+aS'i cant tell certain things to my friends \xf0\x9f\x98\x95'
+p328
+aS'i hate that feeling \xf0\x9f\x98\x92\xf0\x9f\x91\x8e'
+p329
+aS'who wanna facetime '
+p330
+aS'bruhhh the drug world a messed up place'
+p331
+aS'bruhhh  if we have a hurricane ltlt'
+p332
+aS'\xf0\x9f\x98\x82 this is also true '
+p333
+aS'tacovi fine af \xf0\x9f\x98\x82\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xe2\x80\x9d'
+p334
+aS'the president fine af \xf0\x9f\x98\x82\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d'
+p335
+aS'everybody on twitter talking about scandal vine not funnyinstagram full of ignorant people  guess ill look at the wall \xf0\x9f\x98\x95'
+p336
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 fucking right  '
+p337
+aS'thats his ass'
+p338
+aS'my cousin put nair in his mama shampoo \xf0\x9f\x98\x82\xf0\x9f\x92\x80'
+p339
+aS'how normal girls laugh vs my laugh thatmouthdoe see now \xf0\x9f\x98\x82 this still kills me'
+p340
+aS' cant fade \xf0\x9f\x98\xb3 i need my mom \xe2\x9d\xa4\xf0\x9f\x91\xad\xe2\x9c\x8a\xf0\x9f\x92\x89\xf0\x9f\x92\xaf'
+p341
+aS'when will it become cold \xf0\x9f\x98\xab\xf0\x9f\x99\x8c'
+p342
+aS'fights dont excite me anymore i use to run to em  now i might do a slight jog \xf0\x9f\x98\x82'
+p343
+aS'a kiss from a vampire'
+p344
+aS'rip trayvon martin \xf0\x9f\x99\x8c'
+p345
+aS'thanks \xf0\x9f\x98\x8c'
+p346
+aS'happy birthday '
+p347
+aS'i honestly cant wait to experience college \xf0\x9f\x98\x8d'
+p348
+aS'brh teacher be like'
+p349
+aS'7th thru 10th grade i went to broadmoor middle and high school in baton rouge louisianathis is trueamen'
+p350
+aS'like before i leave broadmoor  imma make sure i fuck over you \xf0\x9f\x91\x90'
+p351
+aS'oooooooshe hasss me beyond fucked up '
+p352
+aS'i could be wild amp curse you out \xf0\x9f\x91\x90'
+p353
+aS'tbh '
+p354
+aS'bitch you work for me '
+p355
+aS'i dont owe you no respect \xf0\x9f\x91\x90'
+p356
+aS'you wanna disrespect me bet'
+p357
+aS'watch i fuck over this teacher '
+p358
+aS'lmao you welcome \xf0\x9f\x91\x8c\xf0\x9f\x98\x9a'
+p359
+aS'thanks \xf0\x9f\x98\x98'
+p360
+aS'im making this harder than it needs to be '
+p361
+aS'everybody gets prettier in college '
+p362
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 her daddy alright hunny '
+p363
+aS'i cant get to know people over text cause im a horrible texter '
+p364
+aS'who put hot sauce in the juice \xf0\x9f\x98\x82 '
+p365
+aS'lmaooo at this white girl '
+p366
+aS'bad girls club \xf0\x9f\x98\x82 '
+p367
+aS'i really have a kind heart but some evil ways '
+p368
+aS'nobody owes my anything amp thats the way i like it'
+p369
+aS'the governmentshutdown no school '
+p370
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 so fucking'
+p371
+aS'teh goverment iz shuttin down cuz dey hav no sweg'
+p372
+aS'\xf0\x9f\x98\x82\xe2\x9c\x8a ya girl know her civics '
+p373
+aS'not really they never shut it down they always came to a compromise  just not this year '
+p374
+aS'its funny how everybody realizing the government thing  when its been happening for years \xf0\x9f\x91\x80'
+p375
+aS'watching movies when your older and you actually understand them  '
+p376
+aS'hocus pocus on \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d'
+p377
+aS'yall siri is a man too \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p378
+aS'magic mike \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d'
+p379
+aS'i used to talk to so many people ion know what happened'
+p380
+aS'\xf0\x9f\x98\x82 our government shutting down '
+p381
+aS'\xf0\x9f\x92\x9e'
+p382
+aS'\xf0\x9f\x92\xa8\xf0\x9f\x92\xa8\xf0\x9f\x8c\xb3'
+p383
+aS'theres no point of me getting 2k14 \xf0\x9f\x91\x80'
+p384
+aS'me'
+p385
+aS'oooh kill em oooh spill emoooh grill em\xf0\x9f\x98\x82'
+p386
+aS'when everybody assumes they have haters like maybe people just honesty hate you \xf0\x9f\x98\x92'
+p387
+aS'\xf0\x9f\x98\x82\xf0\x9f\x91\x80\xf0\x9f\x91\x80'
+p388
+asS'2013_41'
+p389
+(lp390
+S'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xe2\x9c\x8b zont do them bucsbut ok'
+p391
+aS'broadmoor\xf0\x9f\x98\x94'
+p392
+aS'\xf0\x9f\x91\x8c i gotcho'
+p393
+aS'where its gone be '
+p394
+aS'black amp gold bb\xf0\x9f\x92\x9b\xe2\x9a\xab\xef\xb8\x8f'
+p395
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x92\x80'
+p396
+aS'im so sick of broadmoor high school\xf0\x9f\x98\x92'
+p397
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82top 10 most scariest places '
+p398
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x8d 13 gates on tv yall'
+p399
+aS'then they from batonrouge amp neworleans \xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80'
+p400
+aS'you sixteen '
+p401
+aS'i would really punch the shit out this girl '
+p402
+aS'yall watch turn to oxygen \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p403
+aS'\xf0\x9f\x98\xab\xf0\x9f\x98\xab\xf0\x9f\x98\xab\xf0\x9f\x98\xab what how whered you go '
+p404
+aS'yall know i been living in a hotel for 3months now \xf0\x9f\x91\x80'
+p405
+aS'the only fast food that meets my standers now is canes \xf0\x9f\x98\x95'
+p406
+aS'when you been on punishment for so long '
+p407
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 expose me '
+p408
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 i tired'
+p409
+aS'bruhhhh i still laugh when i see'
+p410
+aS'canes has never been so good until you have been starving \xf0\x9f\x98\x95'
+p411
+aS'weed is expensive '
+p412
+aS'anyone would like to adopt me '
+p413
+aS'i got like 3 dollars  but it just flew in my hand like god wanted to give it to me '
+p414
+aS'when i tell you then girls attacked that money like it was weave '
+p415
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 so they was throwing ones at homecoming '
+p416
+aS'i have no mother '
+p417
+aS'starting today i am raised by a single father '
+p418
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xe2\x9c\x8b she deserve it  '
+p419
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xe2\x80\xa6'
+p420
+aS'first person blocked \xf0\x9f\x98\x92'
+p421
+aS'that shower was so hot  it made me thirsty \xf0\x9f\x98\x95'
+p422
+aS'\xf0\x9f\x98\x98\xf0\x9f\x98\x98\xf0\x9f\x98\x98 you cute now soo its cool '
+p423
+aS'i need to stop growing '
+p424
+aS'i hate when principals be like  you attend the best school in the world  but they kids be in a whole different school \xf0\x9f\x91\x80'
+p425
+aS'what  '
+p426
+aS'been craving wing stop for the longest \xf0\x9f\x98\xa9'
+p427
+aS'doo wop lauren hill \xf0\x9f\x98\x8d\xf0\x9f\x91\x8c'
+p428
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 it say im bucd up'
+p429
+aS'im soo rachet for getting this shirt '
+p430
+aS'bruhhhhhhhhhh i would love to go to this school '
+p431
+aS'dont give up on godbecause he wont give up on you'
+p432
+aS'why must you confuse me  everytime i watch 106 its a different hostess \xf0\x9f\x98\x95'
+p433
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80 she blended in '
+p434
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 bruhhh it was a movement '
+p435
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x92\x80 kill ya self'
+p436
+aS'\xf0\x9f\x98\x82 started from the bottom '
+p437
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 these were the good days '
+p438
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 bruhhhh yall remember the greeked out girlz \xf0\x9f\x92\x80'
+p439
+aS'dude  this was my fav sweatshirt \xf0\x9f\x98\xa7'
+p440
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 i thought my brightness was down '
+p441
+aS'passes out'
+p442
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 shaww you look soooo black \xf0\x9f\x92\x80'
+p443
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 i was thinking the same thing '
+p444
+aS'moral of the story i just be cooling shaww'
+p445
+aS'i only wild at parties amp thats when most of yall see me '
+p446
+aS'people think i be wildn 247 \xf0\x9f\x98\x95'
+p447
+aS'i should throw a glow in the dark party '
+p448
+aS'i could do bad all by myself '
+p449
+aS'why thank you  \xf0\x9f\x98\x8c\xf0\x9f\x98\x8a'
+p450
+aS'\xf0\x9f\x98\x82 zo you the king of jiggn \xf0\x9f\x99\x8c'
+p451
+aS'if you can jig with a crowd of people then you have a good personality '
+p452
+aS'i judge people on how they jig \xf0\x9f\x98\x95'
+p453
+aS'how the fuck do you borrow 10000 from friends i wanna be friends with her friends'
+p454
+aS'she was the bow you was the wow amp yall just put it together \xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 goodbye'
+p455
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 rt dee pimpin '
+p456
+aS'\xf0\x9f\x98\xa9\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82she do look like jacob latimore lmfao\xe2\x80\x9d'
+p457
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 wait what '
+p458
+aS'i cant stop laughing this shit is hilarious \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p459
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 my last rt \xf0\x9f\x92\x80'
+p460
+aS'dam bow wow dat you \xf0\x9f\x99\x88\xf0\x9f\x98\xad '
+p461
+aS'i thought that was a 10 year old boy '
+p462
+aS'she got zat ass tho \xf0\x9f\x91\x80'
+p463
+aS'im about to google d pimpn'
+p464
+aS'where she get that 10k tho '
+p465
+aS'\xf0\x9f\x98\x82\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80'
+p466
+aS'\xf0\x9f\x98\x82 that aint no damn bowow '
+p467
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 bitchhhhhhhhhhhhhhhhh'
+p468
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 he 23  wait is that a he  '
+p469
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80'
+p470
+aS'dead'
+p471
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 im dead'
+p472
+aS'lmfaooooooooooo\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p473
+aS'lil mama gon open up the front door like catfish'
+p474
+aS'lmaoo  her feelings hurt '
+p475
+aS'it still blows me that she thinks this is bow'
+p476
+aS'snooki is soooo pretty '
+p477
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 larry brown'
+p478
+aS'bowwow had ciara amp she aint no ciara '
+p479
+aS'this girl on catfish reminds me of that vine  ole snake face ahhhh \xf0\x9f\x98\x82'
+p480
+aS'wish a bitch would send me 10k  real or fake bitch i love you '
+p481
+aS'\xf0\x9f\x98\x82\xe2\x9c\x8b he dont want no girl with a track phone  '
+p482
+aS'for her to think bowwow want her \xf0\x9f\x98\x92'
+p483
+aS'remember when the whole twitter fam watched catfish together \xf0\x9f\x98\x82\xe2\x9c\x8a'
+p484
+aS'i hate pecan candy \xf0\x9f\x91\x90'
+p485
+aS'do dudes know its disrespectful to call a girl a bitch or nahh \xf0\x9f\x91\x80'
+p486
+aS'classsss'
+p487
+aS'im so hungry i could cry '
+p488
+aS'my mama lives to starve me \xf0\x9f\x98\x95'
+p489
+aS'we special your not '
+p490
+aS'shutup  your not apart of us '
+p491
+aS'right  i need to work wherever he do'
+p492
+aS'oooh fuck dot \xf0\x9f\x98\xa7'
+p493
+aS'\xf0\x9f\x91\x80\xf0\x9f\x98\xa7 pause nigghas got money to be burning shoes '
+p494
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 bruhhhhhhhhh your playing with my emotions '
+p495
+aS'\xf0\x9f\x98\xab\xf0\x9f\x98\xab\xf0\x9f\x98\xab\xf0\x9f\x98\xab\xf0\x9f\x98\xab\xf0\x9f\x98\xab\xf0\x9f\x98\xab\xf0\x9f\x98\xab\xf0\x9f\x98\xab'
+p496
+aS'chocolate brownies '
+p497
+aS'chocolate cookies '
+p498
+aS'chocolate candy '
+p499
+aS'chocolate cake '
+p500
+aS'chocolate icecream '
+p501
+aS'i want chocolate \xf0\x9f\x98\xab\xf0\x9f\x98\xab'
+p502
+aS'i have 4 personalities 1 when im alone\xf0\x9f\x98\x90 2 when im around friends\xf0\x9f\x98\x86 3 when im around my parents\xf0\x9f\x98\xb3 4 when im aroun\xe2\x80\xa6'
+p503
+aS'i hate when people say  act like you aint catch that  like you still aint say they name \xe2\x9c\x8b\xf0\x9f\x98\x82'
+p504
+ag131
+aS'bayou classic'
+p505
+aS'i forgot i even had a background  lmaoooo '
+p506
+aS'getting on twitter on the computer ltlt'
+p507
+aS'except he had bubble gum \xf0\x9f\x98\x95'
+p508
+aS'this law amp order episode is just like the trayvon martin case \xf0\x9f\x98\x95'
+p509
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p510
+aS'\xf0\x9f\x98\x90 well damn you could have said please '
+p511
+aS'phaaaaaaa\xf0\x9f\x98\x82\xf0\x9f\x98\x82 please dont  i need food amp you dont care about yours '
+p512
+aS'refrigerator on e but guess what got my ebt\xf0\x9f\x98\x82\xf0\x9f\x92\x81'
+p513
+aS'there ya go \xe2\x98\xba'
+p514
+aS'1 of my worst fears is getting kidnapped \xf0\x9f\x98\xab'
+p515
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 well never mind '
+p516
+aS'what if i stole your new booksack \xf0\x9f\x91\x80'
+p517
+aS'so if i steal all yo food you saying  you wouldnt get mad \xf0\x9f\x91\x80'
+p518
+aS'you mad or nahh \xf0\x9f\x98\x82'
+p519
+aS'every year i ask god to make it a lil colder amp every year he take it to the extreme '
+p520
+aS'i already am '
+p521
+aS'yall go look at the moon\xf0\x9f\x98\x8d'
+p522
+aS'me \xf0\x9f\x92\x81'
+p523
+aS'im knowing i got arthritis\xf0\x9f\x98\x95'
+p524
+aS'tribal print shirt camo cargos jordans rt but everybody wear the same thing '
+p525
+aS'\xf0\x9f\x98\x82 yessss '
+p526
+aS'high wasted shortspants  crop top or a a shirt 2 sizes to big amp jays with gold accessories'
+p527
+aS'but everybody wear the same thing '
+p528
+aS'everybody be trying to have they own style '
+p529
+aS'i want some weave so i could be flossy \xf0\x9f\x98\x95'
+p530
+aS'i walked outside with shorts and a tank hit that 180 real quick '
+p531
+asS'2013_46'
+p532
+(lp533
+S'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 somebody do this'
+p534
+aS'the most beautiful\xf0\x9f\x8d\x82'
+p535
+aS'\xf0\x9f\x92\x95'
+p536
+aS'i just wanna see jbae tomorrow frfr'
+p537
+aS'ive always said idgaf but now i can actually see myself not giving a f \xf0\x9f\x98\x82'
+p538
+aS'maybe 5'
+p539
+aS'i truly only care about 4 people outside of family '
+p540
+aS'greatness awaits '
+p541
+aS'\xf0\x9f\x98\x82\xf0\x9f\x91\x90 like f everybody '
+p542
+aS'im knowing if i just vanished no one would notice frfr'
+p543
+aS'money amp hoes \xf0\x9f\x92\xb8\xf0\x9f\x92\xb8\xf0\x9f\x92\xb8'
+p544
+aS'im just sooo tired of people '
+p545
+aS'if you think about it  most of us are living for society '
+p546
+aS'relationships temporary friends temporary  we all die in the end '
+p547
+aS'everything amp everyone is temporary \xf0\x9f\x8d\x83'
+p548
+aS'\xf0\x9f\x98\x82 now when i stop fucking with you just know \xf0\x9f\x91\x90'
+p549
+aS'living for myself amp not anyone else\xf0\x9f\x98\x8c\xf0\x9f\x92\xb8'
+p550
+aS'you look so good in your profile picture \xf0\x9f\x98\xb3\xf0\x9f\x91\x80 shows off your curves veryy nicely'
+p551
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x98\xf0\x9f\x98\x98\xf0\x9f\x98\x98 thank you  '
+p552
+aS'shut your mouth when your talking to me\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p553
+aS'\xf0\x9f\x92\x81 umma be there '
+p554
+aS'people barely communicate anymore bc nobody wanna text first \xf0\x9f\x98\x90'
+p555
+aS'a blunt a day keeps the drama away'
+p556
+aS'best man with moms today \xf0\x9f\x91\x8c'
+p557
+aS'i hate people who bragits ok to showoff what you have just be humble at it '
+p558
+aS'\xf0\x9f\x98\x8a'
+p559
+aS'lishaa \xf0\x9f\x91\x80\xf0\x9f\x98\x8d'
+p560
+aS'\xf0\x9f\x91\x8clemme know '
+p561
+aS'hey trent\xf0\x9f\x91\x8b'
+p562
+aS'\xf0\x9f\x98\x82 shidddd i do it for the ratchets \xf0\x9f\x92\x81'
+p563
+aS'\xf0\x9f\x98\x82 with a name like humpaholics it better be '
+p564
+aS'\xf0\x9f\x91\x80\xf0\x9f\x91\x80 nobody want to go with me '
+p565
+aS'\xf0\x9f\x91\x80 theres a party '
+p566
+aS'i dont have friends \xf0\x9f\x98\x82\xf0\x9f\x98\xab'
+p567
+aS'who going to the house party  '
+p568
+aS'contact me now'
+p569
+aS'i think he go to lsu \xf0\x9f\x98\xa9'
+p570
+aS'lawdd why im soo young \xf0\x9f\x98\xa9'
+p571
+aS'then its more than one '
+p572
+aS'\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d my new neighbors'
+p573
+aS'nappy head bitches be like'
+p574
+aS'i do it so much  i dont realize im doing it '
+p575
+aS'i really talk to myself like its normal '
+p576
+aS'erinnn i miss you too \xf0\x9f\x98\x98'
+p577
+aS'hey girl \xf0\x9f\x98\x98 miss you'
+p578
+aS'i quit people '
+p579
+aS'\xf0\x9f\x91\x80 i love you too'
+p580
+aS'i love cousin anthony \xf0\x9f\x92\x9e'
+p581
+aS'did i spell that right '
+p582
+aS'before i forget  happy veterans day daddy amp nick \xe2\x9b\x85\xef\xb8\x8f'
+p583
+aS'shutup shutup shutup  its too early \xf0\x9f\x98\x91'
+p584
+aS'i dont feel good\xf0\x9f\x98\x9e'
+p585
+aS'only you\xf0\x9f\x98\x82'
+p586
+aS'touchdownnnn'
+p587
+aS'push time '
+p588
+aS'nvm'
+p589
+aS'throw another flag\xf0\x9f\x98\x92'
+p590
+aS'there we goooooooooo'
+p591
+aS'\xf0\x9f\x98\x91\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9'
+p592
+aS'sooooooooonn he stay getting pushed back '
+p593
+aS'1st dooown'
+p594
+aS'\xf0\x9f\x98\x91omggg'
+p595
+aS'flagg for what  '
+p596
+asS'2013_47'
+p597
+(lp598
+S'im tired of soo many young people dying '
+p599
+aS'\xf0\x9f\x98\xaa im tired of going to funerals '
+p600
+aS'bruhh andrews got the best chicken '
+p601
+aS'i want chicken \xf0\x9f\x98\x95'
+p602
+aS'\xf0\x9f\x98\x91 i want krispy kream '
+p603
+aS'reasons to be a stripper\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p604
+aS'i have never had a hot and spicy \xf0\x9f\x98\x90'
+p605
+aS'\xf0\x9f\x98\x82 im knowing all the work you put in to get them'
+p606
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 that hair tho '
+p607
+aS'a crush in school will have you at school everyday \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x92\xaf'
+p608
+aS'text me  same number '
+p609
+ag131
+aS'imma ride for my mf nigga most likely imma die with my finger on the trigger  my nigga my nigga \xf0\x9f\x91\x90'
+p610
+aS'nope\xf0\x9f\x98\x91'
+p611
+aS'i wonder if we can put emojis in our bio '
+p612
+aS'they love me  \xf0\x9f\x98\x8a\xf0\x9f\x98\x82'
+p613
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x91\x80\xf0\x9f\x91\x80 i dont love you '
+p614
+aS'this update \xf0\x9f\x92\xa8 me \xf0\x9f\x98\x92'
+p615
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 girl bye '
+p616
+aS'\xf0\x9f\x99\x8a\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p617
+aS'she said she like the way i dance \xf0\x9f\x98\x8c'
+p618
+aS'mines look sooooo big \xf0\x9f\x98\xad\xf0\x9f\x98\x96'
+p619
+aS'yall twitter look bigger  '
+p620
+aS'i hate breaking in dance shooooooes\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91'
+p621
+aS'lmaoooooooooooshe spelled bitch wrong  '
+p622
+aS'\xf0\x9f\x98\x82bruhhhhh swear thats it '
+p623
+aS'whats the answer '
+p624
+aS'whats your name '
+p625
+aS'gtgtgtgtgtgtgt\xf0\x9f\x98\x8d'
+p626
+aS'i like lowkey relationships \xf0\x9f\x98\x8a'
+p627
+aS'i hate broadmoor high school\xf0\x9f\x98\x92'
+p628
+aS'dudes with pretty smiles \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d'
+p629
+aS'basketball players\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d'
+p630
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 im knowing duchess be blowing buku tress '
+p631
+aS'tattoos \xf0\x9f\x98\x8d'
+p632
+aS'damn this blogger moved me'
+p633
+aS'\xf0\x9f\x98\x82 we look alike or nah'
+p634
+aS'saintsnation bby\xe2\xac\x9b\xef\xb8\x8f\xf0\x9f\x94\xa5\xe2\xac\x9b\xef\xb8\x8f\xf0\x9f\x94\xa5\xe2\xac\x9b\xef\xb8\x8f\xf0\x9f\x94\xa5 '
+p635
+aS'ooooooohh kill em\xf0\x9f\x94\xa5'
+p636
+aS'saints\xf0\x9f\x94\xb1\xe2\x99\xa3\xef\xb8\x8fsaints\xf0\x9f\x94\xb1\xe2\x99\xa3\xef\xb8\x8fsaints\xf0\x9f\x94\xb1\xe2\x99\xa3\xef\xb8\x8fsaints\xf0\x9f\x94\xb1\xe2\x99\xa3\xef\xb8\x8fsaints\xf0\x9f\x94\xb1\xe2\x99\xa3\xef\xb8\x8fsaints \xf0\x9f\x94\xb1\xe2\x99\xa3\xef\xb8\x8fsaints\xf0\x9f\x94\xb1\xe2\x99\xa3\xef\xb8\x8fsaints\xf0\x9f\x94\xb1\xe2\x99\xa3\xef\xb8\x8f'
+p637
+aS'na get it na get it na get it \xf0\x9f\x98\x8e bow \xf0\x9f\x92\x9b\xf0\x9f\x92\x9b\xf0\x9f\x92\x9b\xf0\x9f\x92\x9b\xe2\x99\xa0\xef\xb8\x8f\xe2\x99\xa0\xef\xb8\x8f\xf0\x9f\x92\x9b\xe2\x99\xa0\xef\xb8\x8f\xf0\x9f\x92\x9b\xe2\x99\xa0\xef\xb8\x8f\xf0\x9f\x92\x9b\xe2\x99\xa0\xef\xb8\x8f\xf0\x9f\x92\x9b\xe2\x99\xa0\xef\xb8\x8f\xf0\x9f\x92\x9b\xe2\x99\xa0\xef\xb8\x8f\xf0\x9f\x92\x9b\xe2\x99\xa0\xef\xb8\x8f\xf0\x9f\x92\x9b\xf0\x9f\x92\x9b\xe2\x99\xa0\xef\xb8\x8f\xf0\x9f\x92\x9b\xe2\x99\xa0\xef\xb8\x8f\xf0\x9f\x92\x9b\xe2\x99\xa0\xef\xb8\x8f'
+p638
+aS'82\xf0\x9f\x98\x82'
+p639
+aS'saints baby\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5'
+p640
+aS'feild goal\xf0\x9f\x92\x81'
+p641
+asS'2013_44'
+p642
+(lp643
+S'thank god i did wake up  thats all that matter tho '
+p644
+aS'im tired of people voicing their ignorant  opinion '
+p645
+aS'rip scott \xf0\x9f\x98\x93'
+p646
+aS'stfu'
+p647
+aS'they use yall for fucking accessories  you stood by the gate for what  nothing \xf0\x9f\x91\x90'
+p648
+aS'amp fuck br police department'
+p649
+aS' counts blessings '
+p650
+aS'that really could have been donald \xf0\x9f\x98\x93'
+p651
+aS'shoot'
+p652
+aS'i hate most of the young people in br like where tf are your parents'
+p653
+aS'sonnnnnnnwhy would you shot in front of kids  \xf0\x9f\x98\x92'
+p654
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p655
+aS'\xf0\x9f\x98\x82 i wonder how many people i know in this traffic '
+p656
+aS'bruhhhhhhhhh traffic got my nerves super bad \xf0\x9f\x98\x92'
+p657
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82bruhhhh this shit buku bonk '
+p658
+aS'\xf0\x9f\x98\x82 rt if you in fair traffic '
+p659
+aS'who tf made up instagram meet bruh \xf0\x9f\x98\x92\xf0\x9f\x98\x91 '
+p660
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 bruhhhhhhhhhh im saying its not that hard '
+p661
+aS'm  '
+p662
+aS'my face cold \xf0\x9f\x98\xa9'
+p663
+aS'i get to see bae tonight \xf0\x9f\x98\x8d\xf0\x9f\x99\x8a'
+p664
+aS'im over here playing with my phone \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p665
+aS'rip oscar grant \xf0\x9f\x99\x8c'
+p666
+aS'not another sex scene \xf0\x9f\x98\xa9'
+p667
+aS'he kinda cute tho \xf0\x9f\x99\x88'
+p668
+aS'lightskin girls are so creative'
+p669
+aS'he just dumped 4 pounds of weed \xf0\x9f\x98\xae'
+p670
+aS'as did i \xf0\x9f\x98\x90'
+p671
+aS'he gone rape her \xf0\x9f\x98\x82\xf0\x9f\x99\x88 thats not funny why i laughed \xf0\x9f\x98\x90'
+p672
+aS'they playing a sex serene  so im just gone tweet \xf0\x9f\x98\xb0'
+p673
+aS'i dont like watching cursing amp sex movies with my mama \xf0\x9f\x98\x82\xf0\x9f\x99\x85'
+p674
+aS'so much wrong with me'
+p675
+aS'dm me your number right now'
+p676
+aS'oomf weave looks like lets split up u go that way\xf0\x9f\x91\x88 i go that way\xf0\x9f\x91\x89'
+p677
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 '
+p678
+aS'really \xf0\x9f\x98\xa1\xf0\x9f\x98\xa9 '
+p679
+aS'i need my drake '
+p680
+aS'i just wanna live \xf0\x9f\x91\x90'
+p681
+aS'only one person can satisfy me emotionally '
+p682
+aS'frfr i think emotional pain is the worst '
+p683
+aS'if they sold common sense gtgtgtgtgt'
+p684
+aS'the word friend is so overrated '
+p685
+aS'\xf0\x9f\x98\x82 i only got like 3 real friends '
+p686
+aS'freeboosie'
+p687
+aS'\xf0\x9f\x91\x8c'
+p688
+aS'are you gong to tell me why you asked me this \xf0\x9f\x91\x80'
+p689
+aS'i get attached to easily '
+p690
+aS'dont you ever say  i just walked away \xf0\x9f\x91\x90'
+p691
+aS'ive been let down by some many people '
+p692
+aS'\xf0\x9f\x98\x82nooo'
+p693
+aS'wait which j\xf0\x9f\x91\x80'
+p694
+aS'\xf0\x9f\x98\x82 nooooowhy'
+p695
+aS'im still finding myself'
+p696
+aS'i told you im done with them \xf0\x9f\x99\x85\xf0\x9f\x98\x82'
+p697
+aS'yall think im goofy crazy amp funny  thats me but not me \xf0\x9f\x91\x90'
+p698
+aS'i use twitter to vent  but i cant tweet my real feelings \xf0\x9f\x98\x95'
+p699
+aS'im just saying you could do better \xf0\x9f\x91\x90'
+p700
+aS'my mama dont even text me\xf0\x9f\x98\x90'
+p701
+aS'i should sell my phone  like i get nooo play  so why do i even need it \xf0\x9f\x98\xa9'
+p702
+aS'momz so if johnny jumps off a bridge  you gone jump me hell yeah b thats my niggha jay lewis \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p703
+aS'bruhh  i just wanna turn up '
+p704
+aS'house party on\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x94\xa5'
+p705
+aS'\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x94\xa5\xe2\x80\x9d \xf0\x9f\x92\x81\xf0\x9f\x92\x81\xf0\x9f\x92\x81 aye'
+p706
+aS'\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x94\xa5'
+p707
+aS'october went by super fast  but its halloween\xf0\x9f\x98\x8c\xf0\x9f\x92\x80'
+p708
+aS'\xf0\x9f\x98\x82yes maam under lock amp key '
+p709
+aS'till death teamvirgin \xf0\x9f\x91\xbc\xf0\x9f\x92\x81\xe2\x80\x9d'
+p710
+aS'\xf0\x9f\x98\x82\xf0\x9f\x91\x90 i think ill just wait till im married '
+p711
+aS'thank you \xf0\x9f\x98\x8c'
+p712
+aS'\xe2\x9c\x8a much respect'
+p713
+aS'\xf0\x9f\x98\x82 i promise its trueim as pure as pure can get \xf0\x9f\x91\x90'
+p714
+aS'what are you looking at mister \xf0\x9f\x91\x80'
+p715
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 that was soooo random '
+p716
+aS'teamvirgin \xf0\x9f\x91\xbc\xf0\x9f\x92\x81'
+p717
+aS'cursing in front of older people thingsthatsnotcute'
+p718
+aS'i also dont think its cute to fight  but lord knows i will in a heartbeat \xf0\x9f\x98\x82 thingsthatsnotcute'
+p719
+aS'sometimes you really just have to laugh at stupidity \xf0\x9f\x98\x82'
+p720
+aS'telling me i cant do somethingis going to make me grind harder to do it \xf0\x9f\x94\xa5'
+p721
+aS'i need to stop cursing \xf0\x9f\x98\xa9\xf0\x9f\x98\xa9'
+p722
+aS'fuckadano \xf0\x9f\x99\x85'
+p723
+aS'boys who smell good \xf0\x9f\x98\xbb\xe2\x9d\x97\xef\xb8\x8f'
+p724
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p725
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 im coming back i promise '
+p726
+aS'i will \xf0\x9f\x98\x8e\xf0\x9f\x91\x8c '
+p727
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 we miss you too'
+p728
+aS'when i get my whip me and my nigghas gone be set \xf0\x9f\x98\x8e'
+p729
+aS'i just wanna come back to my brh fam \xf0\x9f\x98\xa9\xf0\x9f\x98\x93'
+p730
+aS'broadmoor\xf0\x9f\x98\x93'
+p731
+aS'\xf0\x9f\x98\x95guyssss come save me '
+p732
+aS'frfr idc if you lightskin or darkskin as long as you fine \xf0\x9f\x98\x8d'
+p733
+aS'i just realized dark skin dudes are \xf0\x9f\x98\x8d\xf0\x9f\x94\xa5'
+p734
+aS'i want some clear boots \xf0\x9f\x98\x8d'
+p735
+aS'that song really touch my heart \xf0\x9f\x98\x8d'
+p736
+aS'i was born by the river  in a little tent '
+p737
+aS'owhere o where are the cute nigghas at owhere owhere could they be \xf0\x9f\x91\x80'
+p738
+aS'i be having mixed emotions about everybody '
+p739
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 he asking buku people if they pregnant '
+p740
+aS'daddys little girls on tho \xf0\x9f\x92\x95'
+p741
+aS'\xf0\x9f\x98\x93 this week going by extra slow '
+p742
+aS'stay humble  be blessed '
+p743
+aS'i like it when couple are humble about their relationships  like they dont post pictures everymin with they fav\xe2\x9d\x97\xef\xb8\x8f'
+p744
+aS'\xf0\x9f\x98\x82 i never laughed so hard '
+p745
+aS' my favorite vine \xf0\x9f\x98\x82'
+p746
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p747
+aS'im tired of having hopes for peopleit never fails of them disappointing me '
+p748
+aS'that commercial was \xf0\x9f\x98\x8d'
+p749
+aS'\xf0\x9f\x98\x82 look like he threw the ball to the audience '
+p750
+aS'these nigghas is really tall '
+p751
+aS'yall playing with fire and gone get burned \xf0\x9f\x98\x82\xf0\x9f\x94\xa5 heatnation'
+p752
+aS'ooh we make you feel some way \xf0\x9f\x94\xa5'
+p753
+aS'heat wave coming through \xf0\x9f\x9a\x82\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5 '
+p754
+aS'they changed twitter again \xf0\x9f\x98\xa9'
+p755
+aS'yall ready for that heat wave tho \xf0\x9f\x94\xa5\xf0\x9f\x94\xa5'
+p756
+aS'noooooo\xf0\x9f\x98\xa9 i just wanna go to the fair amp not run from gun shotsamp be surrounded be fools somebody cancel this \xf0\x9f\x98\x93'
+p757
+aS'no sir  i did not'
+p758
+aS'i just wanna listen to pandora amp chill\xf0\x9f\x98\xb4'
+p759
+aS'im sleepy amp its only 830\xf0\x9f\x98\xa9'
+p760
+ag131
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 bruhhhh he said my favorite part was'
+p761
+aS'its getting cold  people lips getting ashy  keeping carmex on deck\xf0\x9f\x91\x90'
+p762
+aS'\xf0\x9f\x98\x82 so you just gone continue to lie '
+p763
+aS'liarrrrr'
+p764
+aS'home sweet home \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d'
+p765
+aS'twizzy twe'
+p766
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\xa9'
+p767
+aS'i want some crawfish amp corn bruhh\xf0\x9f\x98\xa9'
+p768
+aS'my maam said i only wanna go to mck  cause that were the action at \xf0\x9f\x98\x82 thats about right '
+p769
+aS'wait till this progress report emerge  imma be free at last \xf0\x9f\x98\xa9'
+p770
+aS'i need to get the f from broadmoor \xf0\x9f\x98\x95'
+p771
+aS'tf happened at slv tho \xf0\x9f\x91\x80'
+p772
+aS'i feel so out the loop  i go to fucking broadmoor \xf0\x9f\x98\xa3'
+p773
+aS'text me \xf0\x9f\x98\xa9'
+p774
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 every dark skin needs a lightskin tho '
+p775
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 you made me \xf0\x9f\x98\xa9'
+p776
+aS'i have a fat baby face  i like it but then i dont'
+p777
+aS'i swear it feel like 1200'
+p778
+aS'you was really going places \xf0\x9f\x91\x90'
+p779
+aS'bruhhhh its like its a daze '
+p780
+aS'rip dom\xf0\x9f\x98\xaa'
+p781
+aS'you lowkey mad at me i lowkey dgaf  sorry not sorry '
+p782
+aS'\xf0\x9f\x98\x91 but it do tho '
+p783
+aS'\xf0\x9f\x98\x82 it really do  it makes everything sexual '
+p784
+ag131
+aS'yess it doesssssss '
+p785
+aS'\xf0\x9f\x98\x8f dont this emoji remind you of the face spongebob made when he said you like crabby patties dont cho squidward\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p786
+aS'yalll'
+p787
+aS'yalllllllllll'
+p788
+asS'2013_45'
+p789
+(lp790
+S'im so tired of camo pants im knowing yall tired of trying to blend in \xf0\x9f\x98\x92'
+p791
+aS'kick you in your face with spikes on \xf0\x9f\x98\x92'
+p792
+aS'oooh i could just put them punches on nick \xf0\x9f\x98\x92'
+p793
+aS'nick made bama'
+p794
+aS'\xf0\x9f\x98\x92 im knowing  '
+p795
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 they gave up man'
+p796
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82amp because if lsu didnt make these stupid mistakes we could of at least tied the game  they didnt try hard enough '
+p797
+aS'all yall players ugly and got meat pies on they neck \xf0\x9f\x98\x92\xe2\x80\x9d yoo \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p798
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x95bruhh im sooo mad '
+p799
+aS'all yall players ugly and got meat pies on they neck \xf0\x9f\x98\x92'
+p800
+aS'number 6 just like a dark skin \xf0\x9f\x98\x82\xf0\x9f\x98\x91'
+p801
+aS'\xf0\x9f\x98\x82 number 8 got this meat look on his face \xf0\x9f\x98\x9e'
+p802
+aS'refs be throwing flags like they ones \xf0\x9f\x98\x82'
+p803
+aS'bama got some good ass defense \xf0\x9f\x98\x91'
+p804
+aS'bruhhhhhh tim tweet was sooooooo true '
+p805
+aS'\xf0\x9f\x98\x82 he was about to fight that mane'
+p806
+aS'turns to disney channel \xf0\x9f\x98\x92'
+p807
+aS'yall quick to say you hate lsu  but be the first college you apply too\xf0\x9f\x98\x82'
+p808
+aS'down goes frazier \xf0\x9f\x98\x82'
+p809
+ag131
+aS'yeawhats your number'
+p810
+aS'\xf0\x9f\x98\xa9\xf0\x9f\x98\xa2\xf0\x9f\x98\xa2\xf0\x9f\x98\xa2\xf0\x9f\x98\xa2\xf0\x9f\x98\xa2'
+p811
+aS'good defense \xf0\x9f\x91\x90'
+p812
+aS'this is fuckery at its finest \xf0\x9f\x98\xa2'
+p813
+aS'im maaaaad\xf0\x9f\x98\xa9'
+p814
+aS'get the fuck off the feild number 44'
+p815
+aS'your gonna hear me rooooooooooooar\xf0\x9f\x92\x9c\xf0\x9f\x92\x9b'
+p816
+aS'\xf0\x9f\x92\x9c \xf0\x9f\x92\x9b \xf0\x9f\x92\x9c \xf0\x9f\x92\x9b \xf0\x9f\x92\x9c \xf0\x9f\x92\x9b \xf0\x9f\x92\x9c \xf0\x9f\x92\x9b'
+p817
+aS'if tiana dont call me by 730 im staying home '
+p818
+aS'moms kinda flossy '
+p819
+aS'was going to the mall '
+p820
+aS'tara '
+p821
+aS'yall insta messed up '
+p822
+aS'he said hell buy me a 4s\xf0\x9f\x98\x9e\xf0\x9f\x98\x9e\xf0\x9f\x98\x9e\xf0\x9f\x98\x9e\xf0\x9f\x98\x9e\xf0\x9f\x98\x9ethats a whole downgrade '
+p823
+aS'i cant get another 55s until christmas \xf0\x9f\x98\xa2\xf0\x9f\x98\xa2'
+p824
+aS'otterbox'
+p825
+aS'i had a 5\xf0\x9f\x98\xa9 never out the outta box '
+p826
+aS'you still cant believe it huh '
+p827
+aS'yea\xf0\x9f\x98\x9e\xf0\x9f\x98\x9e'
+p828
+aS'\xf0\x9f\x98\x95\xf0\x9f\x98\xa9\xf0\x9f\x98\xa2somebody stole my phone'
+p829
+aS'why twitter send me notifications of what other people tweet or who other people follow \xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91 idfc'
+p830
+aS'poetic justice \xf0\x9f\x98\x8d'
+p831
+aS'\xf0\x9f\x98\x82 i get better grades than most of the kids in this school'
+p832
+aS'lol i really cut up in class but lawd knows i do my work \xf0\x9f\x91\x90'
+p833
+aS'\xf0\x9f\x98\x82its funny how everybody be on twitter during school '
+p834
+aS'\xf0\x9f\x98\x82 i messed up your tl '
+p835
+aS'\xe3\x85\xa4 \xe3\x85\xa4 \xe3\x85\xa4 \xe3\x85\xa4 \xe3\x85\xa4 \xe3\x85\xa4\xe3\x85\xa4 \xe3\x85\xa4 \xe3\x85\xa4 \xe3\x85\xa4\xe3\x85\xa4 \xe3\x85\xa4 \xe3\x85\xa4 \xe3\x85\xa4 \xe3\x85\xa4 \xe3\x85\xa4 \xe3\x85\xa4 \xe3\x85\xa4 \xe3\x85\xa4 \xe3\x85\xa4 \xe3\x85\xa4\xe3\x85\xa4 \xe3\x85\xa4 \xe3\x85\xa4 \xe3\x85\xa4 \xe3\x85\xa4 \xe3\x85\xa4 \xe3\x85\xa4 \xe3\x85\xa4\xe3\x85\xa4 \xe3\x85\xa4 \xe3\x85\xa4 \xe3\x85\xa4\xe3\x85\xa4 retweet to mess up people timeline\xe2\x80\x9d'
+p836
+aS'were to old to be throwing slangs  act like you dont know my name\xf0\x9f\x99\x87'
+p837
+aS'if only i knew the shit i know now '
+p838
+aS'im soo nice  until the moment i feel disrespected \xf0\x9f\x91\x90'
+p839
+aS'\xf0\x9f\x98\xa9'
+p840
+ag131
+aS'\xf0\x9f\x98\x8ckeep calm amp do you'
+p841
+aS'if you dont tell me what i did  how am i supposed to fix it '
+p842
+aS'people so temporary '
+p843
+aS'if i fuck with youthen i fuck with you  if i dontthen fuck you \xf0\x9f\x91\x90'
+p844
+asS'2013_26'
+p845
+(lp846
+S'that myspace commercial wildn'
+p847
+aS'where was rihanna tonight lmao \xf0\x9f\x8c\x9a\xe2\x98\x81'
+p848
+aS'gabrielleampwayne date \xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x91\x80'
+p849
+aS'she so awkward '
+p850
+aS'alright uncle charlie \xe2\x9c\x8a'
+p851
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p852
+aS'he like the 3rd person with that shirt'
+p853
+aS'i feel like imma be in twitter jail before it start \xf0\x9f\x99\x87'
+p854
+aS'watch mj come back \xf0\x9f\x91\x80'
+p855
+aS'i think i can learn to like this song '
+p856
+aS'\xf0\x9f\x98\x82 she promoted that cologne'
+p857
+aS'fuck beyonce at'
+p858
+aS'kendrick amp ti \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d yess lawd'
+p859
+aS'i miss the old game bruhh'
+p860
+aS'diggy so fine \xf0\x9f\x91\x80'
+p861
+aS'my name is charlie last name wilson amp i was wondering if i could take you out \xf0\x9f\x91\x8b'
+p862
+aS'nelly\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d'
+p863
+aS'fake ass watch \xf0\x9f\x91\x80'
+p864
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p865
+aS'they so cute \xf0\x9f\x98\xa9\xf0\x9f\x98\x8d'
+p866
+aS'hey k '
+p867
+aS'jordan sparks \xf0\x9f\x91\x80'
+p868
+aS'the game was a bust   '
+p869
+aS'i thought that was drake'
+p870
+aS'j cole so fly \xf0\x9f\x99\x8c'
+p871
+aS'he got on knee pads \xf0\x9f\x91\x80'
+p872
+aS'lil momma lip gloss aint poppin no more'
+p873
+aS'lil mama looks like a man \xf0\x9f\x91\x80'
+p874
+aS'ohhh  i like his sweater'
+p875
+aS'who is he '
+p876
+aS'movies or bet awards \xf0\x9f\x99\x88\xf0\x9f\x98\xa9'
+p877
+aS'yeah\xf0\x9f\x98\xb3'
+p878
+aS'gabby \xf0\x9f\x91\x90\xf0\x9f\x91\x90'
+p879
+aS'what is best man '
+p880
+aS'like bb you look like a peacock \xf0\x9f\x98\x96'
+p881
+aS'people do the most to be different'
+p882
+aS'boris \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x99\x8c\xf0\x9f\x98\x8d\xf0\x9f\x94\xa5'
+p883
+aS'poped a molly \xf0\x9f\x99\x8c'
+p884
+aS'ask me a question '
+p885
+aS'church was really motivating \xf0\x9f\x99\x8c'
+p886
+aS'god bless you as well '
+p887
+aS'god bless you'
+p888
+aS'church time '
+p889
+aS'\xf0\x9f\x99\x8c much needed '
+p890
+aS'my fav \xf0\x9f\x91\x8f\xf0\x9f\x99\x8f'
+p891
+aS'scary movie gives me life \xf0\x9f\x99\x8c'
+p892
+aS'start the line \xf0\x9f\x92\x83\xf0\x9f\x92\x83'
+p893
+aS'i wonder if people stalk me like i stalk them \xf0\x9f\x91\x80'
+p894
+aS' have a nigga motivated \xf0\x9f\x98\x82  tweet some inspirational bible verses\xe2\x80\x9d'
+p895
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 have a niggha on the right path\xe2\x9c\x8a'
+p896
+aS' tweet some inspirational bible verses'
+p897
+aS'temptation  is self control'
+p898
+aS'i really cant wait till church tomorrow \xf0\x9f\x99\x8c'
+p899
+aS'mmmwahhh \xf0\x9f\x98\x98'
+p900
+aS'your salt is very salty \xf0\x9f\x91\x90\xf0\x9f\x98\x82\xf0\x9f\x98\x98'
+p901
+aS'its not what you think but more like late this night \xf0\x9f\x99\x88'
+p902
+aS'i smell like him \xf0\x9f\x98\xa9'
+p903
+aS'when elisha see ms joy outside amp inside of school she be like  \xf0\x9f\x8f\x83\xf0\x9f\x92\xa8\xf0\x9f\x92\xa8\xf0\x9f\x92\xa8\xf0\x9f\x92\xa8\xf0\x9f\x92\xa8\xf0\x9f\x92\xa8\xf0\x9f\x92\xa8\xf0\x9f\x92\xa8\xf0\x9f\x92\xa8\xe2\x80\x9d'
+p904
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 bruhhhhh '
+p905
+aS'bruhhhhh i wish i had a sister '
+p906
+aS'\xf0\x9f\x8f\x83\xf0\x9f\x92\xa8\xf0\x9f\x92\xa8\xf0\x9f\x92\xa8\xf0\x9f\x92\xa8\xf0\x9f\x92\xa8\xf0\x9f\x92\xa8\xf0\x9f\x92\xa8\xf0\x9f\x92\xa8\xf0\x9f\x92\xa8'
+p907
+aS'im going down the wrong path     '
+p908
+aS'i feel guilty  but i didnt do anything    '
+p909
+aS'twitter makes me feel better'
+p910
+aS'bootyhadmelike'
+p911
+aS'free yo uncle ray \xe2\x9c\x8a\xe2\x9c\x8a'
+p912
+aS'everybody post bootyhadmelike pics  i wanna laugh'
+p913
+aS'somebody in jail \xf0\x9f\x91\x80'
+p914
+aS'lol  it was def throwback at the movies today '
+p915
+aS'this movie was soooooooo gooood '
+p916
+aS'my dance teacher be doing favortive shit '
+p917
+aS'justin bieber \xf0\x9f\x98\x8d\xf0\x9f\x94\xa5'
+p918
+aS'i wanna be in love with who im becoming  but im not \xf0\x9f\x99\x87\xf0\x9f\x98\x92'
+p919
+aS'this must be prerecorded \xf0\x9f\x99\x87'
+p920
+aS'\xf0\x9f\x91\x80'
+p921
+aS'wait i cant find my phone \xf0\x9f\x98\xa9 txt my ipad'
+p922
+aS'text me\xf0\x9f\x99\x8b'
+p923
+aS'your avi \xf0\x9f\x98\x8d\xf0\x9f\x94\xa5'
+p924
+aS'im lying'
+p925
+aS'i feel like its twitter after dark '
+p926
+aS'i ran for my life  aint grab no shoes or nothing jesus \xf0\x9f\x91\x90\xf0\x9f\x8f\x83\xf0\x9f\x92\xa8\xf0\x9f\x92\xa8'
+p927
+aS'feel like i be tweeting some much but i still be at the same amount'
+p928
+aS'this dike tried to holla at me \xf0\x9f\x91\x80'
+p929
+aS'but anyways \xf0\x9f\x9a\xb6'
+p930
+aS'but it makes me want him even more \xf0\x9f\x98\xa9\xf0\x9f\x91\x90'
+p931
+aS'channing all over your tatum \xf0\x9f\x98\x8d\xf0\x9f\x94\xa5'
+p932
+aS'oomf so nonchalant \xf0\x9f\x98\x92'
+p933
+aS'she so extra '
+p934
+aS'im in love with my hair \xf0\x9f\x98\x8d'
+p935
+aS'lol i might swing by  '
+p936
+aS'i swear every time i watch atl theres a new part \xf0\x9f\x98\xb3'
+p937
+aS'1 rule  never fall \xf0\x9f\x98\xa9'
+p938
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x91\x80'
+p939
+aS'i wish us baton rouge people had a accent \xf0\x9f\x98\x92'
+p940
+aS'i wish we had a pool like that   '
+p941
+aS'atl '
+p942
+aS'moms be starving me '
+p943
+aS'\xf0\x9f\x91\x90\xf0\x9f\x98\x92 blahhhhhhhhhhhhhhhhhhhhhhh'
+p944
+aS'she claim she not having it \xf0\x9f\x98\xa9\xf0\x9f\x91\x90'
+p945
+aS'munch you still having your movie night'
+p946
+aS'shawty bad \xf0\x9f\x91\x90'
+p947
+aS'4 nigghas tried to holla at me \xf0\x9f\x99\x87 i felt important '
+p948
+aS'yall i made buku new friends '
+p949
+aS'whats funny \xf0\x9f\x99\x87'
+p950
+aS'the catfish host man is cute and comforting \xe2\x98\xba'
+p951
+aS'why the fine nigghas gotta be gay \xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\x92'
+p952
+aS' aye bruh you fucked cassie yet or nah '
+p953
+aS'so her amp gladys cool \xf0\x9f\x98\x92 o'
+p954
+aS'bruhhhhh they got 1234556776554 commercials'
+p955
+aS'gladys you still a fuck niggha'
+p956
+aS'she had phone sex with tony   '
+p957
+aS'wait noo  im wrong '
+p958
+aS'yall caught that she had phone sex with a girl\xf0\x9f\x98\x82\xf0\x9f\x98\xb3\xf0\x9f\x98\xb3'
+p959
+aS'even i got got that zick look \xf0\x9f\x99\x87'
+p960
+aS'her own fucking friend omg this made my night'
+p961
+aS'niggas aint loyal \xf0\x9f\x91\x90'
+p962
+aS'\xf0\x9f\x98\xb3\xf0\x9f\x98\xb3\xf0\x9f\x98\xb3\xf0\x9f\x98\xb3omfgggggggggggg'
+p963
+aS'nev look scared af'
+p964
+aS'yall saw that look she had \xf0\x9f\x98\x82\xf0\x9f\x91\x90'
+p965
+aS'damn gladys damn'
+p966
+aS'yall this shit is hilarious  why would he have phone sex with me '
+p967
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 bitch its her couisn'
+p968
+aS'them niggas be on they nancy drew shit'
+p969
+aS'i love watching shows with yall \xf0\x9f\x98\x82\xf0\x9f\x91\x90'
+p970
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x99\x85\xf0\x9f\x99\x85 we not doin that'
+p971
+aS'look at him and look at ha'
+p972
+aS'i really dont feel sorry for her'
+p973
+aS'niggas who get they feet done gtgtgt'
+p974
+aS'\xf0\x9f\x99\x8bcan i come'
+p975
+aS'how tf he get those eyes \xf0\x9f\x98\x92'
+p976
+aS'we knew that shit \xf0\x9f\x98\x92'
+p977
+aS'poo ass music    '
+p978
+aS'i wonder if somebody use my pictures for catfishing \xf0\x9f\x98\xb3\xf0\x9f\x98\xb3prolly not\xf0\x9f\x99\x88'
+p979
+aS'they still got myspace \xf0\x9f\x98\xb3'
+p980
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x91\x90'
+p981
+aS'but he too fine for you \xf0\x9f\x98\x90'
+p982
+aS'fucked up way her daddy died\xe2\x80\x9d'
+p983
+aS'i feel like we having family movie night on twitter '
+p984
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x91\x90\xf0\x9f\x91\x90\xf0\x9f\x91\x90\xf0\x9f\x91\x90\xf0\x9f\x91\x90\xf0\x9f\x91\x90\xf0\x9f\x91\x90\xe2\x80\x9dcatfish aint no joke \xf0\x9f\x98\x95'
+p985
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x91\x90\xf0\x9f\x91\x90\xf0\x9f\x91\x90\xf0\x9f\x91\x90\xf0\x9f\x91\x90\xf0\x9f\x91\x90\xf0\x9f\x91\x90'
+p986
+aS'she know that nigga a catfish'
+p987
+aS'nahhh he too fine  gotta be fake '
+p988
+aS'i need help in meeting my fianc\xc3\xa9 \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 bitch what  '
+p989
+aS'i wonder if the people who be catfishing people watch catfish   '
+p990
+aS'im so bipolar'
+p991
+aS'i dont see anything wrong with being selfish   i got my own back \xf0\x9f\x91\x90'
+p992
+aS'bruhhhhh im watching like 3 shows at once    '
+p993
+aS'i wish everything aint come on tv in one night\xf0\x9f\x98\xb3'
+p994
+aS'get that hoe off me tl'
+p995
+aS'she looking even more guilty '
+p996
+aS'this is so freaky'
+p997
+aS'pll \xf0\x9f\x91\x90'
+p998
+aS'bgc pll catfish amp twisted'
+p999
+aS'that throwback disney shit still come on '
+p1000
+aS'was it turkey jam fun or was it 8th grade dance kinda sorta fun '
+p1001
+aS'its was fun '
+p1002
+aS'same shit im hollin '
+p1003
+aS'bruhhh i was getting dressed amp shit then tiana aint wanna go amp then my mama said mall city too ghetto'
+p1004
+aS'new orleans this weekend\xf0\x9f\x98\xa9\xf0\x9f\x99\x8c\xf0\x9f\x92\x83'
+p1005
+aS'fuck daddy lets go    '
+p1006
+aS'catfish coming back on \xf0\x9f\x99\x8c\xf0\x9f\x99\x8c'
+p1007
+aS'out to eat with daddy'
+p1008
+aS'who dance like that '
+p1009
+aS'what kind of song is this to dance to'
+p1010
+aS'aint crack and coke the same thing'
+p1011
+aS'this dance and song look and sound stupid '
+p1012
+aS'why is he kissing her'
+p1013
+aS'she really thought stevie wanted to get married'
+p1014
+aS'aint know shame in that white girl game \xf0\x9f\x91\x90'
+p1015
+aS'hit the floor \xf0\x9f\x91\x90\xf0\x9f\x98\x98'
+p1016
+aS'bitch i got on contacts if you woulda hit my contacts you woulda died \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xe2\x80\x9d'
+p1017
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 you show yo bracelet was what scratched u '
+p1018
+aS'shay do you know you arewas the side chick  '
+p1019
+aS'bb beyonce is the only one who can still work  twerk singamp dance while pregnant '
+p1020
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\xa9\xf0\x9f\x91\x90 yasss poor bb'
+p1021
+aS'yasss like bb you might need to be home schooled forever \xf0\x9f\x98\x82\xf0\x9f\x91\x90'
+p1022
+aS'i kinda feel for stevie daughter  like damn the whole world know yo zaddy a hoe \xf0\x9f\x99\x8a\xe2\x80\x9d amp yo momma stupid af'
+p1023
+aS'i kinda feel for stevie daughter  like damn the whole world know yo zaddy a hoe \xf0\x9f\x99\x8a'
+p1024
+aS'oomf \xf0\x9f\x98\x82\xf0\x9f\x91\x90'
+p1025
+aS'he gotta nice smile tho '
+p1026
+aS'60 days \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xe2\x9c\x8b niggha please \xf0\x9f\x8f\x83\xf0\x9f\x92\xa8\xf0\x9f\x92\xa8'
+p1027
+aS'mimi so petty for that '
+p1028
+aS'i love soulful gospel music \xf0\x9f\x91\x90'
+p1029
+aS'make em wanna marry me \xf0\x9f\x92\x83'
+p1030
+aS'beyonce is beyonce dont get that shit confused '
+p1031
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 yall she really killed me'
+p1032
+aS'good for you rasheeda'
+p1033
+aS'kirk  bb just stop \xf0\x9f\x91\x90'
+p1034
+aS'erica \xf0\x9f\x99\x8c\xf0\x9f\x92\xaf'
+p1035
+aS'oh hey traci \xf0\x9f\x91\x8b'
+p1036
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 why yo pee so cold '
+p1037
+asS'2013_27'
+p1038
+(lp1039
+S'i want some popcorn'
+p1040
+aS'we really go back to school soon \xf0\x9f\x98\x90\xf0\x9f\x98\xa9'
+p1041
+aS'good gosh holy moly that man \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x91\x8f'
+p1042
+aS'i really like rewatching movies when im older i actually understand them better'
+p1043
+aS'disney movies then gtgtgtgt disney movies now'
+p1044
+aS'the color of friendship \xf0\x9f\x91\x8f'
+p1045
+aS'today gtgtgtgt\xf0\x9f\x91\x90'
+p1046
+aS'thanks for the follow tho '
+p1047
+aS'wallmarttttt'
+p1048
+aS'yall jelly yet  '
+p1049
+aS'he soooooooooooooooo short '
+p1050
+aS'i met kevin hart  '
+p1051
+aS'we ready \xe2\x9c\x8a\xe2\x9c\x8a\xe2\x9c\x8a'
+p1052
+aS'new orleans bound \xf0\x9f\x98\x8d'
+p1053
+aS'lemme go get ready \xf0\x9f\x91\x90'
+p1054
+aS'guess who birthday it is  guessits my bus buddy \xf0\x9f\x91\x8f\xf0\x9f\x98\x81 happy birthday ugly face  \xf0\x9f\x8e\x8a\xf0\x9f\x8e\x89\xf0\x9f\x8e\x89 so sorry i did the most on twitter'
+p1055
+aS'my elbow itch \xf0\x9f\x98\x95'
+p1056
+aS'there is no felling like the feeling of being betrayed '
+p1057
+aS'i have nothing to wear to new orleans \xf0\x9f\x98\x94'
+p1058
+aS'gtf out my house '
+p1059
+aS'lemme go tweet all my drafts '
+p1060
+aS'she really erkn me \xf0\x9f\x98\x92'
+p1061
+aS'yall followed me \xf0\x9f\x98\x8d\xf0\x9f\x98\xa9'
+p1062
+aS'my eye ball itch '
+p1063
+aS'\xf0\x9f\x98\x95 feel like sunday'
+p1064
+aS'i swear people be like shes happy  lemme go fuck that up'
+p1065
+aS'\xf0\x9f\x98\x98\xf0\x9f\x98\x98\xf0\x9f\x98\x98\xf0\x9f\x98\x98\xe2\x9c\x8a\xe2\x9c\x8a zankkks ma'
+p1066
+aS'look like i took that with a android phone \xf0\x9f\x98\x84\xf0\x9f\x98\x84\xf0\x9f\x98\x92'
+p1067
+aS'somebody prank call me amp be funny\xf0\x9f\x98\x84'
+p1068
+aS'why my family still wildn'
+p1069
+aS'she wanna go to the levee '
+p1070
+aS'i look pretty dashing if i say so myself \xf0\x9f\x98\x98'
+p1071
+aS'aye aye  daddy '
+p1072
+aS'dont embarrass me in front of company \xf0\x9f\x98\x92'
+p1073
+aS'happy forth \xf0\x9f\x87\xba\xf0\x9f\x87\xb8'
+p1074
+aS'im not looking at nobody else pictures \xf0\x9f\x98\x92'
+p1075
+aS'i thought it was gone go to 100\xe2\x80\xa2 i was finna be pissedddddd'
+p1076
+aS'had me clicking \xf0\x9f\x98\x90'
+p1077
+aS'i hate you all \xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91'
+p1078
+aS'you know yo car fancy when yo headlights blue'
+p1079
+aS'wait till i get money  imma get all my nigghas straight '
+p1080
+aS'it feel like a friday '
+p1081
+aS'then when you send all emojis  they be like i cant see that \xf0\x9f\x98\x91\xf0\x9f\x98\x91'
+p1082
+aS'if you got a android phone amp we text you must be special '
+p1083
+aS'\xf0\x9f\x98\x90 damn  \xf0\x9f\x98\x98\xf0\x9f\x98\x98 kisses tho '
+p1084
+aS'\xf0\x9f\x98\x82 you so aggy jk that word dumb '
+p1085
+aS'\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91 thanks ms matens '
+p1086
+aS'somebody given me gas money '
+p1087
+aS'little fuckers '
+p1088
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 dis hoe gave my daddy free fruit'
+p1089
+aS'why my daddy being to alright with these walmart people \xf0\x9f\x98\xb3'
+p1090
+aS'i wish i would have went to mck middle  seems like yall had fun \xf0\x9f\x98\xa9'
+p1091
+aS'wait till i graduate  bitch im gone \xf0\x9f\x9a\x80'
+p1092
+aS'but im not hatingi just dont fucking like you '
+p1093
+aS'i cant wait till my birthday \xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9'
+p1094
+aS'look molly the matchmaker '
+p1095
+aS'bring me something pleasee \xf0\x9f\x98\xa9'
+p1096
+aS'aint never lying with them deals they been having '
+p1097
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x91\x90\xf0\x9f\x91\x90 cortana '
+p1098
+aS'much better '
+p1099
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 but how imma get it \xf0\x9f\x98\xb3'
+p1100
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 you ungrateful child'
+p1101
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 its called being friendly '
+p1102
+aS'you gone miss the pool party thoughh'
+p1103
+aS'\xf0\x9f\x98\x82 damnit you should have sent me a reminder '
+p1104
+aS'fuckkkkkkkkkkkk\xf0\x9f\x98\xa9'
+p1105
+aS'farewell my loves '
+p1106
+aS'ill just lay here amp die '
+p1107
+aS'no one cares if i die of starvation obviously '
+p1108
+aS'essence this weekend \xf0\x9f\x91\x8f\xf0\x9f\x92\x83'
+p1109
+aS'i just want some chinese food please lordddd'
+p1110
+aS'father im fucking hungry '
+p1111
+aS'the person below this has hairy nipples'
+p1112
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x91\x90\xf0\x9f\x91\x90 yasss'
+p1113
+aS'ohhhh   well uhh nvm \xf0\x9f\x98\x98'
+p1114
+aS'i fw oomf he keep a niggha laughing  \xf0\x9f\x98\x82'
+p1115
+aS'yasss nigghas with the american flag shorts and a polo or hollister shirt '
+p1116
+aS'erbody gone have the same basic thing \xf0\x9f\x91\x90\xf0\x9f\x98\x92 rt who bought they fit for the forth \xf0\x9f\x91\x80\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p1117
+aS'your the definition of pure laziness  your right next to her  but ill give grams a ring '
+p1118
+aS'i swear i dont like yall\xf0\x9f\x91\x90 mama cooking \xf0\x9f\x91\x80'
+p1119
+aS'who bought they fit for the forth \xf0\x9f\x91\x80\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p1120
+aS'family  amp i was but didnt have anybody to go with you work for the forth'
+p1121
+aS'\xf0\x9f\x98\x97  yeahhhh shawty'
+p1122
+aS'new orleans for the forth \xf0\x9f\x98\x9c'
+p1123
+aS'i wonder how many ar points that would be \xe2\x80\x9dbye \xf0\x9f\x98\x82'
+p1124
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 goodnight yall'
+p1125
+aS'i wonder how many ar points that would be '
+p1126
+aS'did yall know the bible is a story  '
+p1127
+aS'i couldnt even stand let alone walk'
+p1128
+aS'do you hear a jigga train\xf0\x9f\x91\x82 \xf0\x9f\x9a\x82\xf0\x9f\x91\x8f\xe2\x98\x9d\xf0\x9f\x99\x8c\xf0\x9f\x92\x83\xf0\x9f\x92\x83\xf0\x9f\x92\x83\xf0\x9f\x92\x83\xf0\x9f\x92\x83\xf0\x9f\x91\x90\xf0\x9f\x91\x90\xf0\x9f\x91\x8f\xf0\x9f\x91\x8f\xf0\x9f\x91\x8f\xe2\x9c\x8c\xf0\x9f\x91\x86\xf0\x9f\x91\xaf\xf0\x9f\x91\xaf\xf0\x9f\x99\x86\xf0\x9f\x99\x86\xf0\x9f\x92\x81\xf0\x9f\x99\x8b\xf0\x9f\x99\x8b\xf0\x9f\x99\x86\xf0\x9f\x92\x81\xf0\x9f\x91\x8f\xf0\x9f\x91\x8f\xf0\x9f\x91\x8b\xf0\x9f\x8f\x83\xf0\x9f\x92\xa8\xf0\x9f\x92\xa8\xf0\x9f\x92\xa8'
+p1129
+aS'ohhhhhhh shit '
+p1130
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x91\x8b\xf0\x9f\x91\x8b bruhhhhh im so weakkkkk '
+p1131
+aS'i aint playing round whygiene \xf0\x9f\x98\x82\xe2\x9c\x8b dude mess round and wear the same pair of drawls for 3 days \xf0\x9f\x98\x96'
+p1132
+aS'why she trying to teach me how to bounce \xf0\x9f\x98\xa9'
+p1133
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x99\x8c'
+p1134
+aS'i never get tired of watching atl'
+p1135
+aS'who going to bounce night \xf0\x9f\x91\x80'
+p1136
+aS'shoould have hit that hoe '
+p1137
+aS'why everythang came on tonight '
+p1138
+aS'she is so pretty '
+p1139
+aS'\xf0\x9f\x98\x82 i cant drive im drunk '
+p1140
+aS'lmfao  she doin the must with them uggs on'
+p1141
+aS'i wonder how dwade felt about that lol'
+p1142
+aS'did 106amppark just let the whole video play  '
+p1143
+aS'imma be fresh as hell if them feds watchin'
+p1144
+aS'yasss '
+p1145
+aS'\xf0\x9f\x99\x8c\xf0\x9f\x99\x8c im nervous tho '
+p1146
+aS'see you at practice \xf0\x9f\x98\x82\xf0\x9f\x91\x90'
+p1147
+aS'bet most of yall fees already got this outfit \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\xa9\xf0\x9f\x98\x96\xf0\x9f\x98\xb2'
+p1148
+aS'i want some movie theater popcorn '
+p1149
+aS'took so long to reply  ive died of starvation '
+p1150
+aS'\xf0\x9f\x98\x82 yeah ill give you that '
+p1151
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 hire all the waitress '
+p1152
+aS'\xf0\x9f\x98\x82\xf0\x9f\x91\x8b you thought you was special  '
+p1153
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 shit might as well take the silverware '
+p1154
+aS'\xf0\x9f\x98\x82 amp that salad '
+p1155
+aS'alright  lemme run down to olive garden '
+p1156
+aS'chicken parmesan or pasta alfredo '
+p1157
+aS'lol truuuu but i dont feel like it \xf0\x9f\x98\x95'
+p1158
+aS'you'
+p1159
+aS'you had wanted to make me some food \xf0\x9f\x91\x80\xf0\x9f\x98\xa9'
+p1160
+aS'i want some chinese food '
+p1161
+aS'who can cook \xf0\x9f\x91\x80'
+p1162
+aS'im so hungry \xf0\x9f\x98\x95'
+p1163
+aS'being mary jane comes on tonight '
+p1164
+aS'hey guys \xf0\x9f\x91\x8b\xf0\x9f\x91\x8b'
+p1165
+aS'why i wake up so late \xf0\x9f\x91\x80'
+p1166
+aS'where the church nigghas at \xf0\x9f\x91\x80'
+p1167
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 why i get so holy at night '
+p1168
+aS'knowing i dont   '
+p1169
+aS'im so fake \xf0\x9f\x98\x82 talking bout i wanna bap '
+p1170
+aS'im so happy i foundhave a relationship with god    '
+p1171
+aS'rakayla really got me working out tomorrow \xf0\x9f\x98\xa9'
+p1172
+aS'ive changed so much this summer '
+p1173
+aS'people think im crazy  but im so chill af   '
+p1174
+aS'damn it  cox you fucking up '
+p1175
+aS'cox trippin \xf0\x9f\x98\x92'
+p1176
+aS'yall tv fucking up  or is it just mines'
+p1177
+aS'damn next monday gone be \xf0\x9f\x94\xa5\xf0\x9f\x94\xa5'
+p1178
+aS'thats tight af'
+p1179
+aS'that sex that leave you with asthma '
+p1180
+aS'make me wanna bap '
+p1181
+aS'i wish a dude kiss me in the middle of us arguing \xf0\x9f\x98\xa9\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d'
+p1182
+aS'sex everywhere '
+p1183
+aS'remember your purity ring elisha '
+p1184
+aS'captain save a hoe \xe2\x9c\x8c'
+p1185
+aS'i would do some things to rick fox \xf0\x9f\x94\xa5'
+p1186
+aS'everybody on my tl getting hawt \xf0\x9f\x98\x82\xf0\x9f\x98\xa9'
+p1187
+aS'everybody getting it in  lawddddd'
+p1188
+aS'see they know what you do when the power out'
+p1189
+aS'that scared me'
+p1190
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 i thought he was bout to'
+p1191
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 thumb war  hell prolly break my thumb '
+p1192
+aS'i hate mike amp ikes'
+p1193
+aS'im moving to whereever he at \xf0\x9f\x98\x8d'
+p1194
+aS'reminds me of the super bowl '
+p1195
+aS'the next lhhatl gtgtgtgtgtgtgt'
+p1196
+aS'ya want cha cake popcorn ice cream and skittles '
+p1197
+aS'stupid bitches yell hello '
+p1198
+aS'wait why her thing going off '
+p1199
+aS'bitch them diamonds '
+p1200
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x99\x8c\xe2\x80\x9dlmfao i kno all yall saw that gut'
+p1201
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x99\x8c'
+p1202
+aS'you could never be will amp jada \xf0\x9f\x99\x8c'
+p1203
+aS'pause why is she licking kirks ear stop it'
+p1204
+aS'lmfaoooooooooo thats bambi  '
+p1205
+aS'power trip  i was just singing this \xf0\x9f\x98\x8d'
+p1206
+aS'lmao engaged '
+p1207
+aS'i like jose '
+p1208
+aS'put a ring in your aaa really'
+p1209
+aS'kirk ole bitch ass how the hell do you want to quit being a father'
+p1210
+aS'awwww that was adorbs amp sad af at the same time'
+p1211
+aS'i remember those talks \xf0\x9f\x98\x95'
+p1212
+aS'the way he read that \xf0\x9f\x98\x9f'
+p1213
+aS'joseline you are not the side bitch anymore'
+p1214
+aS'fuck you mean  '
+p1215
+aS'did she just crown her grandchild in a restaurant \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x91\x90\xe2\x80\x9dreally  '
+p1216
+aS'did she just crown her grandchild in a restaurant \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x91\x90'
+p1217
+aS'neyoamp that damn hat '
+p1218
+aS'shay just no  move \xe2\x9c\x8c'
+p1219
+aS'im sorry but mimi look beaucoup old to me sometimes\xe2\x80\x9d'
+p1220
+aS'i love when k michelle has red hair \xf0\x9f\x98\x8d'
+p1221
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 meat pistol  '
+p1222
+aS'lmfao benzino a house nigga making fruity smoothies\xe2\x80\x9d'
+p1223
+aS'hey bunny '
+p1224
+aS'\xf0\x9f\x8f\x83\xf0\x9f\x92\xa8\xf0\x9f\x92\xa8\xf0\x9f\x92\xa8'
+p1225
+aS'kurt is a bitch ass niggha    '
+p1226
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 dont expose us '
+p1227
+aS'ok  love amp hip hop \xf0\x9f\x92\x95'
+p1228
+aS'700 came fast as fuckkkkk'
+p1229
+aS'i hate being compared to people \xf0\x9f\x91\x90'
+p1230
+aS'red stick  real slick'
+p1231
+aS'i'
+p1232
+aS'damnit   tia amp tamera \xf0\x9f\x98\x8d'
+p1233
+aS'i pee ya feel me \xf0\x9f\x98\x82'
+p1234
+aS'let a hurricane come on my birthday this year  me amp god gone have a talk '
+p1235
+aS'hurricanes always ruin my birthday katrina isaac  amp the other one '
+p1236
+aS'well dont come then \xf0\x9f\x98\x92'
+p1237
+aS'if i have a party yall gone come \xf0\x9f\x98\x95'
+p1238
+aS'september 1 \xf0\x9f\x8e\x89\xf0\x9f\x8e\x89'
+p1239
+aS'91 \xf0\x9f\x99\x8c\xf0\x9f\x98\x88'
+p1240
+aS'poor grandma '
+p1241
+aS'i want my mama \xf0\x9f\x98\x95'
+p1242
+aS'you gotta be funny amp or special for me to text you '
+p1243
+aS'i really hate texting ignorant people '
+p1244
+aS'lets do this like bruduce '
+p1245
+aS'why i just woke up \xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x91\x80'
+p1246
+aS'somebody tell a joke '
+p1247
+aS'jade all on a niggha tl '
+p1248
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 dudeeee goodnight \xf0\x9f\x91\x90'
+p1249
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 are you running from christ \xf0\x9f\x8f\x83\xf0\x9f\x92\xa8'
+p1250
+aS'pastor said sex is beautiful but it has negative connotations amp is explicit instead of embracing the opposites body'
+p1251
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 my pastor said it is '
+p1252
+aS'sex is supposed to be beautiful  yall turn everything evil \xe2\x80\x9dgo to sleeeep\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p1253
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p1254
+aS'a promise to myself amp god \xf0\x9f\x92\x95'
+p1255
+aS'thats why i have a purity ring \xf0\x9f\x92\x95'
+p1256
+aS'sex is supposed to be beautiful  yall turn everything evil '
+p1257
+aS'the crack head from friday \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x91\x90'
+p1258
+aS'this movie \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p1259
+aS'the thug materialistic people amp the people who actually care about themselves '
+p1260
+aS'we have two kinds of our generations '
+p1261
+aS'twitter went from \xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5 to \xf0\x9f\x90\x8c\xf0\x9f\x90\x8c'
+p1262
+aS'didnt go to twitter jail \xe2\x9c\x8a'
+p1263
+aS'2 chainz get cho big ass up '
+p1264
+aS'twitter family we getting back together tomorrow right for love and hip hop and hit the floor'
+p1265
+aS'i just dont understand his videos '
+p1266
+aS'fav 2 chainz song'
+p1267
+aS'this beat \xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x99\x8c'
+p1268
+aS'best bet awards in a minute'
+p1269
+aS'dark skinned girls gtgt \xf0\x9f\x98\x8d\xf0\x9f\x98\x8c yall black is beyond beautiful '
+p1270
+aS'\xf0\x9f\x98\x82 lol thats what i did '
+p1271
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 look whats under the pillow case '
+p1272
+aS'\xf0\x9f\x98\x82 yeah amp if you finish early you dont have to come back '
+p1273
+aS'yeaa amp you could work from home too '
+p1274
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 bb yass didnt know our neighborhood had so many black people '
+p1275
+aS'its not bad  your really to your self in there '
+p1276
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\xa9 kevin '
+p1277
+aS'hard ass choice '
+p1278
+aS'move around i like the old game \xf0\x9f\x98\x92'
+p1279
+aS'lolits really not that bad  but i had people there soo \xf0\x9f\x98\xb3 but ill bring you some lunch '
+p1280
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 im sayin '
+p1281
+aS'everybody on twitter tonight  dont expose'
+p1282
+aS'i went last semester '
+p1283
+aS'spoiling ass bet app \xf0\x9f\x98\x92'
+p1284
+aS'bitch why my app told me drake won  '
+p1285
+aS'she almost fell on that floor \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p1286
+aS'asap smile tho \xf0\x9f\x98\x8d'
+p1287
+aS'kendrick part \xf0\x9f\x98\xa9'
+p1288
+aS'yall sneaking in that kevin hart movie\xe2\x80\x9d \xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x91\x80 im knowing'
+p1289
+aS'this my daddy song '
+p1290
+aS'teambrezzy \xf0\x9f\x92\x9e'
+p1291
+aS'hey chris \xf0\x9f\x98\x98'
+p1292
+aS'yall sneaking in that kevin hart movie'
+p1293
+aS'jamaicans be way too turnt up tho lmfao'
+p1294
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p1295
+aS'nicki \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x99\x8c'
+p1296
+aS'sissy nobby '
+p1297
+aS'who  '
+p1298
+aS'he look like future \xf0\x9f\x91\x80'
+p1299
+aS'i like this song '
+p1300
+aS'wtf is this '
+p1301
+aS'da fuck is going on'
+p1302
+aS'after that inspirational speech bitches is twerking '
+p1303
+aS'i wanna man like dwayne wade \xf0\x9f\x98\xa9\xf0\x9f\x99\x8c'
+p1304
+aS'public speaking skills gtgtgtgt'
+p1305
+aS'\xf0\x9f\x98\xb3\xf0\x9f\x98\xb3 \xf0\x9f\x9a\xaa\xf0\x9f\x91\x88'
+p1306
+aS'educated black male gt'
+p1307
+aS'woahhhhhh\xf0\x9f\x98\xb3 mother bey is greatness '
+p1308
+aS'bet awards take you to the club and church in the same hour \xf0\x9f\x98\xa4\xf0\x9f\x98\x82'
+p1309
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 im probably gonna sin again  lord forgive me '
+p1310
+aS'why we cant have niggass that cute'
+p1311
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x91\x90'
+p1312
+aS'ill lick yo curl '
+p1313
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 asap '
+p1314
+aS'mercy lt devil music \xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p1315
+aS'suite amp tie gt'
+p1316
+aS'poetic justice gtgtgt'
+p1317
+aS'problems gtgt'
+p1318
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 gtf outta here '
+p1319
+aS'i need to take her dance lessons '
+p1320
+aS'body party time body party'
+p1321
+aS'ciara bruhhhh\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5'
+p1322
+aS'lol we heard fuck amp bitch \xf0\x9f\x98\x82'
+p1323
+aS'tf is this '
+p1324
+aS'body party \xe2\x98\x95\xf0\x9f\x99\x8c\xf0\x9f\x99\x8c\xf0\x9f\x99\x8c\xf0\x9f\x99\x8c\xf0\x9f\x99\x8c\xf0\x9f\x99\x8c\xf0\x9f\x99\x8c\xf0\x9f\x99\x8c\xf0\x9f\x99\x8c'
+p1325
+aS'i laughed buku loud when she said that nut joke amp my mama hit me '
+p1326
+aS'im knowing that app wasnt free '
+p1327
+aS'thats so tight \xf0\x9f\x91\x80'
+p1328
+aS'stfu you gotta man  a good one at that '
+p1329
+aS'hey paula \xf0\x9f\x91\x8b'
+p1330
+aS'yass but it was painty dropping time earlier'
+p1331
+aS'why yall stopped tweeting when gospel came on \xf0\x9f\x91\x80\xe2\x80\x9d you see dat shyt too hunh  \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\xa9'
+p1332
+aS'why yall stopped tweeting when gospel came on \xf0\x9f\x91\x80'
+p1333
+aS'yes cora sing that shit cora yasssss'
+p1334
+aS'both of them \xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x91\x90'
+p1335
+aS'power trip  bby i love you \xf0\x9f\x92\x9e'
+p1336
+aS'crocked smile  yassss \xf0\x9f\x92\x95'
+p1337
+aS'power trip \xf0\x9f\x91\x90'
+p1338
+aS'by far the best bet awards '
+p1339
+aS'pharrel amp justin so fine \xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5 '
+p1340
+aS'pharrel can get it now then up down monday saturday cold heat \xf0\x9f\x99\x8c'
+p1341
+aS'2 chainzz old ass '
+p1342
+aS'im really loving this\xe2\x80\x9d'
+p1343
+aS'charlie just gives me life \xf0\x9f\x98\x8d\xe2\x9c\x8a'
+p1344
+aS'\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9 yass lawddd'
+p1345
+aS'justin '
+p1346
+aS'yass\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\x8d'
+p1347
+aS'charlie wilson be having me wanna fall in love \xf0\x9f\x98\xbb '
+p1348
+aS'bby yasssss \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d'
+p1349
+aS'yasss charlie \xf0\x9f\x99\x8c'
+p1350
+aS'that voice thoughgtgt \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d'
+p1351
+aS'why my mama dancing  pop it fa uncle charlie \xf0\x9f\x91\x90'
+p1352
+aS'yassss charlie sing \xf0\x9f\x91\x90'
+p1353
+aS'oomf like stfu  \xf0\x9f\x98\x92'
+p1354
+aS'he couldnt find the mic no keri dont laugh'
+p1355
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p1356
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 im soo fucking dead '
+p1357
+aS'i wonder whats under that pillow case \xf0\x9f\x98\x82\xf0\x9f\x91\x80\xe2\x80\x9d lmfao  noooo i wasnt readyyy\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9'
+p1358
+aS'ion care what yall say  i would do things to jamie '
+p1359
+aS'i wonder whats under that pillow case \xf0\x9f\x98\x82\xf0\x9f\x91\x80'
+p1360
+aS'there goes my baby   '
+p1361
+aS'india\xf0\x9f\x91\x90'
+p1362
+aS'phaaa\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p1363
+aS'right  get kilt out here '
+p1364
+aS'tell dat hoe again manee  fxckiin up kendrick name n shit\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p1365
+aS'no bitch its lamarrr '
+p1366
+aS'kendrick'
+p1367
+aS'when miguel started running i got scared for the audience'
+p1368
+aS'i thought he was gone jump \xf0\x9f\x98\xb3'
+p1369
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 im so weak '
+p1370
+aS'baeeee\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d'
+p1371
+aS'\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9 bruhhhhhhhhhhhhhhhhhhhhhhh'
+p1372
+aS'ive never seen best man\xf0\x9f\x98\xb3\xf0\x9f\x98\xb3\xf0\x9f\x98\xa9'
+p1373
+aS'theres roman '
+p1374
+aS'nicki gtgtgtgtgther speeches'
+p1375
+aS'where young money tho '
+p1376
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 no they fucking didnt put her ass on there'
+p1377
+aS'thats good  i love watching young ppl making big moves'
+p1378
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9'
+p1379
+aS'dat lil girl caint act for shit  yo hieeyaa'
+p1380
+aS'they the same height '
+p1381
+aS'\xf0\x9f\x98\x82'
+p1382
+aS'white house down was a good ass movie \xf0\x9f\x98\xa9'
+p1383
+aS'k babe  get off stage '
+p1384
+aS'jamie is a good ass actor '
+p1385
+aS'rip i just killed a bug it was crawlin on a nigga almost killed a thug'
+p1386
+aS'jamie bby '
+p1387
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 nick '
+p1388
+aS'r i p '
+p1389
+aS'\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x99\x8c\xf0\x9f\x99\x8c\xf0\x9f\x99\x8c\xf0\x9f\x91\x90\xf0\x9f\x91\x90'
+p1390
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82righttt'
+p1391
+aS'bitchhhh was that mista  '
+p1392
+aS'power trip'
+p1393
+aS'that gave me so much life \xf0\x9f\x91\x90\xf0\x9f\x91\x90\xf0\x9f\x91\x90'
+p1394
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 he do  rt you daddy look like r kelly \xf0\x9f\x98\x82'
+p1395
+aS'you daddy look like r kelly \xf0\x9f\x98\x82'
+p1396
+aS'but my body is telling me yessssss\xf0\x9f\x99\x8c\xf0\x9f\x99\x8c'
+p1397
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 what is he wearing  '
+p1398
+aS'this choir\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x99\x87\xf0\x9f\x99\x87\xf0\x9f\x99\x87'
+p1399
+aS'i thought that was mama dee \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p1400
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 this niggha '
+p1401
+aS'i miss you michael \xf0\x9f\x98\xa9\xf0\x9f\x98\xbf'
+p1402
+aS'i told you mj was coming back'
+p1403
+aS'zat ass '
+p1404
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 yall caught that '
+p1405
+aS'\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9'
+p1406
+aS'stfu stfu its kendrick '
+p1407
+aS'gabby \xe2\x9c\x8a'
+p1408
+aS'ig the tablets wasnt working'
+p1409
+aS'when kendrick didnt come at first i thought he was bout to fly across stage or some shit '
+p1410
+aS'i wanna see that '
+p1411
+aS'he was just there \xf0\x9f\x98\x95'
+p1412
+aS'kendrick where you at '
+p1413
+aS'meamp oomf tweeted the same thing \xf0\x9f\x98\x82\xf0\x9f\x98\x82 twinning'
+p1414
+aS'kendrick got this '
+p1415
+aS'i swear i aint know they talk'
+p1416
+aS'can you marry me \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x99\x8c'
+p1417
+aS'this is me amp mothers song '
+p1418
+aS'robin\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\x8d'
+p1419
+aS'yall see this ghetto ass commercial or is it just me '
+p1420
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 let a niggha do that in mcdonalds down here '
+p1421
+aS'his wife is fineee\xf0\x9f\x94\xa5'
+p1422
+aS'miguel is so \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x99\x8c\xf0\x9f\x99\x8c\xf0\x9f\x99\x8c\xf0\x9f\x99\x8c\xf0\x9f\x99\x8c\xf0\x9f\x99\x8c'
+p1423
+aS'this gone be a hard as vote'
+p1424
+aS'hotel rwanda '
+p1425
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p1426
+aS'fuck this next year im going to the bet awards '
+p1427
+aS'nicki \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x99\x8c\xf0\x9f\x99\x8c'
+p1428
+aS'i love this song w him amp aaliyah '
+p1429
+aS'lets go baeeee'
+p1430
+asS'2013_28'
+p1431
+(lp1432
+S'who gotta dope instagram '
+p1433
+aS'\xf0\x9f\x98\xb3\xf0\x9f\x98\x82\xf0\x9f\x98\xb3'
+p1434
+aS'the trial now hospital \xf0\x9f\x98\xa3 bitter sweet night '
+p1435
+aS'church tomorrow should be good '
+p1436
+aS'letgoletgod'
+p1437
+aS'yall wanna have a group message discussion about the case '
+p1438
+aS'i see this as a wakeup call   '
+p1439
+aS'he is wrong but dont get mad at zimmerman cause as black ppl we kill more of our ppl than anyone be mad at the judicial sy\xe2\x80\xa6'
+p1440
+aS'race  controls america'
+p1441
+aS'my mama buku mad \xf0\x9f\x98\xb3'
+p1442
+aS'can we talk about the elephant in the room    '
+p1443
+aS'growups 2 was funny aab till i got the wafb notification '
+p1444
+aS'george zimmerman was found not guilty by what has to be the dumbest jury in history\xe2\x80\x9d'
+p1445
+aS'the jury found him not guilty  but remember only god can judge us '
+p1446
+aS'i had to watch video again \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 gave me lifeeeee lol much needed'
+p1447
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p1448
+aS'i bet i spelled that wrong  im to lazy to look it up '
+p1449
+aS'flloyd mayweather \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d'
+p1450
+aS'when i met kevin  i was like damn he really is short \xf0\x9f\x98\x95'
+p1451
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p1452
+aS'emmanuel hudson on wildnout \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x91\x8f\xf0\x9f\x91\x8f\xf0\x9f\x98\xa9'
+p1453
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 bye jade '
+p1454
+aS'guess what \xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x91\x80 '
+p1455
+aS'he could be gay straight crooked upsidedown or blue long as he got me looking right \xf0\x9f\x98\x82\xf0\x9f\x98\x8d\xf0\x9f\x91\x85'
+p1456
+aS'my laugh of the niight  \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p1457
+aS'i hate when people dont round '
+p1458
+aS'shaun t need to be my personal trainer '
+p1459
+aS'jigs to the kitchen \xf0\x9f\x91\xbe\xf0\x9f\x92\x83'
+p1460
+aS'daddy can i please come back home  hold me close and never let me goo \xf0\x9f\x8e\xb6'
+p1461
+aS'screams'
+p1462
+aS'make me laugh \xf0\x9f\x98\x95'
+p1463
+aS'\xf0\x9f\x98\x82 bb  this dont owe me nuting '
+p1464
+aS'you unfollow me on the social we beefing fr'
+p1465
+aS'i understand a bad day  but damn everyday a bad day for you'
+p1466
+aS'why people so mean \xf0\x9f\x98\x92'
+p1467
+aS'thousand thread count sheets  we dont count sheep '
+p1468
+aS'im so lame   '
+p1469
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p1470
+aS'i wish i had a twin '
+p1471
+aS'i have some of the most ignorant insta followers '
+p1472
+aS'this trial reminds me of to kill a mocking bird '
+p1473
+aS'why cant i sleepppppppppppppppp\xf0\x9f\x99\x8d'
+p1474
+aS'i just wanna dance \xf0\x9f\x91\xaf'
+p1475
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 revenge awaits \xf0\x9f\x91\x8a'
+p1476
+aS'everything is pissing me off'
+p1477
+aS'\xf0\x9f\x98\x92\xf0\x9f\x98\x92\xf0\x9f\x98\x92 '
+p1478
+aS'my brain hurt'
+p1479
+aS'logs on twitter  sees everybody playing number games \xf0\x9f\x91\x80 logs off twitter'
+p1480
+aS'quiara talks about ms instagram the truth get into it yas'
+p1481
+aS'leaves quietly  \xf0\x9f\x9a\xaa\xf0\x9f\x9a\xb6'
+p1482
+aS'yall wanted to give me a shoutout \xf0\x9f\x98\x98\xf0\x9f\x98\x98\xf0\x9f\x98\x98\xf0\x9f\x98\x98\xf0\x9f\x98\x98\xf0\x9f\x98\x98'
+p1483
+aS'i only have like 3 friends \xf0\x9f\x98\x82'
+p1484
+aS'\xf0\x9f\x98\x82 i had 1300 followers'
+p1485
+aS'the man who just gave me my physical \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p1486
+aS'i need air '
+p1487
+aS'eleesha \xf0\x9f\x91\x8f'
+p1488
+aS'eliesha \xf0\x9f\x98\x90\xf0\x9f\x98\x92'
+p1489
+aS'i hate when people chop my name '
+p1490
+aS'they try to make it proper \xf0\x9f\x98\x82 can i get ms shaquetta jones '
+p1491
+aS'hen white people say ghetto black people name \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p1492
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 woahhhhhhhaaaaaa bitchhhhhhh '
+p1493
+aS'i gotta go pee inna cup \xf0\x9f\x98\xa9\xf0\x9f\x91\x8e'
+p1494
+aS'i want some lemonade '
+p1495
+aS'im thirsty'
+p1496
+aS'if yall see how many people'
+p1497
+aS'everybody in baton rouge taking this drug test  \xf0\x9f\x98\x90'
+p1498
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\xa9 ewwww'
+p1499
+aS'so do you pee inna cup '
+p1500
+aS'gotta go take a drug test \xf0\x9f\x98\x90'
+p1501
+aS'im going back to sleep \xf0\x9f\x98\x92'
+p1502
+aS'fine den '
+p1503
+aS'\xf0\x9f\x98\x92geewizz  ill make my own '
+p1504
+aS'imma been den died from starvation \xf0\x9f\x98\x92'
+p1505
+aS'i want one \xf0\x9f\x99\x8b'
+p1506
+aS'\xf0\x9f\x92\x83\xf0\x9f\x91\x8f thank you '
+p1507
+aS'turn up congrats'
+p1508
+aS'shit if i know  its for the state tho    '
+p1509
+aS'900 a month \xf0\x9f\x98\xa9\xf0\x9f\x91\x8f'
+p1510
+aS'if tiana dont come\xf0\x9f\x98\x96'
+p1511
+aS'me amp oomf had a similar tweet \xf0\x9f\x98\x82\xf0\x9f\x91\x80'
+p1512
+aS'i unfollowed like 100 of my instafollowers shrugs'
+p1513
+aS'but at least i got a job \xf0\x9f\x98\x8e'
+p1514
+aS'its sooooooooooooooooo early \xf0\x9f\x98\xa9'
+p1515
+aS'if i wanted a child i would have had one \xf0\x9f\x98\x92 getyourkids'
+p1516
+aS'i hate these kids   '
+p1517
+aS'im going on a diet thursday \xe2\x98\xba'
+p1518
+aS'moms be like gone run a mile  but quick to by a niggha mcdonalds \xf0\x9f\x91\x8f'
+p1519
+aS'i know my body like  you so fuxking stupid '
+p1520
+aS'im so unhealthy    '
+p1521
+aS'can u drink bb water'
+p1522
+aS'why she only got dr pepper  fuxk i cant have my lungs or kidneys '
+p1523
+aS'i missed all my shows today '
+p1524
+aS'i hate when people smoke in front of me  how you know i want black lunggss '
+p1525
+aS'zanmmm'
+p1526
+aS'do not insult my intelligence '
+p1527
+aS'i dont care about nobody but myself \xf0\x9f\x91\x90'
+p1528
+aS'i dont have shit to tweet about '
+p1529
+aS'lawdd clothes amp bikes on fire \xf0\x9f\x91\x90'
+p1530
+aS'she said he aint had no neck\xf0\x9f\x98\xab'
+p1531
+aS'i finally found my knee brace \xf0\x9f\x91\x8f\xf0\x9f\x91\x8f\xf0\x9f\x91\x8f'
+p1532
+asS'2013_29'
+p1533
+(lp1534
+S'\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91 continues eating chicken '
+p1535
+aS'nothing shawty \xf0\x9f\x92\x81'
+p1536
+aS'i aint too goodima person just like uamen'
+p1537
+ag131
+aS'i will really lay you out \xf0\x9f\x98\x92'
+p1538
+aS'when little kids talk back \xf0\x9f\x98\x91\xf0\x9f\x98\x91'
+p1539
+aS'amp its sunday\xf0\x9f\x99\x8f'
+p1540
+aS'someone didnt wake up this morning but i did  thank you god\xf0\x9f\x99\x8f'
+p1541
+aS'lemme stop cursing for i get declined from college \xf0\x9f\x98\x82\xf0\x9f\x91\x80'
+p1542
+aS'\xf0\x9f\x98\x82 bitch we in neworleans '
+p1543
+aS'vmoms trippen dude '
+p1544
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 she so drunk '
+p1545
+aS'why everybody went out and left me amp to babysit \xf0\x9f\x98\x91'
+p1546
+aS'niggha i aint never been on no island niggha i never rode in no bentley yes i did last night  lil snupe \xf0\x9f\x99\x8c\xf0\x9f\x99\x8f'
+p1547
+aS'ion even get paid minimum wage\xf0\x9f\x98\x8e'
+p1548
+aS'betchh\xf0\x9f\x98\x82'
+p1549
+aS'when jigg train come thruuu everybody \xf0\x9f\x92\x83\xf0\x9f\x92\x83\xf0\x9f\x92\x83\xf0\x9f\x92\x83  when its time to give a speech everybody \xf0\x9f\x99\x8a'
+p1550
+aS'bitch you aint better than nobody '
+p1551
+aS'everybody to cool'
+p1552
+aS'why this generation so prissy \xf0\x9f\x98\x92'
+p1553
+aS'but i wanna see the conjuring \xf0\x9f\x98\xa9'
+p1554
+aS'new orleans again \xf0\x9f\x98\x8e'
+p1555
+ag131
+aS'work \xf0\x9f\x99\x88'
+p1556
+aS'work got me \xf0\x9f\x98\xa9'
+p1557
+aS'i wanna ice cream cake'
+p1558
+aS'the way unfollowed everybody onna slick \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\xb6'
+p1559
+aS'its so sad and meaningful \xf0\x9f\x98\xad\xf0\x9f\x98\xa9'
+p1560
+aS'2 people fall in love amp its a really nice storyampthe lady ends not remembering anythingampthey die together in the hospital bed'
+p1561
+aS'when people wake you up then ask are you awake \xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x8f\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91'
+p1562
+aS'i think im out of tears  im never watching that movie again '
+p1563
+aS'\xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xad thats so sad '
+p1564
+aS'the notebook got me so emotional \xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\x90\xf0\x9f\x98\xaa\xf0\x9f\x98\xa9\xf0\x9f\x98\xad'
+p1565
+aS'white boys just   \xf0\x9f\x98\x8d'
+p1566
+aS'watching the notebook \xf0\x9f\x98\x8d\xf0\x9f\x98\xa9'
+p1567
+aS'everyhour at work we have a 5 min jig section \xf0\x9f\x98\x82\xf0\x9f\x92\x83'
+p1568
+aS'why i just woke up \xf0\x9f\x98\x95'
+p1569
+aS'\xf0\x9f\x98\x82 i suggest you move your bike '
+p1570
+aS'you at this work thing  \xf0\x9f\x91\x80'
+p1571
+aS'this bitch full \xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x91\x80'
+p1572
+aS'work today \xf0\x9f\x91\x8f\xf0\x9f\x98\xa9'
+p1573
+asS'2013_37'
+p1574
+(lp1575
+S'last night gtgt'
+p1576
+aS'everybody else you cut your hair  me  you took your weave out '
+p1577
+aS'yo ass need to find money '
+p1578
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x92\x80'
+p1579
+aS'howtoaskagirltohomecoming'
+p1580
+aS'\xf0\x9f\x98\x82 im bout to turn up on my own'
+p1581
+aS'\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9 i watched the same people jig  same people twerk nigghas smoking weed in the building \xf0\x9f\x98\x82'
+p1582
+aS'yall that party wass soooo wack \xf0\x9f\x98\xa9'
+p1583
+aS'im bored af \xf0\x9f\x98\xad'
+p1584
+aS'this party ltltltltltltltltltltlt'
+p1585
+aS'\xf0\x9f\x98\x95 why my tl so moody '
+p1586
+aS'selfie game \xf0\x9f\x98\x82 im dead '
+p1587
+aS'selfie game \xf0\x9f\x98\x82'
+p1588
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82dude lorenzo really kills me '
+p1589
+aS'too late \xf0\x9f\x91\x90\xf0\x9f\x98\x8c'
+p1590
+aS'she sounded so white \xf0\x9f\x98\x82\xf0\x9f\x98\x82 your father  just say mydaddy and lets move on \xf0\x9f\x98\x82'
+p1591
+ag131
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 your father didnt mind\xf0\x9f\x91\x80'
+p1592
+aS'moisturize yaa lips \xf0\x9f\x98\xa3'
+p1593
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p1594
+aS'why you worried where im going  \xf0\x9f\x91\x80 rt where yall going '
+p1595
+aS'where yall going '
+p1596
+aS'\xf0\x9f\x98\x95 imma be mad if this party lame '
+p1597
+aS'where is the lions den '
+p1598
+aS'\xf0\x9f\x98\x82'
+p1599
+aS'everybody else  your hair is cute meyour weave is nice \xf0\x9f\x98\x82'
+p1600
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 when jigga train come on we be'
+p1601
+aS'louisiana people be like '
+p1602
+aS'\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9 i hear you girl you gotta do what you gotta do'
+p1603
+aS'\xf0\x9f\x98\xa9\xf0\x9f\x98\x82 it was boring and i was failing math  lose lose situation '
+p1604
+aS'oooooo yasssss  \xf0\x9f\x99\x8b i want one \xe2\x80\x9dniggas wanna leave the school amp then want a shirt \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x98'
+p1605
+aS'can yall answer me \xf0\x9f\x91\x80'
+p1606
+aS'oooooo yasssss  \xf0\x9f\x99\x8b i want one '
+p1607
+aS'13 gates or double trouble party\xf0\x9f\x91\x80'
+p1608
+aS'wedgie legup lilboy funny and nasty af'
+p1609
+aS'\xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x91\x80 she tried to hang herself  '
+p1610
+aS'im soooooo tight \xf0\x9f\x92\x81\xf0\x9f\x92\x81\xf0\x9f\x92\x81 my throwback thursday'
+p1611
+aS'this man dont have no neck \xf0\x9f\x98\xa9\xf0\x9f\x98\x82'
+p1612
+aS'what yall doin this weekend '
+p1613
+aS'what i need is not what i want be any means \xf0\x9f\x98\xa9'
+p1614
+aS'what i want is not what i need'
+p1615
+aS'etta jamesgtgt'
+p1616
+aS'this girl watching me take pictures \xf0\x9f\x98\x92'
+p1617
+aS'who wanna switch schools \xf0\x9f\x98\xa9'
+p1618
+aS'if i get an audi  im not getting shit for senior year  be lucky if i get socks \xf0\x9f\x98\x90'
+p1619
+aS'\xf0\x9f\x98\x82\xf0\x9f\x91\x8b bye elisha  rt \xf0\x9f\x98\x82\xf0\x9f\x98\x82 bye lorenzo '
+p1620
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 bye lorenzo '
+p1621
+aS'i be in my room on vine really laughing my life away like all i do is sit in here ampamp laugh til im weak \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\xa9 247'
+p1622
+ag131
+aS'\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9 she wasnt reeaaadddyyyyy'
+p1623
+aS'\xf0\x9f\x98\x82 deletes picture '
+p1624
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 its that obvious '
+p1625
+aS'bruhhh im so fuckin lazy it even upsets me \xf0\x9f\x98\x92'
+p1626
+aS'then i got step brothers amp sisters \xf0\x9f\x91\x80'
+p1627
+aS'broadmoor'
+p1628
+aS'i be alone so much i forget i have a sibling \xf0\x9f\x98\x82'
+p1629
+aS'\xf0\x9f\x98\x92 i be hungry aab at school'
+p1630
+aS'\xf0\x9f\x98\x82\xf0\x9f\x91\x90 mane like he would '
+p1631
+aS'when my step brother im knowing he was buku excited  but he humble af'
+p1632
+aS'i bet my daddy would respect me on a whole new level '
+p1633
+aS'i kinda wanna go into the army '
+p1634
+aS'words with sheedra\xf0\x9f\x92\x81'
+p1635
+aS'trending '
+p1636
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 lawdd'
+p1637
+aS'nope '
+p1638
+aS'\xf0\x9f\x98\x82 law amporder is life \xf0\x9f\x92\x99'
+p1639
+aS'you have the right to an attorney if you can not afford an attorney the court will appoint you one '
+p1640
+aS'you have the right to remain silence anything you say can and will be used against you in the court of law'
+p1641
+aS'is it weird i know the miranda rights\xf0\x9f\x98\x90'
+p1642
+aS'the fact people get tattoos  so they could put team tatted in they bio \xf0\x9f\x98\x82\xe2\x9c\x8b'
+p1643
+aS'like excuse me  may i get to class \xf0\x9f\x98\x90'
+p1644
+aS'they do the mooooost \xf0\x9f\x98\x92'
+p1645
+aS'last retweet gt'
+p1646
+aS'hate seeing couples at school \xf0\x9f\x98\xb7'
+p1647
+aS'\xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x91\x80'
+p1648
+aS'they said my name on catfish \xf0\x9f\x92\x81'
+p1649
+aS'i wanna fight elisha'
+p1650
+aS'\xf0\x9f\x98\x82 why lorenzo wanna fight me '
+p1651
+aS'or a mustang '
+p1652
+aS'or a range rover  '
+p1653
+aS'i want an audi \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d'
+p1654
+aS'oomf always in they feelings like damn  be happy you got cable or some shit \xf0\x9f\x98\x92\xe2\x80\x9d\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p1655
+aS'friendzone \xf0\x9f\x98\x90'
+p1656
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 im childish   '
+p1657
+aS'like    can you loose boob weight '
+p1658
+aS'even my mama said i loook like raven\xf0\x9f\x98\xa9'
+p1659
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9 i dont see it '
+p1660
+aS'wreckingball \xf0\x9f\x91\x80'
+p1661
+aS'why everybody say i look like raven symon\xc3\xa9 \xf0\x9f\x98\x91'
+p1662
+aS'oomf always in they feelings like damn  be happy you got cable or some shit \xf0\x9f\x98\x92'
+p1663
+aS'ghetto fees get likes'
+p1664
+aS'imma start being ghetto in my pictures '
+p1665
+aS'i need to stop leaving my shit at people house \xf0\x9f\x98\x92'
+p1666
+aS'like she a hoe \xf0\x9f\x98\x82'
+p1667
+aS'\xf0\x9f\x98\x82 im hearing him trying to run game'
+p1668
+aS'put my city on the map \xf0\x9f\x98\x82'
+p1669
+aS'she just said baton rouge \xf0\x9f\x91\x80'
+p1670
+aS'panther pride amp u o e n o \xf0\x9f\x92\x99'
+p1671
+aS'family weekend \xf0\x9f\x92\x9e'
+p1672
+aS'they use to call me lame now they screaming my name  '
+p1673
+aS'i wanna share my common sense \xf0\x9f\x98\x82'
+p1674
+aS'i think i wanna do public speaking but im not sure  '
+p1675
+aS'came up thats all me  stay true thats all me  no help thats all me  all my forreal \xf0\x9f\x91\x90'
+p1676
+aS'\xf0\x9f\x9a\xa3'
+p1677
+aS'fuck society     we are society'
+p1678
+aS'im not salty im just saying tho  '
+p1679
+aS'im knowing thats why most people want relationships  just to post pictures '
+p1680
+aS'people whole relationship be for the gram \xf0\x9f\x98\x82\xf0\x9f\x91\x90'
+p1681
+aS'when people put they life on social media amp then why everybody in they business \xf0\x9f\x98\x92'
+p1682
+aS'i need to go mia and get my stuff together  '
+p1683
+aS'they really got chicken wings at mcdonalds \xf0\x9f\x98\x82\xf0\x9f\x98\x90'
+p1684
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 nokia tweets'
+p1685
+aS'bitch \xf0\x9f\x98\x91'
+p1686
+aS'well buy every iphone that came out if we had the money tbh thats just how deep apple has gotten into our brains br\xe2\x80\xa6'
+p1687
+aS'they put a fucking finger scanner \xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\x91\xf0\x9f\x98\xa0\xf0\x9f\x98\xa0\xf0\x9f\x98\xa0\xf0\x9f\x98\xa0\xf0\x9f\x98\xa0\xf0\x9f\x98\xa0\xf0\x9f\x98\xa0\xf0\x9f\x98\xa0\xf0\x9f\x98\xa0\xf0\x9f\x98\xa0\xf0\x9f\x98\xa0\xf0\x9f\x98\xa0'
+p1688
+aS'lookn at this phone \xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9 im bout to write an angry letter to apple   '
+p1689
+aS'im beyond pissed \xf0\x9f\x98\xa1\xf0\x9f\x98\xa1\xf0\x9f\x98\xa1'
+p1690
+aS'then they got the nerve to make the 5s different colors \xf0\x9f\x98\x91'
+p1691
+aS'i just bought the fucking 5  fuck you apple'
+p1692
+aS'ios 7 comes out september 18 \xf0\x9f\x91\x90along with the 5samp5c   '
+p1693
+aS'yaaasss \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x82'
+p1694
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 imma set yall play date up '
+p1695
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 just downloaded it '
+p1696
+aS'\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9'
+p1697
+aS'yall they coming out with a 5s \xf0\x9f\x98\x92\xf0\x9f\x98\xa9\xf0\x9f\x98\xa1\xf0\x9f\x98\xa1\xf0\x9f\x98\xa1\xf0\x9f\x98\xa1\xf0\x9f\x98\xa1'
+p1698
+aS'apple some secretive mutherfuckers \xf0\x9f\x98\x92'
+p1699
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 noo'
+p1700
+aS'if they come out with a 5s imma be pissed beyond belief \xf0\x9f\x98\x90'
+p1701
+aS'\xf0\x9f\x91\x80 lmaoo shool dont like they got unnecessary emojis expect the ones we actually need '
+p1702
+aS'\xf0\x9f\x90\xab hump day'
+p1703
+aS'lisha said a nugget on a bone \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p1704
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 like i think so  aint never seen no nugget like that '
+p1705
+aS'\xf0\x9f\x92\xae'
+p1706
+aS'\xf0\x9f\x8d\x96 a nugget on a bone '
+p1707
+aS'\xf0\x9f\x90\xa1 '
+p1708
+aS'\xf0\x9f\x94\xb0\xf0\x9f\x9a\xa1\xf0\x9f\x9a\x9f\xf0\x9f\x9a\xa0\xf0\x9f\x9a\x9c\xf0\x9f\x9a\x8f\xf0\x9f\x8e\xab\xf0\x9f\x8e\x92\xf0\x9f\x93\x91\xf0\x9f\x8e\xbb never use these tho  '
+p1709
+aS'i wanna talk about emojis we never use '
+p1710
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p1711
+aS'i find it rude for people to smoke cigarettes in front of me  like excuse me for trying to live a cancer free life \xf0\x9f\x98\x92'
+p1712
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 noooo'
+p1713
+aS'\xf0\x9f\x98\xa9 stop you scaring me'
+p1714
+aS'\xf0\x9f\x98\x82 salty much '
+p1715
+aS'girl bye rt yall lame    we already got ios 7 \xf0\x9f\x98\x82\xf0\x9f\x92\x81'
+p1716
+aS'yall lame    we already got ios 7 \xf0\x9f\x98\x82\xf0\x9f\x92\x81'
+p1717
+aS'i can rap yall '
+p1718
+aS'i swear yall the only people in br i fuck with '
+p1719
+aS'in br its dirty hoes  dirty nigghas then its my twitter fam \xe2\x9c\x8a'
+p1720
+aS'this show friend zone make me wanna cry \xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xad'
+p1721
+aS'son shut the fuck up  \xf0\x9f\x98\x92'
+p1722
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x92 mane alright '
+p1723
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 i swear i wouldnt complain about school nomore  be happy af to go to school '
+p1724
+aS'pause what if everybody in br went to the same school \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p1725
+aS'i wanna go to tara for a day '
+p1726
+aS'soulja boy tweeted album dropping in october and someone replied pick it back up \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p1727
+aS'wait  everybody take a nap at the same time \xf0\x9f\x98\xa9'
+p1728
+aS'bruhh they need gucci translate \xf0\x9f\x98\x95'
+p1729
+aS'im sleepy but i feel like im going to miss something \xf0\x9f\x98\xa9'
+p1730
+aS'if you aint have to reread none of gucci tweets you a special motherfuker'
+p1731
+aS'gucci be abusing the shit out the space bar\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\xb4\xf0\x9f\x98\xb4\xf0\x9f\x98\xb4'
+p1732
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 sonnnnnnn '
+p1733
+aS'gucci need to turn his spelling check on\xf0\x9f\x98\xa9\xf0\x9f\x98\x82'
+p1734
+aS'im feeling like his page is hacked \xf0\x9f\x98\x90 like you cant be that dumb '
+p1735
+aS'im really struggling trying to understand this man tweets \xf0\x9f\x98\x82'
+p1736
+aS'trouble man\xe2\x9c\x8a'
+p1737
+aS'george zimmerman in jail tygas baby mama got a train by gucci amp waka amp gucci said he smashed nicki minaj its only a m\xe2\x80\xa6'
+p1738
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 son gucc made my day '
+p1739
+aS'only a fool acts reckless for publicity'
+p1740
+aS'\xf0\x9f\x98\x82 he aint say fuck kendrick'
+p1741
+aS'while gucci call himself tryna spill some tea he need to spill some carmex on them flamable ass lips'
+p1742
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 i swear gucci has gone crazy'
+p1743
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82nooo huh '
+p1744
+aS'will gucci keep exposing will zimmerman go to jail will chief keef ever pass the 8th grade find out next time on d\xe2\x80\xa6'
+p1745
+aS'dont touch my phone '
+p1746
+aS'my momma ltltltlt'
+p1747
+aS'why shatara so dumm\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p1748
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 dont do my bae \xf0\x9f\x98\xa9\xf0\x9f\x98\x8d'
+p1749
+aS'im picky with my nigghas \xf0\x9f\x98\x95'
+p1750
+aS'can you be mines already \xf0\x9f\x92\x9e\xf0\x9f\x98\x8d\xf0\x9f\x98\xa9'
+p1751
+aS'i live inna hotel \xf0\x9f\x98\x90'
+p1752
+aS'tf is a bae can i have you post  like you puttin the same thing under everybody picture \xf0\x9f\x92\x80'
+p1753
+aS'yo py is public but yo instagram is private thats that hoe shit \xf0\x9f\x98\x82'
+p1754
+aS'\xf0\x9f\x98\x98\xf0\x9f\x98\x98'
+p1755
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 you could follow me back now '
+p1756
+aS'ion know how \xf0\x9f\x98\x82\xf0\x9f\x98\x82 i blocked you in accident'
+p1757
+aS'im 56\xf0\x9f\x98\x94'
+p1758
+aS'yassss \xf0\x9f\x98\x94 i have sooo much to share '
+p1759
+aS'\xf0\x9f\x98\x92\xf0\x9f\x98\x92 when is you getting yo phone back  '
+p1760
+aS'yo hair gtgtgt'
+p1761
+asS'2013_36'
+p1762
+(lp1763
+S'why me and tiana spent 21 on food \xf0\x9f\x98\xa9'
+p1764
+aS'\xe2\x9c\x8a my day one niggha'
+p1765
+aS'psa i do what i wanna do \xf0\x9f\x91\x8c'
+p1766
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p1767
+aS'i got all as and a d '
+p1768
+aS'i only fuxk with 15 followers \xf0\x9f\x98\x82'
+p1769
+aS'bye'
+p1770
+aS'what you always wanted to say to your mom ft endiya baby amp keezydoe funny revine comedy blackmom ayei'
+p1771
+aS'why you aint got it '
+p1772
+aS'the way tiana talk  like she running outta breath amp be mumbling ha ass off '
+p1773
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 yall last night'
+p1774
+aS'\xf0\x9f\x98\x82\xf0\x9f\x91\x80 we took a charge last night'
+p1775
+aS'thats why she ugly \xf0\x9f\x98\x92'
+p1776
+aS'tiana dont wanna get the shampoo \xf0\x9f\x98\x94'
+p1777
+aS'this rained got me fucked \xf0\x9f\x98\x92'
+p1778
+aS'i told yall fucks it was gone rain'
+p1779
+aS'yolo'
+p1780
+aS'yall dont find that weird '
+p1781
+aS'im really amazed at the factapples grow on tress \xf0\x9f\x98\x90'
+p1782
+aS'tonight gone be live if it goes as planned'
+p1783
+aS'\xf0\x9f\x91\x8f\xf0\x9f\x91\x8f\xf0\x9f\x91\x8f\xf0\x9f\x91\x8f\xf0\x9f\x91\x8f\xf0\x9f\x91\x8f\xf0\x9f\x91\x8f\xf0\x9f\x92\x99\xf0\x9f\x8f\x88'
+p1784
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 they gone come around '
+p1785
+aS'you had missed me \xf0\x9f\x92\x81'
+p1786
+aS'im straight thug \xe2\x9c\x8a'
+p1787
+aS'\xf0\x9f\x98\xa9 where was youuu'
+p1788
+aS'my house was on fire \xf0\x9f\x98\x90'
+p1789
+aS'\xf0\x9f\x98\x82 im ok  cant cook tho '
+p1790
+aS'u otayy big hungrey  '
+p1791
+aS'\xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x91\x80'
+p1792
+aS'me too amp thanks \xf0\x9f\x91\x90'
+p1793
+aS'omgg glad your okayy  '
+p1794
+aS'\xf0\x9f\x92\x99\xf0\x9f\x8f\x88 vs \xf0\x9f\x92\x9b\xf0\x9f\x8f\x88'
+p1795
+aS'my kitchen is really burned down \xf0\x9f\x98\x94'
+p1796
+aS'\xf0\x9f\x92\x99\xf0\x9f\x92\x99\xf0\x9f\x8f\x88\xf0\x9f\x8f\x88'
+p1797
+aS'got me fucked if you think im bout to get cute to get rained on \xf0\x9f\x98\x92'
+p1798
+aS'why yall on lockdown '
+p1799
+aS'my kitchen burned down \xf0\x9f\x98\x95'
+p1800
+aS'if you got hoes tf you need me for if you got me tf you need them hoes for just curious \xf0\x9f\x98\x92'
+p1801
+aS'cant nobody tell me anything  me amp god \xe2\x9c\x8a'
+p1802
+aS'my mama is horrible in situations \xf0\x9f\x98\xa9'
+p1803
+aS'all i got is my phone'
+p1804
+aS'yall my house just caught on fire \xf0\x9f\x98\xa9'
+p1805
+aS'if im the only person hype for tomorrow \xf0\x9f\x98\x90'
+p1806
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 that day my daddy thought i was pregnant \xf0\x9f\x92\x80'
+p1807
+aS'\xf0\x9f\x98\xa9 dude really '
+p1808
+aS'tiana going on slv side\xf0\x9f\x98\x92\xf0\x9f\x98\x92\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9'
+p1809
+aS'if me shatara amp qui was still sigma phi alpha members \xf0\x9f\x98\x8d\xf0\x9f\x91\x90'
+p1810
+aS'calls tiana '
+p1811
+aS'\xf0\x9f\x91\x80 ion know what side to sit on '
+p1812
+aS'just    stfu \xf0\x9f\x98\x92'
+p1813
+aS'nooooooooo hunh  \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x86\xf0\x9f\x98\x86\xf0\x9f\x98\x86 i really just lost itt look mane'
+p1814
+aS'i need to clean up my room'
+p1815
+aS'i get to see everybody tomorrow \xf0\x9f\x98\x8c'
+p1816
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 drug test'
+p1817
+aS'text me \xf0\x9f\x98\xa9\xf0\x9f\x98\xa9'
+p1818
+aS'for us to be on lockdown \xf0\x9f\x98\x91'
+p1819
+aS'he can only give me 125 \xf0\x9f\x98\x92'
+p1820
+aS'calls daddy '
+p1821
+aS'i need some money \xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9'
+p1822
+aS'i feel like being ghetto af saturday '
+p1823
+aS'shoe shopping is therapeutic '
+p1824
+aS'i need my kds gnikes amp my custom nb \xf0\x9f\x98\xa9'
+p1825
+aS'who  mike jones '
+p1826
+aS'mck amp slv game  rt if you going \xf0\x9f\x98\x81'
+p1827
+aS'facetime me '
+p1828
+aS'yall text me '
+p1829
+aS'\xf0\x9f\x91\x8c alright '
+p1830
+aS'\xf0\x9f\x91\x80\xf0\x9f\x91\x80 oooo no '
+p1831
+aS'you always talking spit \xf0\x9f\x98\x82\xf0\x9f\x98\x92'
+p1832
+aS'wild n out on '
+p1833
+aS'i just got outta my feelings so you good amp thank you \xf0\x9f\x98\x98'
+p1834
+aS'\xf0\x9f\x98\xad\xf0\x9f\x98\xad dont hate mee i have no fone  happy late bday \xf0\x9f\x98\x98\xf0\x9f\x98\x98'
+p1835
+aS'jason pitts \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d'
+p1836
+aS'act your color '
+p1837
+aS'this day gt'
+p1838
+aS'i havent been this sick since i was little \xf0\x9f\x98\x95'
+p1839
+aS'not just br people  but 90 of niggas amp hoes dont keep it real'
+p1840
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 yall i sent this dude the utmost ugly selfie by accident'
+p1841
+aS'so do looks matter  or is it just all personality '
+p1842
+aS'i wanna know how my followers feel about my next tweet \xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x91\x80'
+p1843
+aS'im the type of person to text somebody and ask if they love me amp if the say no we beefing \xf0\x9f\x98\x90'
+p1844
+aS'you like food \xf0\x9f\x98\x82 but i got cho \xf0\x9f\x91\x8c'
+p1845
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 that weed not even legal in the states amp ion got candy i got snacks \xf0\x9f\x91\x90'
+p1846
+aS'\xf0\x9f\x91\x8c wassup with some candyyyyy \xf0\x9f\x98\xa9 and we weed you was smoking'
+p1847
+aS'\xf0\x9f\x98\x8c\xf0\x9f\x98\x8c thanks anthony '
+p1848
+aS'yeah mane  my only 5 hour friend \xf0\x9f\x91\x8c\xf0\x9f\x91\x8a'
+p1849
+aS'yo avi tho\xf0\x9f\x98\x8d'
+p1850
+aS'if i died yall would care \xf0\x9f\x91\x80'
+p1851
+aS'\xf0\x9f\x91\x8c'
+p1852
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x8c i had to help my people \xf0\x9f\x91\x90'
+p1853
+aS'yall guess what      its raining \xf0\x9f\x98\x90\xe2\x80\x9d thanks sherlock we didnt know what the water falling from the s\xe2\x80\xa6'
+p1854
+aS'yall guess what      its raining \xf0\x9f\x98\x90'
+p1855
+aS'what if the purge happen in b a t o n r o u g e'
+p1856
+aS'who made god mad \xf0\x9f\x98\x95'
+p1857
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 lmaoo'
+p1858
+aS'bruhh my arm about to fall tf off '
+p1859
+aS'levels gtgtgtgtgt'
+p1860
+aS'\xf0\x9f\x98\x90 dude  what yours '
+p1861
+aS'im good \xf0\x9f\x91\x90'
+p1862
+aS'\xf0\x9f\x98\x82 im laughing but my doctor really got me fucked up '
+p1863
+aS'if this lady give me a steroid shot imma punch her inna face '
+p1864
+aS'somebody asked if i was smoking pills \xf0\x9f\x98\x82\xf0\x9f\x98\x82 '
+p1865
+aS'my eyes wasis soooooo red my teacher asked me if i was high \xf0\x9f\x98\x90'
+p1866
+aS'bruhhh  i hate hospitals should have just let me die \xf0\x9f\x98\x95'
+p1867
+aS'\xf0\x9f\x98\x82 i know im lowkey nosey '
+p1868
+aS'i looked at this for buku long \xf0\x9f\x98\x91'
+p1869
+aS' when people get tattoos just to get tattoos ltlt'
+p1870
+aS'yasss\xf0\x9f\x91\x90\xf0\x9f\x91\x90\xf0\x9f\x91\x90\xf0\x9f\x91\x90'
+p1871
+aS'\xf0\x9f\x98\x9d\xf0\x9f\x98\x9d\xf0\x9f\x98\x9d\xf0\x9f\x98\x9d you hate all the cute couple stuff'
+p1872
+aS'that im laughing but you got me fucked up  quote \xf0\x9f\x98\x82\xf0\x9f\x98\x90'
+p1873
+aS'raplikelilwayne credit card got denied call it swiper no swiping'
+p1874
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x92\x80'
+p1875
+aS'i hate all that love shit \xf0\x9f\x98\x92'
+p1876
+aS'i hate cuffing season '
+p1877
+aS'i hate valentines day '
+p1878
+aS'i absolutely hate love bugs another reminder of how lonely i am\xf0\x9f\x98\x95'
+p1879
+aS'the chances of me getting in a relationship is slim to none'
+p1880
+aS'we wouldnt learn nothing \xf0\x9f\x98\x82\xf0\x9f\x91\x90'
+p1881
+aS'if everybody in baton rouge went to the same school \xf0\x9f\x98\x82\xf0\x9f\x98\x82gtgt'
+p1882
+aS'if school was at night gtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgtgt that sht would be live af'
+p1883
+aS'purpose of having a phone if nobody gone text it \xf0\x9f\x98\x91'
+p1884
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 fuck dhat '
+p1885
+aS'\xf0\x9f\x98\x82well everybodys feeling some type away today\xf0\x9f\x91\x8f'
+p1886
+aS'imma come vist \xe2\x9c\x8a\xe2\x9c\x8a'
+p1887
+aS'miss my lishaaa too \xf0\x9f\x98\xa9\xf0\x9f\x98\x94'
+p1888
+aS'pretty girls with bad attitude '
+p1889
+aS'same to you \xf0\x9f\x98\x94\xf0\x9f\x98\x94 i miss my lil chantan '
+p1890
+aS'its ok ig  its boring af i miss brh tho \xf0\x9f\x98\x95'
+p1891
+aS'how you like brh '
+p1892
+aS'im saying im done  but he could text me and i would take it all back \xf0\x9f\x98\x94'
+p1893
+aS'im done stressing over people \xf0\x9f\x91\x90'
+p1894
+aS'tiana gtgt  i swear thats my rock \xe2\x9c\x8a'
+p1895
+aS'being surrounded by people but still feeling lonely'
+p1896
+aS'i just need to talk to somebody \xf0\x9f\x98\x95'
+p1897
+aS'a companion of the opposite sex gt'
+p1898
+aS'im really starting to hate baton rouge \xf0\x9f\x98\x92'
+p1899
+aS'he would be kept \xf0\x9f\x92\x81'
+p1900
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x90 no he wouldnt '
+p1901
+aS'if i had a bf like tupac \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d'
+p1902
+aS'september just finna be a great month'
+p1903
+aS'\xf0\x9f\x98\x82 i had yo dude and uoeno '
+p1904
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 bruhh im dying'
+p1905
+aS'i need some new shoes'
+p1906
+aS'raplikelilwayne her garage small i hope my trukfit'
+p1907
+aS'raplikelilwayne got a bed in my room thats a bedroom'
+p1908
+asS'2013_35'
+p1909
+(lp1910
+S'hands down best birthday  i had inna while \xf0\x9f\x91\x90'
+p1911
+aS'\xf0\x9f\x98\x91 no jade '
+p1912
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x98 thanks lil mama '
+p1913
+aS'happy birthday heffa \xf0\x9f\x98\x98\xf0\x9f\x98\x98'
+p1914
+aS'thank you \xf0\x9f\x98\x82\xf0\x9f\x98\x98\xf0\x9f\x98\x98'
+p1915
+aS'happy birthday y shawtyyy  its ya birthday shawtyyy  have fun \xf0\x9f\x98\x98\xf0\x9f\x92\x83\xf0\x9f\x92\x81'
+p1916
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 dude '
+p1917
+aS'happy birthday ma'
+p1918
+aS'zankk you \xf0\x9f\x98\x98'
+p1919
+aS'happy b day'
+p1920
+aS'thank you \xf0\x9f\x98\x98\xf0\x9f\x98\x98'
+p1921
+aS'happy birthday '
+p1922
+aS'thank you love \xf0\x9f\x98\x98\xf0\x9f\x91\x90'
+p1923
+aS'happy birthday \xf0\x9f\x92\x95'
+p1924
+aS'thank you keri \xf0\x9f\x98\x98'
+p1925
+aS'cough still waiting for yall to tell me hbd \xf0\x9f\x98\x92\xf0\x9f\x92\x81'
+p1926
+aS'that text i just got \xf0\x9f\x98\x8d'
+p1927
+aS'birthday licks ltltltltltltltltltltltlt'
+p1928
+aS'thank you \xf0\x9f\x98\x98\xf0\x9f\x98\x98'
+p1929
+aS'happy birthday'
+p1930
+aS'thank you \xf0\x9f\x98\x98'
+p1931
+aS'happy birthday  '
+p1932
+aS'waits on followers to tell me happy birthday'
+p1933
+aS'oooo kill em'
+p1934
+aS'yall its really my birthday \xf0\x9f\x92\x81'
+p1935
+aS'thank you '
+p1936
+aS'i need somebody to answer that tho \xf0\x9f\x91\x90'
+p1937
+aS'wait  texas and louisiana got the same time or nauhh '
+p1938
+aS'we did respect amp stop in the name of love \xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p1939
+aS'i did karaoke tonight \xf0\x9f\x98\x82'
+p1940
+aS'my tl so mixed right now \xf0\x9f\x98\x82\xf0\x9f\x91\x90'
+p1941
+aS'today was really fun tho '
+p1942
+aS'i still feel like im in the wave pool'
+p1943
+aS'whauddup with it \xf0\x9f\x91\x90'
+p1944
+aS'texas aint bout to owe me nothing \xe2\x9c\x8c\xf0\x9f\x91\x8f'
+p1945
+aS'just read a tweet about this level'
+p1946
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x91\x80 i seeee you mck '
+p1947
+ag131
+aS'reading old text messages gtgt'
+p1948
+aS'for my mama to ask me if i wanna go to slv \xf0\x9f\x98\x82\xf0\x9f\x98\x91'
+p1949
+aS'when my followers retweet people i dont like \xf0\x9f\x98\x91'
+p1950
+aS'when people say i dont like your attitude   i was suppose to gaf \xf0\x9f\x98\x82\xf0\x9f\x92\x81 '
+p1951
+aS'procrastination is life \xf0\x9f\x91\x90'
+p1952
+aS'why jamboree gotta be tomorrow \xf0\x9f\x98\x94\xf0\x9f\x98\x91'
+p1953
+aS'your welcome \xe2\x98\xbaamp i miss you too \xf0\x9f\x98\x94 it aint the same '
+p1954
+aS'elisha just made my little night or whatever lol \xe2\x98\xba\xef\xb8\x8f i miss herrrrr \xf0\x9f\x98\xad'
+p1955
+aS'caa is really pretty \xf0\x9f\x98\x8d\xe2\x80\x9d awww thank you \xf0\x9f\x98\x98\xe2\x98\xba\xef\xb8\x8f'
+p1956
+aS'caa is really pretty \xf0\x9f\x98\x8d'
+p1957
+aS'why 35 kids got suspended today \xf0\x9f\x98\x92'
+p1958
+aS'yet to pack   '
+p1959
+aS'no school \xf0\x9f\x92\x81'
+p1960
+aS'kedria ltltlt'
+p1961
+aS'if i fuck up my 5 imma be pissed \xf0\x9f\x98\x90'
+p1962
+aS'i have to jailbreak my phone to get ios7 or nauhh'
+p1963
+aS'then  if i text you first  you must be amazing \xf0\x9f\x91\x90'
+p1964
+aS'if i text you you must be special '
+p1965
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 what dhat mouth do tho'
+p1966
+aS'why i almost got inna wreck \xf0\x9f\x98\x95'
+p1967
+aS'\xf0\x9f\x98\x82 so i was driving on plank   '
+p1968
+aS'the longer i think about it the madder i get '
+p1969
+aS'momz said i could go to mck \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d'
+p1970
+aS'my mama\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p1971
+aS'texas this week \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x91\x8f'
+p1972
+aS'tom ford \xf0\x9f\x91\x90'
+p1973
+aS'i wish i was gone be down here for jamboree  fuck it tho'
+p1974
+aS'i swear its like 1step forward 2 steps back '
+p1975
+aS'click the link  then you can just put inna problem amp select find slope '
+p1976
+aS'swear \xf0\x9f\x91\x90'
+p1977
+aS'my algebra com'
+p1978
+aS'changes channel'
+p1979
+aS'katy is pretty '
+p1980
+aS'son said slave braids \xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p1981
+aS'i liked the other video \xf0\x9f\x98\x92'
+p1982
+aS'if they dont win \xf0\x9f\x98\x95'
+p1983
+aS'drake looking like the 5 gum symbol'
+p1984
+aS'im knowing he smoke '
+p1985
+aS'bruno '
+p1986
+aS'lil mama look like left eye \xf0\x9f\x98\xb3'
+p1987
+aS'i refuse to see insidious 2 to with my female friends '
+p1988
+aS'he shouldve did the motion '
+p1989
+aS'bye rakayla'
+p1990
+aS'worry bout me give a fuck about you \xf0\x9f\x91\x90'
+p1991
+aS'when tacovi licks his lips\xf0\x9f\x98\x8f\xe2\x80\x9d'
+p1992
+aS'started '
+p1993
+aS'when drake licks his lips\xf0\x9f\x98\x8f'
+p1994
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p1995
+aS'rip left eye \xf0\x9f\x99\x8f'
+p1996
+aS'tlc\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d'
+p1997
+aS'he look like justin bieber when he was 12 fuxk outta here'
+p1998
+aS'bb who are these people '
+p1999
+aS'british accents \xf0\x9f\x98\x8d'
+p2000
+aS'jennifer look so good'
+p2001
+aS'the song is catchy tho '
+p2002
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 bye '
+p2003
+aS'his smile  his hair  his voice  his music  the way he said homosexuality\xf0\x9f\x98\x8d'
+p2004
+aS'wait no yall asap is really that niggha \xf0\x9f\x98\x8d'
+p2005
+aS'excuse me \xf0\x9f\x98\x91'
+p2006
+aS'miley \xf0\x9f\x91\x90\xf0\x9f\x91\x90\xf0\x9f\x91\x90'
+p2007
+aS'1 direction cute aab'
+p2008
+aS'rihanna \xf0\x9f\x98\x8d'
+p2009
+aS'imma have you naked by the end of this song \xf0\x9f\x98\x8f'
+p2010
+aS'taylor cute tho '
+p2011
+aS'\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8dmysong '
+p2012
+aS'i never got a love note \xf0\x9f\x98\x95'
+p2013
+aS'yass bring it back    to my house \xf0\x9f\x98\x8d'
+p2014
+aS'justin  marry me \xf0\x9f\x98\x8d\xf0\x9f\x98\xa9'
+p2015
+aS'i swear i aint know shit about being gay till 6th grade \xf0\x9f\x98\x95'
+p2016
+aS'kendrick lamar is that motherfucking dude \xf0\x9f\x91\x8d\xf0\x9f\x8c\x9f'
+p2017
+aS'why you getting mad about people opinion\xf0\x9f\x98\x92'
+p2018
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p2019
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 fuck that when i was in the 3rd grade shit '
+p2020
+aS'wait who won  '
+p2021
+aS'yall sleep on miley \xf0\x9f\x98\x95'
+p2022
+aS'miley just \xf0\x9f\x98\x8d'
+p2023
+aS'dude nobody cares '
+p2024
+aS'anyways my birthday sunday \xf0\x9f\x92\x81'
+p2025
+aS'\xf0\x9f\x98\x95 kanye west music be scaring me sometimes  like am i getting possessed '
+p2026
+aS'autotune  o'
+p2027
+aS'no you shut the fuck up \xf0\x9f\x98\x91'
+p2028
+aS'ion respect kanye but i like his music'
+p2029
+aS'mtv obviously doesnt censor shit'
+p2030
+aS'drake like why you bringing up the past kevin \xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p2031
+asS'2013_34'
+p2032
+(lp2033
+S'i like how stuff erwhere but that bag of lays just sitting there perfectly \xf0\x9f\x98\x82'
+p2034
+aS'the real version of baby boy on\xf0\x9f\x91\x8f\xf0\x9f\x91\x8f'
+p2035
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 he need to fly his ass back its clean up time '
+p2036
+aS'my room ltltltltltltltltltlt'
+p2037
+aS'when hoes stunt like contacts they real eyes ltltltltltltltltltltlt'
+p2038
+aS'i shut my fat ass up \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p2039
+aS'why was i was screaming song lyrics last night \xf0\x9f\x98\x91'
+p2040
+aS'he told me to shut my fat ass up and what did you do i shut my fat ass up'
+p2041
+aS'i dos my work my grades is good \xf0\x9f\x92\x81\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p2042
+aS'yall realize nobody hold they phone sides ways nomore \xf0\x9f\x91\x80'
+p2043
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 bye big hungreyy \xf0\x9f\x91\x8b\xf0\x9f\x98\x81'
+p2044
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 bye shatara '
+p2045
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 wanna be red ass female '
+p2046
+aS'hatin hoes be like    dumb bitches be liiiike  orangeskin \xf0\x9f\x92\x81\xe2\x80\x9d'
+p2047
+aS'orangeskin \xf0\x9f\x92\x81'
+p2048
+aS'i aint had a bae in 5 years \xf0\x9f\x98\x82\xf0\x9f\x91\x90'
+p2049
+aS'why the fuck am i at home \xf0\x9f\x98\x94'
+p2050
+aS'wait  lemme get in my feelings '
+p2051
+aS'\xf0\x9f\x92\x81 imma make a good lawyer '
+p2052
+aS'i spent my whole fucking day in teen court \xf0\x9f\x98\xa1'
+p2053
+aS'kappa party \xf0\x9f\x98\x8dgtgtgt'
+p2054
+aS'what chall doin'
+p2055
+aS'fuxk outta my face \xf0\x9f\x91\x90'
+p2056
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 i do not run the streets\xf0\x9f\x91\x90'
+p2057
+aS'stfu'
+p2058
+aS'why say mama said i be inna streets \xf0\x9f\x98\x92'
+p2059
+aS'that 1 person who always in they feelings on my tl\xf0\x9f\x98\x90 bitch'
+p2060
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82im weakkkkkkkkk'
+p2061
+aS'tim\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p2062
+aS'hey guys \xf0\x9f\x91\x8b'
+p2063
+aS'power trip bounce version \xf0\x9f\x91\x90\xf0\x9f\x94\xa5'
+p2064
+aS'dont want her if it dont clap when she walking \xf0\x9f\x91\x90'
+p2065
+aS'rip snupe '
+p2066
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 teamhairlesscat \xe2\x9c\x8c'
+p2067
+aS'off my cat \xf0\x9f\x91\x89\xf0\x9f\x9a\xaa'
+p2068
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 teamorangeskin'
+p2069
+aS'i wanna learn to play piano '
+p2070
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 dont do bae '
+p2071
+aS'tweetabond  imma always fuck with my wne \xe2\x9c\x8a bae been there when nobody was  i love you bae \xf0\x9f\x98\x98\xf0\x9f\x98\x98'
+p2072
+aS'tweetabond \xf0\x9f\x98\x82 besssssssssssss'
+p2073
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 himgtgtgtgt'
+p2074
+aS'\xf0\x9f\x98\x82 bitchhhhhhhhh'
+p2075
+aS'you\xe2\x9c\x8b and me\xe2\x9c\x8b will never\xe2\x9c\x8b paarrttttt \xe2\x9c\x8b \xf0\x9f\x98\x82'
+p2076
+aS'tweetabond \xe2\x9c\x8a'
+p2077
+aS'\xf0\x9f\x98\x82poor tim'
+p2078
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 cause we fuxking cant '
+p2079
+aS'tweetabond amp \xf0\x9f\x98\x98 describes our friendship \xf0\x9f\x98\x82'
+p2080
+aS'tweetabond bessss\xf0\x9f\x98\x8d'
+p2081
+aS'twitter fam\xe2\x9c\x8a'
+p2082
+aS'i feel left out \xf0\x9f\x98\xa9'
+p2083
+aS'why my page wont refreshhhhh \xf0\x9f\x98\x92\xf0\x9f\x98\x92'
+p2084
+aS'my instagram the only one not working'
+p2085
+aS'when i get my car gtgtgtgtgtgtgtgtgtgtgtgt'
+p2086
+aS'somebody said i looked liked raven symon\xc3\xa9 \xf0\x9f\x98\x91\xf0\x9f\x98\x91'
+p2087
+aS'the 90sgtgtgtgtgtgt'
+p2088
+aS'the cosby show gtgt'
+p2089
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 omgggg thats going down in history '
+p2090
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 the video'
+p2091
+aS'i finally learned how to twerk \xf0\x9f\x98\x82'
+p2092
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p2093
+aS'whats that app called when you put pictures in the background like photogrid \xf0\x9f\x98\x91'
+p2094
+aS'\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5\xf0\x9f\x94\xa5 mcm is'
+p2095
+aS'i miss watching tv with yall '
+p2096
+aS'slv vs mck game'
+p2097
+aS'when football season start gtgtgtgt'
+p2098
+aS'i dont know what i want '
+p2099
+aS'\xf0\x9f\x91\x90'
+p2100
+aS'im hungry  noooo i want a smoothie \xf0\x9f\x98\x8d'
+p2101
+aS'my avi cute or nauhh \xf0\x9f\x91\x80'
+p2102
+aS'that sound the net makes when you make the shot \xf0\x9f\x99\x8c'
+p2103
+aS'my birthday september 1 \xf0\x9f\x98\x8d'
+p2104
+aS'i hate mondays \xf0\x9f\x98\x92'
+p2105
+aS'this headache \xf0\x9f\x98\xad\xf0\x9f\x98\xa9'
+p2106
+aS'yall im bored \xf0\x9f\x98\x95'
+p2107
+aS'i swear this girl buy her followers\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p2108
+aS'rip to a couple friends amp they aint even dead \xf0\x9f\x91\x90'
+p2109
+aS'im really at a lost for words '
+p2110
+aS'never insult my fucking intelligence \xf0\x9f\x98\x92'
+p2111
+aS'amp watch i graduate valedictorian \xf0\x9f\x92\x81'
+p2112
+aS'\xf0\x9f\x98\x82 like people would really break they back just to see me fail '
+p2113
+aS'you know this world is fucked when your family cant be trusted \xf0\x9f\x98\x82\xf0\x9f\x91\x90'
+p2114
+asS'2013_33'
+p2115
+(lp2116
+S'idk if i had homework this weekend'
+p2117
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x98\xf0\x9f\x98\x98 youll see me at dances '
+p2118
+aS'maybe\xf0\x9f\x98\x92'
+p2119
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x95 but you miss us tho '
+p2120
+aS'but your surrounded by smarter people  while were surrounded by not so smart amp now were star pupils \xf0\x9f\x99\x8c'
+p2121
+aS'but your school boring tho \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p2122
+aS'\xf0\x9f\x98\x82 some of us left by choice \xf0\x9f\x98\x92'
+p2123
+aS'i heard brh boring \xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p2124
+aS'she only wanna fuxk my trade \xf0\x9f\x99\x8c'
+p2125
+aS'watching insidious \xf0\x9f\x98\x82\xf0\x9f\x98\xab\xf0\x9f\x98\xab\xf0\x9f\x98\xab\xf0\x9f\x98\xab\xf0\x9f\x98\xab\xf0\x9f\x98\xab'
+p2126
+aS'kedria stfu \xf0\x9f\x98\x95'
+p2127
+aS'\xf0\x9f\x98\xa9 that moment when you realized youve fucked up   bad'
+p2128
+aS'saw today \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d'
+p2129
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\xa9\xe2\x9c\x8a i miss you to maneeeeee\xf0\x9f\x99\x8c'
+p2130
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 her weave not funny '
+p2131
+aS'yall this is sooooooo funny  tell me he dont look like lil bill '
+p2132
+aS'yeah you right cause shawty bad \xf0\x9f\x98\x8d\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p2133
+aS'i fucks with you if your pretty amp your pretty so i fucks with you \xf0\x9f\x98\x82\xe2\x9c\x8a\xe2\x9c\x8a'
+p2134
+aS'or sloppy people get it together \xf0\x9f\x98\x92'
+p2135
+aS'i really dont fuck with ugly people \xf0\x9f\x98\x95'
+p2136
+aS'you aint on unless yo team on  \xf0\x9f\x91\x80'
+p2137
+aS'\xf0\x9f\x98\x8d'
+p2138
+aS'bruh this is me all day every day '
+p2139
+aS'bruhh i need new shoes '
+p2140
+aS'peltltltlt'
+p2141
+aS'\xf0\x9f\x98\x82 yo ass laughed '
+p2142
+aS'damn she been sick for years '
+p2143
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 like who  matens left '
+p2144
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 bulldog niggha \xf0\x9f\x91\x90'
+p2145
+ag131
+aS'im not no damn buccaneer \xf0\x9f\x98\x92'
+p2146
+aS'these girls keep talking to me like shutuppp  im not alright '
+p2147
+aS'bruhhhhh'
+p2148
+aS'bruhhh i miss brh \xf0\x9f\x98\xab'
+p2149
+aS'we dont do shit in honors '
+p2150
+aS'\xf0\x9f\x98\xab\xf0\x9f\x98\xab stoop your making me depressed '
+p2151
+aS'why i still aint got homework '
+p2152
+aS'but you are \xf0\x9f\x91\x90\xf0\x9f\x98\x82'
+p2153
+aS'i really could cry about my school \xf0\x9f\x98\x92\xf0\x9f\x98\x95'
+p2154
+aS'you still onna team '
+p2155
+aS'who the new sigma phi alpha president'
+p2156
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 son say ms mary  yo name ms mary'
+p2157
+aS'tess is sooo whack bgc11'
+p2158
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 i sound thirsty aab'
+p2159
+aS'\xf0\x9f\x98\xab like son im really moving to slv district '
+p2160
+aS'im terrified off thunder and lightening'
+p2161
+aS'bruhhhhh all the fine nigghas go to slv \xf0\x9f\x98\x95'
+p2162
+aS'ion smoke weed motherfucker i sell it \xf0\x9f\x91\x90'
+p2163
+aS'ig broadmoor not that bad \xf0\x9f\x98\x95'
+p2164
+aS'you cant be broke amp ugly pick a struggle \xf0\x9f\x98\x82\xf0\x9f\x98\x92'
+p2165
+aS'i heard the verse amp im like \xf0\x9f\x98\xb3'
+p2166
+aS'what kendrick song \xf0\x9f\x91\x80\xf0\x9f\x91\x80'
+p2167
+aS'i need to gtf out of honors biology  asap'
+p2168
+aS'why i take 3 honors classes \xf0\x9f\x98\x92\xf0\x9f\x98\x92\xf0\x9f\x98\x92'
+p2169
+aS'tell me \xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x91\x80'
+p2170
+aS'yall i just woke up \xf0\x9f\x98\x95'
+p2171
+aS'i hate this bitch '
+p2172
+aS'somebody text me \xe2\x9c\x8c'
+p2173
+aS'broadmoor blowing tf out me \xf0\x9f\x98\x92'
+p2174
+aS'i miss baton rouge high \xf0\x9f\x98\xab'
+p2175
+aS'in this bitch bored \xf0\x9f\x98\x95'
+p2176
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 facetime me'
+p2177
+aS'why some of my followers at home \xf0\x9f\x91\x80'
+p2178
+aS'no friends \xf0\x9f\x9a\xb6'
+p2179
+aS'bitchhhhhhhhhh'
+p2180
+aS'fuck a buc  bulldogs till i die \xe2\x9c\x8a\xf0\x9f\x90\xbe'
+p2181
+aS'so ready to gtf '
+p2182
+aS'on'
+p2183
+aS'yall in the bus  im still inna tub \xf0\x9f\x98\xa9\xf0\x9f\x98\x82'
+p2184
+aS'pre'
+p2185
+aS'hit me with that per test shit an watch i flash \xf0\x9f\x98\x92\xf0\x9f\x98\x92'
+p2186
+aS'im still waiting on somebody to say this shit a joke \xf0\x9f\x91\x80'
+p2187
+aS'freshman keep calm \xf0\x9f\x98\x92'
+p2188
+aS'people really vamped i see who take their education seriously'
+p2189
+aS'\xf0\x9f\x98\x82\xf0\x9f\x91\x8c preciate it'
+p2190
+aS'google translate is your new best \xe2\x9c\x8a'
+p2191
+aS'cook crack inna same pot they cook gumbo in  bitch from louisiana \xf0\x9f\x91\x90'
+p2192
+aS'i just wanna go to mck\xf0\x9f\x98\x92\xf0\x9f\x98\x92'
+p2193
+aS'you amp sean \xf0\x9f\x91\x90'
+p2194
+aS'i fucks with class 13 \xe2\x9c\x8a'
+p2195
+aS'if you tell me i cant see emojis  \xf0\x9f\x98\x82\xf0\x9f\x91\x8b dont text me no more '
+p2196
+aS'im coming through  what it do\xf0\x9f\x92\x83'
+p2197
+aS'la dee la dee we like to party \xf0\x9f\x92\x83'
+p2198
+aS'rt if you wearin all yo real hair to school '
+p2199
+aS'the fact i go to fuck ass broadmoorfact i left brh fact that school tomorrow fact that summer over fact that imma miss my twitterbaes\xf0\x9f\x98\xab'
+p2200
+aS'its not gone be that same with out lit eli '
+p2201
+aS'imma miss yall \xf0\x9f\x98\xad'
+p2202
+aS'yall gone miss me at baton rouge high \xf0\x9f\x90\xbe'
+p2203
+asS'2013_32'
+p2204
+(lp2205
+S'once you get to know a virgo they are friendly energetic souls that are so likable its difficult to resist them'
+p2206
+aS'virgos are extremely loyal to those they care about'
+p2207
+aS'i really eat every thing in my house amp regret it 10 mins later \xf0\x9f\x98\xab\xf0\x9f\x98\xab'
+p2208
+aS'\xf0\x9f\x98\xab\xf0\x9f\x98\xab\xf0\x9f\x98\xab\xf0\x9f\x98\xab\xf0\x9f\x98\xab\xf0\x9f\x98\xab\xf0\x9f\x98\xab\xf0\x9f\x98\xab\xf0\x9f\x98\xab\xf0\x9f\x98\xabnuhhhh'
+p2209
+aS'i was stuck in my dream'
+p2210
+aS'church flow \xf0\x9f\x99\x8f\xf0\x9f\x99\x8c'
+p2211
+aS'be sunday already so i could go to church amp see justin \xf0\x9f\x98\xa5\xf0\x9f\x98\xa5'
+p2212
+aS'for me to just see that kappa league poster in my avi \xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p2213
+aS'i change my mind  i like winter '
+p2214
+aS'i had fun with yall this summer \xf0\x9f\x98\xa9'
+p2215
+aS'it just hit me  we really go back to school monday \xf0\x9f\x91\x80'
+p2216
+aS'i wannnna sex you up \xf0\x9f\x8e\xb6'
+p2217
+aS'lantanawlinsampdc accents\xf0\x9f\x98\x8d\xf0\x9f\x98\xab'
+p2218
+aS'aye be cleaa  dis my daddy hauss \xf0\x9f\x98\x8d'
+p2219
+aS'\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80 lmfaoooo'
+p2220
+aS'caa laugh \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x91\x90'
+p2221
+ag131
+aS'\xf0\x9f\x91\x80\xf0\x9f\x91\x80'
+p2222
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 bitch'
+p2223
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 sighs good times '
+p2224
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 the struggle bruh it was hella fun'
+p2225
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 bruhhh yasss amp when we tried to do thrift shop \xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p2226
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 i defenitly will remember that lady head got cut off amp we had to watch cartoons \xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p2227
+aS'blame mr fuxking harsh'
+p2228
+aS'our bus rides home were sometimes the best part of school \xf0\x9f\x98\xab\xf0\x9f\x98\xab\xf0\x9f\x98\xab ill miss you guysss'
+p2229
+aS'i got the same bus but it wont be the same with out and \xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9'
+p2230
+aS'somebody said fight \xf0\x9f\x91\x80'
+p2231
+aS'my avi cute or nahhh '
+p2232
+aS'best coming tomorrow \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d'
+p2233
+aS'zankyouhhh\xf0\x9f\x98\x98'
+p2234
+aS'\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d'
+p2235
+aS'\xf0\x9f\x98\x98 zankkk you '
+p2236
+aS'\xf0\x9f\x91\x80'
+p2237
+aS'yep'
+p2238
+aS'yall wanna see my hair \xf0\x9f\x98\xb3'
+p2239
+aS'i wanna niggha who can sing \xf0\x9f\x98\xa9'
+p2240
+aS'yasss \xf0\x9f\x98\xab'
+p2241
+aS'if we had visiting hours to heaven gtgtgtgt \xf0\x9f\x91\xbc'
+p2242
+aS'me monday morning \xf0\x9f\x98\xab\xf0\x9f\x98\xab'
+p2243
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 i love you to mane '
+p2244
+aS'i love ya big hungreyyyyy \xf0\x9f\x99\x8b\xf0\x9f\x98\x98'
+p2245
+aS'somebody love me \xf0\x9f\x98\xab'
+p2246
+aS'femaleproblems'
+p2247
+aS'someone you can just talk to \xf0\x9f\x98\x8d'
+p2248
+aS'am i the only not wanting to go back to school '
+p2249
+aS'taken 2 she aint learn the first time \xf0\x9f\x98\x92'
+p2250
+aS'why i missed sharkweek'
+p2251
+aS'oomf needs to shut the  up '
+p2252
+aS'im bored  lemme get in my feelings  \xf0\x9f\x98\x82\xf0\x9f\x91\x80'
+p2253
+aS'shopping with my dad ltltltltlt'
+p2254
+aS'the smell of rain '
+p2255
+aS'everybody think its greener on the other side maybe if you stop letting so many nigghas walk on your grass it wouldnt be brown \xf0\x9f\x91\x80\xf0\x9f\x91\x80'
+p2256
+aS'he said he gone smoke bible pages \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x91\x80'
+p2257
+aS'you sell it amp dont smoke it  '
+p2258
+aS'they selling weed \xf0\x9f\x98\xa9\xf0\x9f\x91\x90'
+p2259
+aS'southern band \xf0\x9f\x98\x8d'
+p2260
+aS'this barber shop \xf0\x9f\x98\x92\xf0\x9f\x98\x92'
+p2261
+aS'now i have to buy everything \xf0\x9f\x98\x92\xf0\x9f\x98\x92'
+p2262
+aS'drum majors \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d'
+p2263
+aS'pom poms jonas brother gtgtgtgt'
+p2264
+aS'why this movie soo fuxking nasty \xf0\x9f\x98\x91'
+p2265
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 what happened to your furniture cuz '
+p2266
+aS'he said he bout to eat toast \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p2267
+aS'your police story \xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p2268
+aS'a boy who smells good \xf0\x9f\x98\x8d'
+p2269
+aS'i just wanna person who can hold conversation '
+p2270
+aS'i really love deep conversations \xf0\x9f\x98\x8d'
+p2271
+aS'why they gym aint got no air  bitchhhhh'
+p2272
+aS'so i went to broadmoor orientation \xf0\x9f\x98\x92'
+p2273
+aS'furious \xf0\x9f\x98\x92'
+p2274
+aS'facetime me '
+p2275
+aS'none of my friends are ugly '
+p2276
+aS'social shake down \xf0\x9f\x92\x83'
+p2277
+aS'every time im on twitter you on twitter  talking bout the same shit \xf0\x9f\x98\x92'
+p2278
+aS'it been on for buku long nah '
+p2279
+aS'i always remember disney 365'
+p2280
+aS'365 days not that long '
+p2281
+aS'\xf0\x9f\x91\x80tf is that '
+p2282
+aS'let me find out \xf0\x9f\x91\x80'
+p2283
+aS'i wanna see a picture of her hair '
+p2284
+aS'i got orientation todaytomorrow \xf0\x9f\x98\x91\xf0\x9f\x98\x91'
+p2285
+aS'you said bey cut her hair '
+p2286
+aS'go maddogs \xe2\x9c\x8a'
+p2287
+aS'\xf0\x9f\x98\x91 im never ft tim again '
+p2288
+aS'alright  dm me your number '
+p2289
+aS'\xf0\x9f\x99\x8b\xf0\x9f\x98\x82 be my friend '
+p2290
+aS'yall look like naked mole rats '
+p2291
+aS'i zont care about your opinion \xf0\x9f\x98\x92'
+p2292
+aS'confessyourunpopluaropinion if you let a unlicensed tattoo artist tat you your arm deserves to fall off \xf0\x9f\x91\x90'
+p2293
+aS'confessyourunpopluaropinion i dont see anything wrong with being selfish at times if you aint got mei got me shrugs \xf0\x9f\x91\x90'
+p2294
+aS'somebody should just send me a long text \xf0\x9f\x91\x90\xf0\x9f\x98\x8d'
+p2295
+aS'ill write in blood '
+p2296
+aS'i wish i would get shot and somebody tell me to fill out forms first  bitchhhh\xf0\x9f\x98\x91'
+p2297
+aS'i dont like the sensor version of menace 2 society'
+p2298
+aS'why she called me dark white \xf0\x9f\x98\x82\xf0\x9f\x91\x90'
+p2299
+aS'\xf0\x9f\x98\x82 dont be a menace to south central '
+p2300
+aS'dont be a menace to society amp menace ii society right '
+p2301
+aS'\xf0\x9f\x98\x82 wrong fucking emojis '
+p2302
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\xa9 menace ii society '
+p2303
+aS'confessyourunpopularopinion boys with underarm hair \xf0\x9f\x98\xab\xf0\x9f\x98\xab\xf0\x9f\x98\xab\xf0\x9f\x98\xab\xf0\x9f\x91\x8b'
+p2304
+aS'i feel lowkey played \xf0\x9f\x91\x80'
+p2305
+aS'i just crush alooooot'
+p2306
+aS'its hot as fuck '
+p2307
+aS'wannnnnnnn\xf0\x9f\x91\x8b\xe2\x80\x9d haannnnn'
+p2308
+aS'\xf0\x9f\x98\x82 yall tim so funny '
+p2309
+aS'wannnnnnnn\xf0\x9f\x91\x8b'
+p2310
+aS'i hate when people say alicia like do you see that e  '
+p2311
+aS'my name is not that fucking hard to spell\xf0\x9f\x98\x91'
+p2312
+aS'i wonder if people lurk me like i lurk them \xf0\x9f\x91\x80'
+p2313
+aS'\xf0\x9f\x98\x82 why i got my name in my avi '
+p2314
+aS'definitely not'
+p2315
+aS'\xf0\x9f\x98\x91 wow you were help'
+p2316
+aS'speaking of root  what color am i dying my hair '
+p2317
+aS'stop talking bout school yall making me depressed \xf0\x9f\x98\xa5'
+p2318
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 get out '
+p2319
+aS'\xf0\x9f\x98\x82 life'
+p2320
+aS'\xf0\x9f\x91\x8b hey classmate \xf0\x9f\x98\xa9'
+p2321
+aS'imma walk to yo house  ik u got food  '
+p2322
+aS'\xf0\x9f\x91\x90\xf0\x9f\x98\x82\xf0\x9f\x98\x82 amp you know this '
+p2323
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\xab\xf0\x9f\x98\xab\xf0\x9f\x98\xab\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p2324
+aS'ohh well \xf0\x9f\x98\x82\xf0\x9f\x91\x90'
+p2325
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 im done with you '
+p2326
+aS'exactly \xf0\x9f\x98\x82'
+p2327
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 why would i stuff ice in my bra  '
+p2328
+aS'noo yall gone bully me while im on tv \xf0\x9f\x98\x82'
+p2329
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 she took her eye out  dude '
+p2330
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x91\x90 does situps'
+p2331
+aS'going to hell \xf0\x9f\x98\x82'
+p2332
+aS'like she really gained a person '
+p2333
+aS'gained 137 the fuck was she eating '
+p2334
+aS'\xf0\x9f\x98\x82 truuuue'
+p2335
+aS'that back to school commercial with them kids rapping \xf0\x9f\x98\x91'
+p2336
+aS'\xf0\x9f\x98\x82 howd you know '
+p2337
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 yall mean '
+p2338
+aS'\xf0\x9f\x98\x82 yass my name is actually rebecca '
+p2339
+aS'do i smell a catfish  \xf0\x9f\x91\x80rt i have a confession '
+p2340
+aS'my name is not elisha  youve all been catfished \xf0\x9f\x91\x80'
+p2341
+aS'i have a confession '
+p2342
+aS'big girls need love too '
+p2343
+aS'noooooooo\xf0\x9f\x98\xa2'
+p2344
+aS'nev is a straight detective '
+p2345
+aS'fuck school im going tho\xf0\x9f\x98\x82'
+p2346
+aS'what school you go to '
+p2347
+aS'twitter not popn today \xf0\x9f\x91\x80'
+p2348
+aS'i wish i had ass for days\xf0\x9f\x98\x82\xf0\x9f\x98\xa9'
+p2349
+aS'i think ms matens left \xf0\x9f\x91\x80'
+p2350
+aS'\xf0\x9f\x91\x80 bruhh how they got my number  \xe2\x80\x9d  lmaooo'
+p2351
+aS'\xf0\x9f\x91\x80 bruhh how they got my number  '
+p2352
+aS'this not even funny \xf0\x9f\x98\x92\xf0\x9f\x91\x90'
+p2353
+aS'what color mane  '
+p2354
+aS'what color am i dying my hair  '
+p2355
+aS'ti seem like a fun ass daddy \xf0\x9f\x98\x8d'
+p2356
+aS'he can get it lawdd \xf0\x9f\x98\x82\xf0\x9f\x91\x90'
+p2357
+aS'ti son \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d'
+p2358
+aS'scoobydoobydoo\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p2359
+aS'den stopped a commercial break \xf0\x9f\x98\x82\xf0\x9f\x91\x90'
+p2360
+aS'show me the textsssssssssssssss\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p2361
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 translate that bitch '
+p2362
+aS'\xf0\x9f\x98\x82 just what a side bitch would say '
+p2363
+aS'i like your orange dress im good lmfao'
+p2364
+aS'why they beefing '
+p2365
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 thats why you got them tittiesss'
+p2366
+aS'i hope she dont search me on twitter '
+p2367
+aS'why everybody know my phone password \xf0\x9f\x98\xa5'
+p2368
+aS'im hungry '
+p2369
+aS'i wanna go to slv all the fine nigghas gone be there \xf0\x9f\x98\x8d\xf0\x9f\x91\x90'
+p2370
+aS'\xf0\x9f\x98\x82 im soo serous that school scares me '
+p2371
+aS'\xf0\x9f\x98\x82 you gone be my only friend '
+p2372
+aS'you going to bmoor'
+p2373
+aS'having a conversation with a college student is just \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d'
+p2374
+aS'i just wanna talk to somebody '
+p2375
+aS'having a mature conversation with the opposite sex \xf0\x9f\x98\x8dgtgt'
+p2376
+aS'i got that paycheck  nahh im supposed to buy everything \xf0\x9f\x98\x91'
+p2377
+aS'i need to talk to somebody'
+p2378
+aS'because shes beautiful \xf0\x9f\x91\x80'
+p2379
+aS'im really not gone fuck with anybody this year do what i need to amp be back a home with my bulldogs '
+p2380
+aS'i dont know shit about jays  just that everybody buy the same shoe over \xf0\x9f\x91\x80'
+p2381
+aS'i gotta worry bout shoe game \xf0\x9f\x98\x82\xf0\x9f\x98\xaa'
+p2382
+aS'\xf0\x9f\x98\xaa yass'
+p2383
+aS'but if i dont you will catch me with that mck blue on \xf0\x9f\x98\x8e'
+p2384
+aS'but im coming back \xf0\x9f\x98\x8f'
+p2385
+aS'\xf0\x9f\x98\xab imma miss dhat high '
+p2386
+aS'i really be in my feelings for no reason'
+p2387
+aS'bruhhhhhhhhhhhhh '
+p2388
+aS'imma really cut up this weekend '
+p2389
+asS'2013_31'
+p2390
+(lp2391
+S'hey girl \xf0\x9f\x91\x90'
+p2392
+aS'raymond amp his bae \xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p2393
+aS's documentary was just    inspirational or should i say exclusively lavish \xf0\x9f\x98\x82\xf0\x9f\x99\x8c'
+p2394
+aS'think its a game \xf0\x9f\x91\x80'
+p2395
+aS'i better get my income tax back '
+p2396
+aS'they took taxes out my check \xf0\x9f\x98\xab\xf0\x9f\x98\xab\xf0\x9f\x98\xab'
+p2397
+aS'\xe2\x99\x8d'
+p2398
+aS'alright lemme get my cranberry amp fall asleep  \xf0\x9f\x92\x83\xf0\x9f\x92\x83\xf0\x9f\x92\x83'
+p2399
+aS'i almost do the most on my nigghas birthdays \xf0\x9f\x98\x82\xf0\x9f\x92\x83\xf0\x9f\x92\x83\xf0\x9f\x92\x83\xf0\x9f\x92\x83\xf0\x9f\x92\x83\xf0\x9f\x92\x83\xf0\x9f\x92\x83'
+p2400
+aS'\xf0\x9f\x92\x83\xf0\x9f\x92\x83 happy birthday shawwty '
+p2401
+aS'forget yall food is life '
+p2402
+aS'my voice hurt from yelling kedria happy birthday \xf0\x9f\x98\xab'
+p2403
+aS'happy birthday amp \xf0\x9f\x8e\x89\xf0\x9f\x8e\x89\xf0\x9f\x8e\x88'
+p2404
+aS'she a snitch '
+p2405
+aS'this dance was actually good '
+p2406
+aS'pay 66 ampget the 5 or pay 0 amp get the 4s'
+p2407
+aS'they getting rid of olivia why '
+p2408
+aS'ii knew it '
+p2409
+aS'nobody on stevie bus no more '
+p2410
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 mimi '
+p2411
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 classic stevie j '
+p2412
+aS'mimi looking like you stupid bitch'
+p2413
+aS'you still aint wifed '
+p2414
+aS'when benzino laugh he be like lhhatl \xf0\x9f\x98\x82\xf0\x9f\x98\xad\xf0\x9f\x98\x82'
+p2415
+aS'scrappy has gone crazy \xf0\x9f\x98\x96\xf0\x9f\x98\x96'
+p2416
+aS'that purple lipstick is a no go rasheeda \xe2\x9c\x8b'
+p2417
+aS'everybody try to be the fucking peace maker \xf0\x9f\x98\x91'
+p2418
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9'
+p2419
+aS'mimi august 2nd \xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p2420
+aS'\xf0\x9f\x98\xad\xf0\x9f\x98\x82 tryna get his likes up  '
+p2421
+aS'kirk think bc you buy material things it fix issues \xf0\x9f\x98\x90 it dont  its love that she wants not cars  clothes  shoes etc'
+p2422
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x91\x90 i just noticed that'
+p2423
+aS'you buying g wagons  but you mad when she touched the account \xf0\x9f\x98\xaf'
+p2424
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 jose look alike'
+p2425
+aS'erica said lemme see \xf0\x9f\x91\x80'
+p2426
+aS'why she told that lie \xf0\x9f\x98\x91'
+p2427
+aS'nooooooooooo k \xf0\x9f\x98\x96'
+p2428
+aS'where k been '
+p2429
+aS'nun of them got a man \xf0\x9f\x98\x82'
+p2430
+aS'her sew in is really killing me \xf0\x9f\x98\x90'
+p2431
+aS'gather along twitter family its time to watch tv'
+p2432
+aS'its about to go down \xf0\x9f\x91\x80\xf0\x9f\x91\x80\xf0\x9f\x91\x90 lahh'
+p2433
+aS'tweeting every minute of love and hip hop tonight so'
+p2434
+aS'sometimes its not what you know but who you know \xf0\x9f\x91\x90'
+p2435
+aS'my husband gone be fed nicely \xf0\x9f\x92\x81'
+p2436
+aS'hot wings on point\xf0\x9f\x91\x90'
+p2437
+aS'daddy said lets go get the 5 \xf0\x9f\x98\x8e\xf0\x9f\x98\x8e\xf0\x9f\x98\x8e shakebackrealquick'
+p2438
+aS'if she make me pay for a new phone \xf0\x9f\x91\x8a\xf0\x9f\x91\x8a\xf0\x9f\x91\x8a\xf0\x9f\x91\x8a\xf0\x9f\x91\x8a'
+p2439
+aS'ohhhh im soooo madd'
+p2440
+aS'least i get paid thursday \xf0\x9f\x98\xb6'
+p2441
+aS'imma just make hot wings \xf0\x9f\x98\x95 eat my feelings '
+p2442
+aS'are you fucking kidding \xf0\x9f\x98\x90\xf0\x9f\x98\x90'
+p2443
+aS'bored'
+p2444
+aS'\xf0\x9f\x98\xa9\xf0\x9f\x98\xad this is so cute to the fucking maaaaaaaaaaax'
+p2445
+aS'this year consist of schooldance eating amp sleep \xf0\x9f\x91\x90'
+p2446
+aS'always late   '
+p2447
+aS'the wheels on the bus '
+p2448
+aS'i miss you'
+p2449
+aS'whyyyy '
+p2450
+asS'2013_30'
+p2451
+(lp2452
+S'i really love my twitter followers '
+p2453
+aS'mane i cant wait till this weekend'
+p2454
+aS'i wanna go night swimming \xf0\x9f\x8f\x8a\xe2\x9c\xa8'
+p2455
+aS'when you hug a guy and they smell really good so you never want to let them go \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d gtgtgtgt'
+p2456
+aS'ive really become a loner '
+p2457
+aS'ok im done venting '
+p2458
+aS'bruhh we need to have an annual purge '
+p2459
+aS'i have so much anger '
+p2460
+aS'smh so aggressive'
+p2461
+aS'punch on a couple humans  kick a couple people inna face  break a few tables  crack a few ribs '
+p2462
+aS'i need to destruct some things '
+p2463
+aS'im about to attack this lady'
+p2464
+aS'stop smacking '
+p2465
+aS'lawdd i got work inna morning '
+p2466
+aS'i hate mississippi  country ass place '
+p2467
+aS'my phone broke  '
+p2468
+aS'wait we got two weeks till school start '
+p2469
+aS'i need to go to the polo factory '
+p2470
+aS'yasss'
+p2471
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 yasssssssss'
+p2472
+aS'\xe2\x9c\x8aalright i got the bleachim straight blinding hoes \xf0\x9f\x91\x90'
+p2473
+aS'\xf0\x9f\x98\x82\xf0\x9f\x91\x90 imma have too'
+p2474
+aS'\xf0\x9f\x91\x90\xf0\x9f\x98\x92miss me with that bullshit '
+p2475
+aS'people been coming at me wrong all day '
+p2476
+aS'so im getting a new phone monday \xf0\x9f\x92\x81'
+p2477
+aS'i lied amp said my phone broke \xf0\x9f\x98\x95'
+p2478
+aS'nick cannon \xf0\x9f\x98\x8d'
+p2479
+aS'aint to pretty in the face but she super thickkkkkkkkkkk \xf0\x9f\x91\x90'
+p2480
+aS'bruhhhhhhhhhhh'
+p2481
+aS'i need to go shopping \xf0\x9f\x98\xab'
+p2482
+aS'\xf0\x9f\x98\x82 i didnt forget '
+p2483
+aS'yall trent birthday next week \xf0\x9f\x92\x83\xf0\x9f\x92\x83'
+p2484
+aS'i really have a light skinned mentality \xf0\x9f\x91\x90\xe2\x80\x9d me too \xf0\x9f\x98\x8f\xf0\x9f\x98\x8f'
+p2485
+aS'but im not dark '
+p2486
+aS'i really have a light skinned mentality \xf0\x9f\x91\x90'
+p2487
+aS'july 31\xf0\x9f\x99\x8c'
+p2488
+aS'kedria birthday next week \xf0\x9f\x92\x83'
+p2489
+aS'i dont know what tf i want \xf0\x9f\x99\x8e'
+p2490
+aS'goes to walmart looks hit  sees two of my followers \xf0\x9f\x98\x91'
+p2491
+aS'but im really not \xf0\x9f\x98\x82'
+p2492
+aS'i can honestly say  nobody knows me \xf0\x9f\x9a\xb6\xf0\x9f\x91\x8c'
+p2493
+aS'i dont sugar coat anything it is what it is '
+p2494
+aS'\xf0\x9f\x98\x91'
+p2495
+aS'a lot of people only see one side of me'
+p2496
+aS'im so chill '
+p2497
+ag131
+aS'be humble '
+p2498
+aS'where the fine white boys at \xf0\x9f\x91\x80\xf0\x9f\x91\x80'
+p2499
+aS'never underestimate me \xf0\x9f\x92\x81'
+p2500
+aS'another cinderella story \xf0\x9f\x98\x8d'
+p2501
+aS'lmao emmanuel hudson \xf0\x9f\x98\x82'
+p2502
+aS'wild n out girls pretty '
+p2503
+aS'this boy told me i wasnt famous  so i need to follow back \xf0\x9f\x98\x82\xf0\x9f\x98\x91'
+p2504
+aS'she was stripping\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p2505
+aS'he said super weave '
+p2506
+aS'channel  '
+p2507
+aS'channel '
+p2508
+aS'lmaoooo get out \xf0\x9f\x9a\xaa\xf0\x9f\x91\x88\xf0\x9f\x9a\xb6'
+p2509
+aS'the fact you called her caffine and said she had that super sick pussy \xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p2510
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 dude '
+p2511
+aS'some people just wasnt blessed with looks '
+p2512
+aS'nuhhhhhh i wasnt ready '
+p2513
+aS'\xf0\x9f\x98\xab\xf0\x9f\x98\xab'
+p2514
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x99\x8c\xf0\x9f\x99\x8c'
+p2515
+aS'i dont even wanna picture them two havin sex\xf0\x9f\x98\x96\xf0\x9f\x98\x96'
+p2516
+aS'i know you not getting mad amp you catfishing nigghas'
+p2517
+aS'she cute that nose tho '
+p2518
+aS'raffinae sleeep doe\xf0\x9f\x98\xb4'
+p2519
+aS'lemme slap some perm in dhat head'
+p2520
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x91 bby i just died'
+p2521
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 yall mean i would hate to go on tv amp yall watching '
+p2522
+aS'dont be stupid  pick alexis '
+p2523
+aS'i hope he not nev is not gay \xe2\x80\x9d'
+p2524
+aS'me too '
+p2525
+aS'imma make a catfish page so i can get on tv \xf0\x9f\x98\x82'
+p2526
+aS'why i just ate a whole pizza by myself \xf0\x9f\x91\x90'
+p2527
+aS'nev is not gay '
+p2528
+aS'nev gay  '
+p2529
+aS'nev cute tho \xf0\x9f\x99\x88'
+p2530
+aS'you knew she wasnt that girl so why you madd '
+p2531
+aS'why she wearing a church shawl w a sundress'
+p2532
+aS'she straight '
+p2533
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x91\x90'
+p2534
+aS'yall my supervisor is so cuteee \xf0\x9f\x98\x8d'
+p2535
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82yall dumb '
+p2536
+aS'raffinae high school picture im done catfish'
+p2537
+aS'ig the catfish hoes  dont watch mtv '
+p2538
+aS'shes pretty '
+p2539
+aS'heyyy thank you for your coming today it was very inspiring amp you have a fantastic voice \xe2\x80\x9d\xe2\x80\xa6'
+p2540
+aS'lucky you  shes a lovely soul '
+p2541
+aS'heyyy  thank you for your coming today it was very inspiring amp you have a fantastic voice '
+p2542
+aS'the d in the boodee\xe2\x80\x9d'
+p2543
+aS'this monday has been real '
+p2544
+aS'boy boy boy jelena finna get fcked up \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p2545
+aS'nooooo sonnnnnnn '
+p2546
+aS'jelena \xf0\x9f\x98\x92'
+p2547
+aS'the d in the boodee'
+p2548
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x91omgggggggg'
+p2549
+aS'i was cute at work today tho \xf0\x9f\x92\x81'
+p2550
+aS'had a blast speaking to the youth at the love our community program luv yall \xf0\x9f\x92\x8b\xe2\x9c\x8c'
+p2551
+aS'alright '
+p2552
+aS'i saw at work today'
+p2553
+aS'ig she gone have to or ill come to yohouse '
+p2554
+aS'no german'
+p2555
+aS'i wish i was in the elevator that night \xf0\x9f\x98\x8d'
+p2556
+aS'i just wanna love everybody \xf0\x9f\x98\x8c'
+p2557
+aS'why i just got happy '
+p2558
+aS'oh she is  i aint know '
+p2559
+aS'you mama picking me up from work tomorrow '
+p2560
+aS'\xf0\x9f\x98\x82 yall remember that freaky episode of hit the floor \xe2\x80\x9ddo we \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xf0\x9f\x98\x9b'
+p2561
+aS'why asha so damn emotional stfu  '
+p2562
+aS'bb you a devil girl why yo car look like that '
+p2563
+aS'\xf0\x9f\x98\x82\xf0\x9f\x99\x8c\xf0\x9f\x99\x8c ayeeee'
+p2564
+aS'that white girl nasty af  but ig it aint tricking if you got it \xf0\x9f\x98\x8c\xe2\x80\x9d but she like a bish with no asx  she aint\xe2\x80\xa6'
+p2565
+aS'\xf0\x9f\x98\x82 yall remember that freaky episode of hit the floor '
+p2566
+aS'that white girl nasty af  but ig it aint tricking if you got it \xf0\x9f\x98\x8c'
+p2567
+aS'were my high kicks high enough \xf0\x9f\x98\x8f'
+p2568
+aS'yassss '
+p2569
+aS'she looks decent now \xe2\x80\x9dthank god'
+p2570
+aS'she looks decent now '
+p2571
+aS'i like this song \xf0\x9f\x92\x83'
+p2572
+aS'stupid ass choreography \xf0\x9f\x98\x92\xf0\x9f\x98\x92'
+p2573
+aS'next week bruhhh '
+p2574
+aS'the way they changed songs '
+p2575
+aS'you sound like a killer \xf0\x9f\x98\x82\xf0\x9f\x91\x80\xe2\x80\x9di aint a killa but dont push me \xf0\x9f\x91\x80\xf0\x9f\x98\x82'
+p2576
+aS'her nails  lawdd'
+p2577
+aS'im thinking she had breast cancer or sumn gtf outta here karlie'
+p2578
+aS'what the fuck is a breast tuneup nigga  lmfao'
+p2579
+aS'benampray need to stop with these look alikes '
+p2580
+aS'you sound like a killer \xf0\x9f\x98\x82\xf0\x9f\x91\x80'
+p2581
+aS'lmfao \xf0\x9f\x98\x82'
+p2582
+aS'they could have got joseline a fresher sew in for her video doe '
+p2583
+aS'when a girl call her boyfriend daddy lt foh'
+p2584
+aS'tf carly ass come from '
+p2585
+aS'tf jose\xf0\x9f\x98\x82'
+p2586
+aS'all you have to do is tell her how much you love her  dumbass '
+p2587
+aS'lol getting married again  '
+p2588
+aS'awwwww'
+p2589
+asS'2013_39'
+p2590
+(lp2591
+S'bae text me \xf0\x9f\x98\x82lemme stop talking to myself '
+p2592
+aS'my new follower \xf0\x9f\x98\x8d'
+p2593
+aS'\xf0\x9f\x91\x85'
+p2594
+aS'if i ask a question it would be nice if you answer \xf0\x9f\x98\x92'
+p2595
+aS'i got some funky followers '
+p2596
+aS'should i dye my whole head gold \xf0\x9f\x91\x80'
+p2597
+aS'try this again'
+p2598
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 like ion even know when my school homecoming '
+p2599
+aS' im the type to be on facetime but be looking at myself the whole time \xf0\x9f\x98\x82\xe2\x80\x9d'
+p2600
+aS'\xf0\x9f\x98\x82live yo life bby \xf0\x9f\x91\x90'
+p2601
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 jade gone wash grass'
+p2602
+aS'if pitbulls could stay puppies \xf0\x9f\x98\x8d'
+p2603
+aS'\xf0\x9f\x98\x82 juh dont look like 11k followers in person '
+p2604
+aS'somebody send me the link to dream chasers 3 \xf0\x9f\x98\xad'
+p2605
+aS'\xf0\x9f\x91\x80\xf0\x9f\x91\x80'
+p2606
+aS'why everybody got donuts \xf0\x9f\x98\x92'
+p2607
+aS'can we have 1 day with out gm post '
+p2608
+aS'thank god for another day '
+p2609
+aS'i also saw my bae \xf0\x9f\x98\x8d'
+p2610
+aS'i saw that dude from vine on the yard \xf0\x9f\x99\x8c'
+p2611
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\xa9 dont make me laugh  i wanna be angry '
+p2612
+aS'somebody gone need a body bag '
+p2613
+aS'you needs a punching bag lmao'
+p2614
+aS'i want to go home now'
+p2615
+aS'\xf0\x9f\x99\x8d im soo serious'
+p2616
+aS'wait till college i will never be at home \xf0\x9f\x98\x92'
+p2617
+aS'i cant depend on nobody but me '
+p2618
+aS'like everything i do is wrong '
+p2619
+aS'if you can talk shit you can take a hit \xf0\x9f\x99\x8c'
+p2620
+aS'\xf0\x9f\x98\x82 i still want my one '
+p2621
+aS'tired of being peaceful  i wanna be petty '
+p2622
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 i swear if i would have saw that girl today it was gone be over with '
+p2623
+aS'watch i go crazy \xf0\x9f\x99\x8c'
+p2624
+aS'at the end of the day  i dont fuck with nobody \xf0\x9f\x91\x90'
+p2625
+aS'oooooooooooooooooooooooooo '
+p2626
+aS'the next person i fight is really gone feel my wrath \xf0\x9f\x98\xa4'
+p2627
+aS'i swear to god i could punch everybody in the face right now '
+p2628
+aS'\xf0\x9f\x92\x9b\xf0\x9f\x92\x99 even tho'
+p2629
+aS'the yard was fucking live \xf0\x9f\x98\x8e'
+p2630
+aS'\xf0\x9f\x98\x82 i smell like straight weed '
+p2631
+aS'who at the yard \xf0\x9f\x98\xab\xf0\x9f\x98\xab\xf0\x9f\x98\xab\xf0\x9f\x98\xab'
+p2632
+aS'kendrick lamar reading at an elementary school jack be nimble jack be quick dramatic pause girl i know u wa\xe2\x80\xa6'
+p2633
+aS'you better get up  '
+p2634
+aS'\xf0\x9f\x91\x80\xf0\x9f\x91\x80 you going to the yard '
+p2635
+aS'first su game in a while '
+p2636
+aS'i hate when im the only one tweeting and my tweets show back to back '
+p2637
+aS'with the ratchet old people \xf0\x9f\x98\x82'
+p2638
+aS'i honestly love going to the yard \xf0\x9f\x98\x8d'
+p2639
+aS'\xf0\x9f\x92\x99\xf0\x9f\x92\x9b\xf0\x9f\x92\x99\xf0\x9f\x92\x9b\xf0\x9f\x92\x99\xf0\x9f\x92\x9b\xf0\x9f\x92\x99\xf0\x9f\x92\x9b'
+p2640
+aS'it be more people on the yard  then in the game '
+p2641
+aS'its so fucking hot'
+p2642
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x91\xf0\x9f\x98\x91 at least it aint big  '
+p2643
+aS'shiddd feel like i did \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p2644
+aS'this girl told me i aint have no forehead \xf0\x9f\x98\x92'
+p2645
+aS'\xf0\x9f\x98\x82 right  i must of blacked out '
+p2646
+aS'feel like i had a workout'
+p2647
+aS'id rather go to the yard then the game \xf0\x9f\x98\xa9'
+p2648
+aS'im sooo tired  cant move nothing but my right thumb \xf0\x9f\x98\xa9'
+p2649
+aS'i feel as though all black people come together amp let there differences go when its time to jig '
+p2650
+aS'no  thank you \xf0\x9f\x99\x8c'
+p2651
+aS'niagara fall in everybody draws \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d'
+p2652
+aS'\xf0\x9f\x99\x8b\xf0\x9f\x99\x8b\xf0\x9f\x99\x8b'
+p2653
+aS'the step team lil line walk or whatever dat shiiii was tight '
+p2654
+aS'im still in the shower \xf0\x9f\x98\x82'
+p2655
+aS'how you let the white girls in with short shorts  amp not me \xf0\x9f\x98\x95'
+p2656
+ag131
+aS'\xf0\x9f\x98\x82 i dont act like that on a daily '
+p2657
+aS'im glad everyone had fun \xf0\x9f\x99\x8c'
+p2658
+aS'the amount of asx some people have is just not fair to people like me its upsetting really\xe2\x80\x9d'
+p2659
+aS'dives in shower '
+p2660
+aS'no one person should have that much ass im calling booty patrol \xf0\x9f\x91\x90'
+p2661
+aS'sigma phi alpha \xf0\x9f\x99\x8c\xf0\x9f\x92\x81'
+p2662
+aS'that white girl who jigged with us \xf0\x9f\x98\x82\xe2\x9c\x8a'
+p2663
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 like chantan ass kills all my hope '
+p2664
+aS'my everything hurts \xf0\x9f\x98\xa9'
+p2665
+aS'bae\xf0\x9f\x98\x8d'
+p2666
+aS'everybody amp they mama finna be on the yard tommorow'
+p2667
+aS'jiggn so hard i threw my shoulder out of place \xf0\x9f\x98\x82  dead ass serious tho '
+p2668
+aS'mrmoore my niggha mane \xe2\x9c\x8a\xe2\x80\x9dyou aint never lying'
+p2669
+aS'then when zo tried to teach us how to shimmy \xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p2670
+aS'mrmoore my niggha mane \xe2\x9c\x8a'
+p2671
+aS'i think i lost my voice  from saying bow so many times \xf0\x9f\x98\x82'
+p2672
+aS'tonight tho \xf0\x9f\x98\x8d'
+p2673
+aS'\xf0\x9f\x98\x82 fuck'
+p2674
+aS'come to the dance smellin like a pound of purple '
+p2675
+aS'cutting up with bess \xf0\x9f\x92\x83 '
+p2676
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 be prepared \xf0\x9f\x91\x90\xe2\x80\x9d definitely am'
+p2677
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 '
+p2678
+aS'yaaaaasssss  \xf0\x9f\x91\x8f\xf0\x9f\x91\x8f\xf0\x9f\x91\x8f\xf0\x9f\x91\x8f'
+p2679
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 be prepared \xf0\x9f\x91\x90'
+p2680
+aS'im is turing up\xf0\x9f\x92\x83\xf0\x9f\x92\x83\xf0\x9f\x92\x83\xf0\x9f\x92\x83\xf0\x9f\x92\x83\xf0\x9f\x92\x83 '
+p2681
+aS'nah elisha coming ohhh yess tonight bouta be gtgtgtgtgt \xf0\x9f\x92\x83\xf0\x9f\x92\x83\xf0\x9f\x92\x83\xf0\x9f\x92\x83\xf0\x9f\x92\x83'
+p2682
+aS'if we snapping it up we need to do it before i gets to jiggn '
+p2683
+aS'who popin off the weed tonight \xf0\x9f\x91\x80'
+p2684
+aS'\xf0\x9f\x99\x8c\xf0\x9f\x92\x83\xf0\x9f\x92\x83\xf0\x9f\x92\x83'
+p2685
+aS'right fucking now '
+p2686
+aS'now '
+p2687
+aS'text me now asap'
+p2688
+aS'i miss yall too \xf0\x9f\x98\x98\xf0\x9f\x98\x98'
+p2689
+aS'im knowing they miss me \xf0\x9f\x98\x82'
+p2690
+aS'snapping it up with my brh click \xf0\x9f\x98\x82\xe2\x9c\x8a'
+p2691
+aS'its sprit day  but i have known \xf0\x9f\x91\x80'
+p2692
+aS'that green lipstick is beyond ugly  \xf0\x9f\x98\x82'
+p2693
+aS'brh '
+p2694
+aS'im cutting up at this dance  fuck everybody im jiggn my ass off  '
+p2695
+ag131
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 ya downbad'
+p2696
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 im knowing '
+p2697
+aS'\xf0\x9f\x8c\xb8just girly things\xf0\x9f\x8c\xb8'
+p2698
+aS'bring my oreos \xf0\x9f\x91\x80'
+p2699
+aS'phone so dry starting to think messages not coming through \xf0\x9f\x98\x82'
+p2700
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 mad fees be like  just know its nothing but a gee thang to dat high \xf0\x9f\x92\x81'
+p2701
+aS'im not getting cute whats so ever tomorrow nightstraight shorts and a shirt '
+p2702
+aS'\xf0\x9f\x98\x92 i bet yo school which use to be mine \xf0\x9f\x98\x82\xf0\x9f\x92\x81 dont wanna fight '
+p2703
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 \xf0\x9f\x91\x80\xf0\x9f\x98\xa9 take me back take me back '
+p2704
+aS'i hope you all turn black \xf0\x9f\x98\x92'
+p2705
+aS'\xf0\x9f\x91\x8c thanks'
+p2706
+aS'yall shutuppp \xf0\x9f\x98\xa9'
+p2707
+aS'what time the dance start  for brh '
+p2708
+aS'forget everybody who having fun tomorrow \xf0\x9f\x98\x92'
+p2709
+aS'this girl asked me my insta\xf0\x9f\x98\x91 what about my name '
+p2710
+aS'hood logic could really get you through life '
+p2711
+aS'he did all that to tell me i was cute \xe2\x98\xba\xef\xb8\x8f'
+p2712
+aS'pushing people and everything '
+p2713
+aS'i was in the hall amp this boy was running towards me  \xf0\x9f\x91\x80'
+p2714
+aS'i want my battery life back \xf0\x9f\x98\xa9'
+p2715
+aS'i dont like ios7 \xf0\x9f\x98\x92'
+p2716
+aS'she a dime amp she red \xf0\x9f\x98\x8d bby lisha '
+p2717
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82beeeeeeeeeen '
+p2718
+aS'\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xe2\x80\xa6'
+p2719
+aS'every'
+p2720
+aS'them hoes beenjealous event since i was a youngin  \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d\xe2\x9c\x8a'
+p2721
+aS'i found the funniest throwback \xf0\x9f\x98\x82'
+p2722
+aS'i honestly miss my team leader like he gave me life \xf0\x9f\x98\xa9'
+p2723
+aS'if i could find that one consultant who i can vent to and talk about life in general\xf0\x9f\x98\x8d'
+p2724
+aS'if school was at night \xf0\x9f\x98\xa9\xf0\x9f\x98\xa9gtgt'
+p2725
+aS'i hate kids '
+p2726
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 i lied '
+p2727
+aS'my last tweet was a lie \xf0\x9f\x98\x92'
+p2728
+aS'i would show yall me amp bae \xf0\x9f\x91\x80'
+p2729
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 we know we miss you too'
+p2730
+aS'when you see a fine boy on insta amp you go to his page amp he in a relationship \xf0\x9f\x92\x80'
+p2731
+aS'i hate when ppl do this most  for stupid stuff \xf0\x9f\x98\xa1\xf0\x9f\x98\x91'
+p2732
+aS'get acquainted friday  the yard saturday \xf0\x9f\x98\x8d'
+p2733
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 i really am lying i miss yall '
+p2734
+aS'you do me so wrong \xf0\x9f\x98\xa9'
+p2735
+aS'i miss all my brh people sike \xf0\x9f\x98\x82'
+p2736
+aS'yall wanna see me friday '
+p2737
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p2738
+aS'dummmmm'
+p2739
+aS'then his mama had the nerve to look at me  well control your kids \xf0\x9f\x98\x92\xf0\x9f\x98\xa4'
+p2740
+aS'fucking up my ticket flow \xf0\x9f\x98\x91'
+p2741
+aS'this baby was messing up my game  i pushed the shit out him \xf0\x9f\x98\x92\xf0\x9f\x98\x82'
+p2742
+aS'bruhhh i had sooo much fun '
+p2743
+aS'dis dhat shit we ride to'
+p2744
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82bruhhhhh im dead assssss serious '
+p2745
+aS'like bruhhhhhhhhhhh im pushing kids out the way and all  then they pizzagtgtgt'
+p2746
+aS'\xf0\x9f\x98\x82\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80'
+p2747
+aS'yall im buku exited niggha aint go to chuckie cheese in a long time  \xf0\x9f\x98\x8d'
+p2748
+aS'in'
+p2749
+aS'im bout to cut up and chuckie cheeses\xf0\x9f\x98\x8d\xf0\x9f\x92\x83\xf0\x9f\x92\x83'
+p2750
+aS'yea'
+p2751
+aS'so tf yall talking bout the yard this weekend\xf0\x9f\x98\x91'
+p2752
+aS'yall know su homecoming october 26 huh \xf0\x9f\x91\x80 '
+p2753
+aS'can we change it  to like wild out wednesday whopahoe wednesday'
+p2754
+aS'im tired of wcw  people do that shit faithfully every single time  \xf0\x9f\x98\x92'
+p2755
+aS'bruhhhh this ugly ass instagram update \xf0\x9f\x98\x92\xf0\x9f\x98\x92'
+p2756
+aS'\xf0\x9f\x91\x8c ill try '
+p2757
+aS'can you in unupdate your phone '
+p2758
+aS'instas new update lt'
+p2759
+aS'amp she tried to fight him\xf0\x9f\x98\x82\xf0\x9f\x92\x80'
+p2760
+aS'this girl got punched inna face \xf0\x9f\x98\x82\xf0\x9f\x98\xa9'
+p2761
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 yall that had a big ass fight '
+p2762
+aS'no phone tara '
+p2763
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p2764
+aS'bruhhhhhh his family soooo loud \xf0\x9f\x98\x82\xf0\x9f\x98\x92'
+p2765
+ag131
+aS'oh no no  imma help you get you life together '
+p2766
+aS'\xf0\x9f\x98\xb3 trevis '
+p2767
+aS'but thank you \xf0\x9f\x98\x8a'
+p2768
+aS'thats cause i dont sleep in class  '
+p2769
+aS'he said my grades look nice i only got 2 fs amp a c \xf0\x9f\x98\x82\xf0\x9f\x92\x80'
+p2770
+aS'i usually get 100  every a  thats when i went to brh \xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p2771
+aS'you right \xf0\x9f\x91\x90'
+p2772
+aS'ill check again \xf0\x9f\x98\xb3'
+p2773
+aS'38gpa'
+p2774
+aS'ok'
+p2775
+aS'zat badass 42gpa tho \xf0\x9f\x92\x81'
+p2776
+aS'im ugly on mondays tuesdays wednesdays amp thursdays'
+p2777
+aS'i want canes \xf0\x9f\x98\xa9'
+p2778
+aS'fuck off my tl  if its funny its funny \xf0\x9f\x91\x80'
+p2779
+aS'90 milli wont stop you from getting yo ass whooped \xf0\x9f\x98\x82\xf0\x9f\x98\xa9'
+p2780
+aS'teyana or rihanna \xf0\x9f\x91\x90'
+p2781
+aS'but teyanas header just took the cake'
+p2782
+aS'celebrity beef is so entertaining \xf0\x9f\x98\x82'
+p2783
+aS'teyana header \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\xa9'
+p2784
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 riri cutting up  '
+p2785
+aS'whats so funny about rihannas header'
+p2786
+aS'yesss\xf0\x9f\x98\xa9 its satan '
+p2787
+aS'aaawe mane '
+p2788
+aS'my kitchen amp living room caught on fire \xf0\x9f\x98\x95'
+p2789
+aS'its hot as fuck \xf0\x9f\x98\x92'
+p2790
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9 my house ltlt'
+p2791
+aS'that really had me rolling \xf0\x9f\x98\x82'
+p2792
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 rihanna buku childish for that video \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p2793
+aS'elisha why yo so quiet  because i dont like you \xf0\x9f\x98\x92'
+p2794
+aS'i cant take my own damn advice \xf0\x9f\x98\x92'
+p2795
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9 thats horrible  you gone grow up to be a bum'
+p2796
+aS'as far as yall know im single and broke \xf0\x9f\x98\x82'
+p2797
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82get yo life '
+p2798
+aS'your still ugly so it doesnt matter  shrugs'
+p2799
+aS'i wanna watch that baby sweatshirt \xf0\x9f\x91\x90'
+p2800
+aS'a fucking c \xf0\x9f\x98\x91'
+p2801
+aS'my dumbass got all as and a c \xf0\x9f\x98\xa9'
+p2802
+aS'then \xe2\x98\xba\xef\xb8\x8f'
+p2803
+aS'unless isaac come \xf0\x9f\x91\x80'
+p2804
+aS'cause tiana and jordan gone be coupled up and imma have that zickkkk look \xf0\x9f\x98\x91'
+p2805
+aS'not looking forward to the fair \xf0\x9f\x98\x92'
+p2806
+aS'the fight i saw today on insta  \xf0\x9f\x98\x90 wasnt even a fight'
+p2807
+aS'me and my maam came through with the choppa \xf0\x9f\x91\x90'
+p2808
+aS'ummm  this hotel is haunted '
+p2809
+aS'i wanna watch the rugrats and gts\xf0\x9f\x98\xb4'
+p2810
+aS'its feels like 1200 '
+p2811
+aS'that tight im always here for youyour safe with me hug \xf0\x9f\x98\x8d'
+p2812
+aS'well when she wake up tell her i love her \xe2\x98\xba\xef\xb8\x8f'
+p2813
+aS'if everybody come to the hotel saturday \xf0\x9f\x98\x82gt'
+p2814
+aS'cousin \xf0\x9f\x98\x8d'
+p2815
+aS'theyre so confident and smart '
+p2816
+aS'i love lions \xf0\x9f\x98\x8d'
+p2817
+aS'the only thing i accomplished this weekend was eating \xf0\x9f\x98\x95\xf0\x9f\x98\xa9'
+p2818
+aS'i wanna be a promoter for the parties in louisana '
+p2819
+aS'he said thats my chocolate kiss'
+p2820
+aS'this catfish episode got me lmaoo\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p2821
+aS'dont talkdont wavedont lookdont breathe just dont '
+p2822
+aS'when im aggravated i hate everything '
+p2823
+aS'if i knew what i know now  i would have never even looked your direction \xf0\x9f\x91\x80'
+p2824
+aS'i regret dying my hair '
+p2825
+aS'my birthday was september 1 \xf0\x9f\x92\x81\xf0\x9f\x98\x82'
+p2826
+aS'everybody birthday in october \xf0\x9f\x98\x95 '
+p2827
+aS'i miss ms matens \xf0\x9f\x98\x82'
+p2828
+aS'im still on brh terms  like idgaf about homecoming \xf0\x9f\x91\x90'
+p2829
+aS'i tweet every day dude \xf0\x9f\x98\x92'
+p2830
+aS'why i only got 3k tweets \xf0\x9f\x98\xa9'
+p2831
+aS'ive never skipped school in my life  but tomorrow i just might '
+p2832
+aS'stop being ugly \xf0\x9f\x98\x92'
+p2833
+aS'exactly its hard out here for a pimp baby who got clothes\xe2\x80\x9d'
+p2834
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 truee but you would miss it '
+p2835
+aS'\xf0\x9f\x92\x80\xf0\x9f\x98\x82'
+p2836
+aS'noo you dont '
+p2837
+aS'this that shit when you hear that shit im going vine crazy posting everything \xf0\x9f\x8e\xb6\xf0\x9f\x8e\xb6'
+p2838
+aS'this boy asked me what a square root was \xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80 i need to be back with my smart kids '
+p2839
+asS'2013_38'
+p2840
+(lp2841
+S'ik ima be in turkey jam  no questions asked'
+p2842
+aS'bye \xf0\x9f\x91\x8b'
+p2843
+aS'\xf0\x9f\x98\x82 im dead ass find out '
+p2844
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82ok jade '
+p2845
+aS'you got friends at school \xf0\x9f\x98\x82'
+p2846
+aS'\xf0\x9f\x91\x80 its go be live right '
+p2847
+aS'\xf0\x9f\x98\x82 find out'
+p2848
+aS'when tickets go on sale '
+p2849
+aS'its spirt week tomorrow '
+p2850
+aS'i told my mama ill clean my room for a whole year if she let me leave broadmoor was quick to say yes\xf0\x9f\x98\x82'
+p2851
+aS'i gotta ride transfer \xf0\x9f\x98\x82\xf0\x9f\x98\x91'
+p2852
+aS'slv or mck  most likely big blue \xf0\x9f\x92\x99'
+p2853
+aS'amp i dont wanna go back to brh \xf0\x9f\x98\x92'
+p2854
+aS'get all as amp get the fuck on '
+p2855
+aS'yall dont understand the hatred i have for the school i attend \xf0\x9f\x98\x92'
+p2856
+aS's4s  1k\xf0\x9f\x94\xa5'
+p2857
+aS'im to drove \xf0\x9f\x98\x91'
+p2858
+aS'we is watching fucking barney \xf0\x9f\x98\x91\xf0\x9f\x98\x91'
+p2859
+aS'mentorship never got school \xf0\x9f\x98\x92'
+p2860
+aS'when people ask why my shorts short cause bitch they shorts tf \xf0\x9f\x98\x92'
+p2861
+aS'the state fair coming up gt'
+p2862
+aS'ion like ios7  i would have 60 and now im on 20  bitchhhhhhhhhhhh'
+p2863
+aS'i aint talk to we inna while \xf0\x9f\x98\x95'
+p2864
+aS'\xf0\x9f\x98\xa9 i want chicken  '
+p2865
+aS'needa go to the nail shop'
+p2866
+aS'im the only who get on gta to steal cars and run over people \xf0\x9f\x91\x80'
+p2867
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80'
+p2868
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 great value syrup \xf0\x9f\x92\x80\xf0\x9f\x92\x80\xf0\x9f\x92\x80'
+p2869
+aS'this livened up twitter  cause it really was dead aab \xf0\x9f\x98\xac'
+p2870
+aS'\xf0\x9f\x98\x82 how you do that '
+p2871
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 wait i showed kedria the picture she said i bet he said \xf0\x9f\x8e\xb6 taste like candy \xf0\x9f\x8e\xb6'
+p2872
+aS'why thanks caa\xf0\x9f\x98\x82\xf0\x9f\x98\x91\xe2\x80\x9d of caaaaaawse \xf0\x9f\x98\x82'
+p2873
+aS'the weekend just started '
+p2874
+aS'why thanks caa\xf0\x9f\x98\x82\xf0\x9f\x98\x91'
+p2875
+aS'soooo what about them saints '
+p2876
+aS'im done '
+p2877
+aS'move tf around \xf0\x9f\x98\x92'
+p2878
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82yall finna debate about this  like lawrd  everybody is entitled to their own opinions '
+p2879
+aS'\xf0\x9f\x91\x80\xf0\x9f\x98\x82\xf0\x9f\x98\x82 '
+p2880
+aS' '
+p2881
+aS'oomf a tad angry \xf0\x9f\x91\x80'
+p2882
+aS'\xf0\x9f\x98\xa9\xf0\x9f\x98\x82 go take a nap'
+p2883
+aS'\xf0\x9f\x98\x82 i honestly dont care thats on yo body  '
+p2884
+aS'\xf0\x9f\x98\x82 yess we should all direct our attention to the holy book \xf0\x9f\x91\x90'
+p2885
+aS'it doesnt and people wonder why you cant get wifed \xf0\x9f\x98\x82\xf0\x9f\x91\x8b'
+p2886
+aS'its sunday let us pray \xf0\x9f\x91\x90'
+p2887
+aS'what is this foolishness you speak of \xf0\x9f\x98\xb3\xf0\x9f\x98\xa9 rt wait  who got ate out with chocolate \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\xa9'
+p2888
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xad go on insta  '
+p2889
+aS'you got ate with chocolate inna middle of a party huh'
+p2890
+aS'wait  who got ate out with chocolate \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\xa9'
+p2891
+aS'i need to watch lion king 2 '
+p2892
+aS'aint no shaking back from that \xf0\x9f\x98\x82 just take that l \xf0\x9f\x98\x82\xf0\x9f\x91\x90'
+p2893
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9\xf0\x9f\x9a\xb6'
+p2894
+aS'in the jungle the mighty jungle \xf0\x9f\x8e\xb6\xf0\x9f\x8e\xb6'
+p2895
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\xad\xf0\x9f\x98\xad im shaking back '
+p2896
+aS'there yaa go \xf0\x9f\x98\x82'
+p2897
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 like a decade and some years'
+p2898
+aS'thank you \xf0\x9f\x98\x98\xf0\x9f\x92\x81'
+p2899
+aS'avi though gt'
+p2900
+aS'\xf0\x9f\x98\x90\xf0\x9f\x98\x90 imma couple years behind '
+p2901
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\xad\xf0\x9f\x98\xad dont judge my life  this my first time watching it \xf0\x9f\x98\x95'
+p2902
+aS'i just cried for 5 mins straight \xf0\x9f\x98\xad they killed mofossa \xf0\x9f\x98\xad\xf0\x9f\x98\xad\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9'
+p2903
+aS'scar tryina get mofossa killed \xf0\x9f\x98\xa9'
+p2904
+aS'they sing in the lion king \xf0\x9f\x98\x91'
+p2905
+aS'finally about to watch lion king \xf0\x9f\x98\xa9'
+p2906
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82 im bout to start saving for college '
+p2907
+aS'i got 1 sock on\xf0\x9f\x98\x82\xf0\x9f\x98\xa9\xf0\x9f\x98\xa9'
+p2908
+aS'on my way back to lsu \xf0\x9f\x98\x91'
+p2909
+aS'when i move back home gtgt\xf0\x9f\x98\xad'
+p2910
+aS'i can type this but im to lazy to google it \xf0\x9f\x98\x82\xf0\x9f\x98\x91'
+p2911
+aS'what time is it in chicago \xf0\x9f\x98\xa9'
+p2912
+aS'\xf0\x9f\x92\x9c\xf0\x9f\x92\x9b'
+p2913
+aS'the iphone 5sampc screen cant break \xf0\x9f\x98\xa9'
+p2914
+aS'family aint even shit \xf0\x9f\x98\x82\xf0\x9f\x91\x8c'
+p2915
+aS'that badass 5s \xf0\x9f\x98\x8d'
+p2916
+aS'wedgie legup lilboy funny and nasty af'
+p2917
+aS'today i will only accomplish watching the game and attempting to get ass '
+p2918
+aS'throwback game day \xf0\x9f\x92\x9c\xf0\x9f\x92\x9b\xf0\x9f\x92\x9c\xf0\x9f\x92\x9b'
+p2919
+aS'welcome to louisianaalabama \xf0\x9f\x91\x8b'
+p2920
+aS'\xf0\x9f\x92\x9c\xf0\x9f\x92\x9b\xf0\x9f\x92\x9c\xf0\x9f\x92\x9b\xf0\x9f\x92\x9c\xf0\x9f\x92\x9b\xf0\x9f\x92\x9c\xf0\x9f\x92\x9b\xf0\x9f\x92\x9c\xf0\x9f\x92\x9b\xf0\x9f\x92\x9c\xf0\x9f\x92\x9b\xf0\x9f\x92\x9c'
+p2921
+aS'aint nobody fucking with my team\xf0\x9f\x92\x9c\xf0\x9f\x92\x9b'
+p2922
+aS'shatara made my boob hurt \xf0\x9f\x98\xa9'
+p2923
+aS'i wanna date a football player  so i could go to all his games amp get a jersey made amp what not \xf0\x9f\x98\x8d'
+p2924
+aS'i need at least 30 min of me and phone time '
+p2925
+aS'i never knew this \xf0\x9f\x98\xa9\xf0\x9f\x98\xa9'
+p2926
+aS'so ariana grande amp mac miller used big pun song still not a player for the way \xf0\x9f\x98\x95\xe2\x80\x9dlol duh lisha'
+p2927
+aS'yaaasss niagra \xf0\x9f\x98\x82 when they do that back bend grind thing \xf0\x9f\x98\x8d\xf0\x9f\x98\xa9\xe2\x80\x9d'
+p2928
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x92\x80\xf0\x9f\x92\x80'
+p2929
+aS'\xf0\x9f\x98\x82 when they do that back bend grind thing \xf0\x9f\x98\x8d\xf0\x9f\x98\xa9'
+p2930
+aS'nooo ig im the only one who finds drummajors attractive \xf0\x9f\x98\x90\xe2\x80\x9d'
+p2931
+aS'imma make friends with buku people so when i leave bhs everybody miss me \xf0\x9f\x98\x82'
+p2932
+aS'daddy came through \xf0\x9f\x92\x9e thats love '
+p2933
+aS'super tight '
+p2934
+aS'and ad \xf0\x9f\x98\x8b we cool'
+p2935
+aS'\xf0\x9f\x98\x82 edampmd\xf0\x9f\x91\xab'
+p2936
+aS'\xf0\x9f\x98\x82 you know you my only bae \xf0\x9f\x98\x98'
+p2937
+aS'id rather go to tara with bae \xf0\x9f\x98\x82\xf0\x9f\x91\x80\xe2\x80\x9d \xf0\x9f\x98\x91'
+p2938
+aS'ive said to much '
+p2939
+aS'id rather go to tara with bae \xf0\x9f\x98\x82\xf0\x9f\x91\x80'
+p2940
+aS'i wanna go home \xf0\x9f\x98\xa9'
+p2941
+aS'not our band players \xf0\x9f\x98\x94\xe2\x80\x9d \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p2942
+aS'not our band players \xf0\x9f\x98\x94'
+p2943
+aS'i find band players attractive '
+p2944
+aS'ig im the only one who finds drummajors attractive \xf0\x9f\x98\x90'
+p2945
+aS'broadmoor 44 belaire 0 final'
+p2946
+aS'lmaoooooooo i see you broadmoor  but i still dont claim yall \xf0\x9f\x91\x80\xf0\x9f\x91\x90'
+p2947
+aS'its a hard knock life in jayz song came from annie '
+p2948
+aS'like im mad about it \xf0\x9f\x91\x80'
+p2949
+aS'so ariana grande amp mac miller used big pun song still not a player for the way \xf0\x9f\x98\x95'
+p2950
+aS'that gotta be one special chicken '
+p2951
+aS'like tf '
+p2952
+aS'then they a dollar a chicken wing \xf0\x9f\x98\x90'
+p2953
+aS'not them unappetizing mighty wings \xf0\x9f\x98\x82'
+p2954
+aS'i want some mcdonalds \xf0\x9f\x98\x8d'
+p2955
+aS'its really levels to this shit \xf0\x9f\x91\x90'
+p2956
+aS'like he was beautiful '
+p2957
+aS'my god is awesome \xf0\x9f\x8e\xb6awsome \xf0\x9f\x8e\xb6'
+p2958
+aS'i knew god was gone come through \xf0\x9f\x91\x90'
+p2959
+aS'i just saw he finest dude in the whole wide word in my neighborhood \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d'
+p2960
+aS'broadmoor '
+p2961
+aS'\xf0\x9f\x91\x80 i defiantly will be calling monday '
+p2962
+aS'yall gotta gifted program'
+p2963
+aS'i kinda wanna go to slv \xf0\x9f\x91\x80'
+p2964
+aS'twitter update ltlt'
+p2965
+aS'puppy pitbulls\xf0\x9f\x98\x8d\xf0\x9f\x98\x8d'
+p2966
+aS'your following to follower ratio was inproportional \xf0\x9f\x98\x95'
+p2967
+aS'i got 6 more weeks to pull it up \xf0\x9f\x91\x90'
+p2968
+aS'i need all as to go to mck\xf0\x9f\x98\xad'
+p2969
+aS'i got all as and a c \xf0\x9f\x98\xa5'
+p2970
+aS'ios7 be draining a nigga battery fawkkk'
+p2971
+aS'oooooo yasss im going to kedria house amp cut the opposite of down \xf0\x9f\x91\x8b'
+p2972
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 bruhhh that pep rally was so poooooooo'
+p2973
+aS'im finally on time today'
+p2974
+aS'\xf0\x9f\x98\x8d\xf0\x9f\x91\x90'
+p2975
+aS'i been under the dryer for 2hours \xf0\x9f\x98\x92'
+p2976
+aS'october is always the best month'
+p2977
+aS'yall need to watch it '
+p2978
+aS'that really hurt my heart \xf0\x9f\x98\x9e'
+p2979
+aS'i just watched the crooked smile video \xf0\x9f\x98\xa2'
+p2980
+aS'i have butterflies \xf0\x9f\x98\x8c'
+p2981
+aS'like maybe there is hope for us\xf0\x9f\x92\x9e'
+p2982
+aS'that picture just chanced my whole attitude \xf0\x9f\x98\x8c\xf0\x9f\x98\x8a'
+p2983
+aS'my mama asked my sister what her boyfriend do  she said he a street pharmacies \xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p2984
+aS'just one of them days \xf0\x9f\x98\x95'
+p2985
+aS'dude your hair \xf0\x9f\x98\x8d\xf0\x9f\x98\x8d'
+p2986
+aS'hurry up winter \xf0\x9f\x98\x92'
+p2987
+aS'\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82\xf0\x9f\x98\x82 dude '
+p2988
+aS'i wanna go to lsu saturdayy '
+p2989
+aS'im feeling some way gets on vine'
+p2990
+aS'when non of your friends can relate \xf0\x9f\x98\x9e'
+p2991
+aS'\xf0\x9f\x98\x8a thanks'
+p2992
+aS'anthony never sent me the link \xf0\x9f\x98\xa9'
+p2993
+aS'i might go to brh tomorrow \xf0\x9f\x91\x80'
+p2994
+aS'i need a boyfriend \xf0\x9f\x98\x92'
+p2995
+aS'ios 7 looks much better on a iphone 5 \xf0\x9f\x91\x8c'
+p2996
+aS'facetime me \xf0\x9f\x98\xa9'
+p2997
+aS'delete the twitter app and download it again '
+p2998
+aS'they made the twitter app cute on ios7'
+p2999
+aS'android users like \xf0\x9f\x98\x82 \xf0\x9f\x98\x82\xf0\x9f\x98\x82'
+p3000
+aS'android users like \xf0\x9f\x98\x82'
+p3001
+aS'android users be like  its just an update \xf0\x9f\x98\x92'
+p3002
+aS'you just do you amp imma do me \xf0\x9f\x91\x90'
+p3003
+aS'all my followers tomorrow in class like '
+p3004
+aS'she said she gotta wait till school so she can use they wifi \xf0\x9f\x98\x82'
+p3005
+aS'\xf0\x9f\x98\x82yall gone be knocked out in class tomorrow  staying up for ios 7 '
+p3006
+aS'bounce it shake it '
+p3007
+aS'no parent should have to burry their child \xf0\x9f\x98\x94'
+p3008
+ag131
+aS'yall amp these versace chains '
+p3009
+aS'i really dont like my daddy'
+p3010
+aS'exactly '
+p3011
+aS'\xf0\x9f\x91\x80 kinda sorta'
+p3012
+aS'\xf0\x9f\x98\x82 but its trueeeee'
+p3013
+aS'bye '
+p3014
+aS'most of us are in love with the thought of being in love \xf0\x9f\x92\x9e'
+p3015
+aS'thanks \xf0\x9f\x99\x8c\xf0\x9f\x98\x8e'
+p3016
+aS'mcm \xf0\x9f\x98\x8d'
+p3017
+aS'\xf0\x9f\x92\xb8\xf0\x9f\x92\xb8\xf0\x9f\x92\xb8 if money could talk '
+p3018
+aS'she say she want some marvin gaye \xf0\x9f\x8e\xb6'
+p3019
+aS'tiana made me ghetto \xf0\x9f\x98\xa9'
+p3020
+aS'let me stfu \xf0\x9f\x98\x82'
+p3021
+aS'vote this person vote that person vote dis dick  \xf0\x9f\x91\x90'
+p3022
+aS'my bedmy tvmy air  \xf0\x9f\x98\x95'
+p3023
+aS'i wanna go home \xf0\x9f\x98\xa9\xf0\x9f\x98\xa9'
+p3024
+aS'we got court tomorrow'
+p3025
+as.
